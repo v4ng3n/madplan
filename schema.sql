@@ -5,3 +5,9 @@ CREATE TABLE IF NOT EXISTS checklist (
   updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
   PRIMARY KEY (week, item_id)
 );
+
+CREATE TABLE IF NOT EXISTS preferences (
+  id INTEGER PRIMARY KEY CHECK (id = 1),
+  selected_days TEXT NOT NULL,
+  updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
