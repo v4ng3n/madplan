@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS checklist (
+  week TEXT NOT NULL,
+  item_id TEXT NOT NULL,
+  checked INTEGER NOT NULL DEFAULT 0,
+  updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (week, item_id)
+);
