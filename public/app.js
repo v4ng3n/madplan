@@ -1,5 +1,14 @@
-const state={plan:null,checked:{},activeRecipe:0,poll:null,lastChecklistSignature:""};
+const state={
+  plan:null,
+  checked:{},
+  activeRecipe:0,
+  poll:null,
+  lastChecklistSignature:"",
+  selectedDays:[],
+  preferencesConfigured:false
+};
 
+const ALL_DAYS=["Mandag","Tirsdag","Onsdag","Torsdag","Fredag","Lørdag","Søndag"];
 const $=(selector)=>document.querySelector(selector);
 
 function escapeHtml(value=""){
@@ -58,6 +67,50 @@ async function setChecked(itemId,checked){
     setSync("Kunne ikke gemme","error");
     await loadChecklist(true);
   }
+}
+
+async function loadPreferences(){
+  const response=await fetch("/api/preferences",{cache:"no-store"});
+  if(!response.ok) throw new Error("Kunne ikke hente dagvalg");
+  const data=await response.json();
+
+  state.preferencesConfigured=Boolean(data.configured);
+  state.selectedDays=Array.isArray(data.selectedDays)?data.selectedDays:[];
+
+  if(!state.preferencesConfigured && state.plan){
+    state.selectedDays=state.plan.days.map((day)=>day.day);
+    await savePreferences(true);
+  }else{
+    renderPlanner();
+  }
+}
+
+async function savePreferences(silent=false){
+  const selected=ALL_DAYS.filter((day)=>state.selectedDays.includes(day));
+  if(selected.length<1){
+    if(!silent) $("#plannerStatus").textContent="Vælg mindst én dag.";
+    return false;
+  }
+
+  if(!silent) $("#plannerStatus").textContent="Gemmer…";
+
+  const response=await fetch("/api/preferences",{
+    method:"POST",
+    headers:{"content-type":"application/json"},
+    body:JSON.stringify({selectedDays:selected})
+  });
+
+  if(!response.ok){
+    if(!silent) $("#plannerStatus").textContent="Kunne ikke gemme dagene.";
+    return false;
+  }
+
+  state.preferencesConfigured=true;
+  state.selectedDays=selected;
+  renderPlanner();
+
+  if(!silent) $("#plannerStatus").textContent="Gemt og synkroniseret.";
+  return true;
 }
 
 function showView(name){
@@ -183,24 +236,57 @@ function renderRecipes(){
   html+='<p class="day-name">'+escapeHtml(day.day)+'</p>';
   html+='<h3>'+escapeHtml(day.dish)+'</h3>';
   html+='<p class="muted">'+escapeHtml(recipe.servings||"")+'</p>';
+
   if(recipe.childNote){
     html+='<div class="callout"><strong>Til barnet:</strong> '+escapeHtml(recipe.childNote)+'</div>';
   }
+
   html+='<h4>Ingredienser</h4><ul>';
   html+=(recipe.ingredients||[]).map((item)=>'<li>'+escapeHtml(item)+'</li>').join("");
   html+='</ul><h4>Sådan gør du</h4><ol>';
   html+=(recipe.steps||[]).map((step)=>'<li>'+escapeHtml(step)+'</li>').join("");
   html+='</ol>';
+
   if(recipe.leftovers){
     html+='<div class="callout"><strong>Gem til senere:</strong> '+escapeHtml(recipe.leftovers)+'</div>';
   }
+
   $("#recipeCard").innerHTML=html;
+}
+
+function renderPlanner(){
+  const root=$("#dayChoices");
+  if(!root) return;
+  root.innerHTML="";
+
+  for(const day of ALL_DAYS){
+    const label=document.createElement("label");
+    label.className="day-choice";
+
+    const checkbox=document.createElement("input");
+    checkbox.type="checkbox";
+    checkbox.value=day;
+    checkbox.checked=state.selectedDays.includes(day);
+    checkbox.addEventListener("change",()=>{
+      if(checkbox.checked){
+        if(!state.selectedDays.includes(day)) state.selectedDays.push(day);
+      }else{
+        state.selectedDays=state.selectedDays.filter((value)=>value!==day);
+      }
+    });
+
+    const span=document.createElement("span");
+    span.textContent=day;
+    label.append(checkbox,span);
+    root.appendChild(label);
+  }
 }
 
 function renderAll(){
   renderWeek();
   renderShopping();
   renderRecipes();
+  renderPlanner();
 }
 
 $(".tabs").addEventListener("click",(event)=>{
@@ -229,14 +315,22 @@ $("#clearChecked").addEventListener("click",async()=>{
   }
 });
 
+$("#plannerForm").addEventListener("submit",async(event)=>{
+  event.preventDefault();
+  await savePreferences(false);
+});
+
 document.addEventListener("visibilitychange",()=>{
-  if(document.visibilityState==="visible") loadChecklist(true);
+  if(document.visibilityState==="visible"){
+    loadChecklist(true);
+    loadPreferences().catch(()=>{});
+  }
 });
 
 (async()=>{
   try{
     await loadPlan();
-    await loadChecklist();
+    await Promise.all([loadChecklist(),loadPreferences()]);
     state.poll=setInterval(()=>loadChecklist(true),2000);
   }catch(error){
     setSync("Kunne ikke hente data","error");
