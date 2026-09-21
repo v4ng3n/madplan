@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="da">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f4f0e7">
+  <meta name="description" content="Familiens ugentlige madplan, opskrifter og fælles indkøbsliste.">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="icon" href="/icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/styles.css">
+  <title>Madplan</title>
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">Vangsted</p>
+      <h1>Madplan</h1>
+      <p id="weekLabel" class="muted">Henter ugens madplan…</p>
+    </div>
+    <div id="syncStatus" class="sync" aria-live="polite">Forbinder…</div>
+  </header>
+  <main class="shell">
+    <nav class="tabs" aria-label="Madplan">
+      <button class="tab active" data-view="week" type="button">Ugen</button>
+      <button class="tab" data-view="shopping" type="button">Indkøb</button>
+      <button class="tab" data-view="recipes" type="button">Opskrifter</button>
+    </nav>
+    <section id="weekView" class="view active" aria-label="Ugeoversigt">
+      <div id="weekGrid" class="week-grid"></div>
+    </section>
+    <section id="shoppingView" class="view" aria-label="Indkøbsliste">
+      <div class="section-head">
+        <div>
+          <h2>Indkøbsliste</h2>
+          <p id="shoppingProgress" class="muted"></p>
+        </div>
+        <button id="clearChecked" class="ghost-btn" type="button">Nulstil</button>
+      </div>
+      <div id="shoppingList"></div>
+    </section>
+    <section id="recipesView" class="view" aria-label="Opskrifter">
+      <div class="section-head">
+        <div>
+          <h2>Opskrifter</h2>
+          <p class="muted">Vælg en dag for at se opskriften.</p>
+        </div>
+      </div>
+      <div id="recipeTabs" class="recipe-tabs" role="tablist"></div>
+      <article id="recipeCard" class="recipe-card"></article>
+    </section>
+  </main>
+  <template id="dayCardTemplate">
+    <article class="day-card">
+      <div class="day-row">
+        <div>
+          <p class="day-name"></p>
+          <h3 class="dish-name"></h3>
+        </div>
+        <span class="badge"></span>
+      </div>
+      <p class="offer muted"></p>
+      <button class="recipe-link" type="button">Se opskrift →</button>
+    </article>
+  </template>
+  <script src="/app.js" defer></script>
+</body>
+</html>
