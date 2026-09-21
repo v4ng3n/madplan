@@ -1,0 +1,112 @@
+{
+  "week":"2026-W40",
+  "label":"Eksempeluge · 28. september – 4. oktober",
+  "days":[
+    {
+      "day":"Mandag",
+      "dish":"Cremet kyllingepasta med broccoli",
+      "type":"cook",
+      "offer":"Eksempeldata: kylling på tilbud i REMA 1000",
+      "recipe":{
+        "servings":"Ca. 6 portioner – resten bruges tirsdag",
+        "childNote":"Tag barnets portion fra før ekstra salt og peber.",
+        "ingredients":["700 g kyllingebryst","500 g pasta","1 broccoli","2,5 dl madlavningsfløde","1 løg","2 fed hvidløg","Parmesan efter smag"],
+        "steps":["Kog pastaen næsten mør.","Steg kylling i tern sammen med løg og hvidløg.","Tilsæt broccoli og fløde, og lad saucen simre.","Vend pastaen i og smag til. Server med parmesan."],
+        "leftovers":"Gem ca. halvdelen på køl til tirsdag."
+      }
+    },
+    {
+      "day":"Tirsdag",
+      "dish":"Rester af cremet kyllingepasta",
+      "type":"leftovers",
+      "offer":"Bruger mandagens kylling og broccoli"
+    },
+    {
+      "day":"Onsdag",
+      "dish":"Ovnbagte frikadeller med kartofler og gulerødder",
+      "type":"cook",
+      "offer":"Eksempeldata: hakket svinekød i 365discount",
+      "recipe":{
+        "servings":"2 voksne + 1 barn",
+        "childNote":"Lav farsen mildt krydret og giv evt. ekstra krydderi ved bordet.",
+        "ingredients":["500 g hakket svinekød","800 g kartofler","500 g gulerødder","1 æg","1 løg","1 dl mælk","3 spsk havregryn"],
+        "steps":["Sæt ovnen på 210 °C.","Skær kartofler og gulerødder i stykker og bag dem med lidt olie.","Rør farsen og form små frikadeller.","Bag frikadellerne de sidste ca. 20 minutter sammen med grøntsagerne."]
+      }
+    },
+    {
+      "day":"Torsdag",
+      "dish":"Tomatsuppe med grillede ostemadder",
+      "type":"cook",
+      "offer":"Eksempeldata: tomater og brød i Netto",
+      "recipe":{
+        "servings":"2 voksne + 1 barn",
+        "childNote":"Hold suppen mild; chili kan tilsættes de voksnes portion bagefter.",
+        "ingredients":["2 dåser hakkede tomater","1 løg","2 gulerødder","7 dl bouillon","Brød","Ost"],
+        "steps":["Svits løg og gulerødder.","Tilsæt tomat og bouillon og kog ca. 20 minutter.","Blend suppen glat.","Lav sprøde ostemadder og server til."]
+      }
+    },
+    {
+      "day":"Fredag",
+      "dish":"Tortillas med krydret oksekød og grønt",
+      "type":"cook",
+      "offer":"Eksempeldata: hakket oksekød i REMA 1000",
+      "recipe":{
+        "servings":"2 voksne + 1 barn",
+        "childNote":"Tag mildt kød fra til barnet før chili tilsættes.",
+        "ingredients":["400 g hakket oksekød","8 tortillas","1 peberfrugt","1 dåse majs","Salat","Yoghurt eller cremefraiche"],
+        "steps":["Brun kødet og krydr det.","Snit grøntsagerne.","Lun tortillas og stil fyldet på bordet, så alle kan samle selv."]
+      }
+    },
+    {
+      "day":"Lørdag",
+      "dish":"Kartoffel-porretærte med salat",
+      "type":"cook",
+      "offer":"Eksempeldata: porrer og æg i Netto",
+      "recipe":{
+        "servings":"2 voksne + 1 barn",
+        "childNote":"Velegnet som den er; vær blot forsigtig med salt.",
+        "ingredients":["1 tærtebund","500 g kartofler","2 porrer","4 æg","2 dl mælk","100 g revet ost","Salat"],
+        "steps":["Forkog kartoffelskiver kort.","Svits porrer let.","Fordel kartofler og porrer på tærtebunden.","Hæld æg, mælk og ost over og bag ved 190 °C ca. 30 minutter."]
+      }
+    },
+    {
+      "day":"Søndag",
+      "dish":"Rester / tøm køleskabet",
+      "type":"leftovers",
+      "offer":"Brug ugens rester og åbne pakker"
+    }
+  ],
+  "shopping":[
+    {
+      "store":"REMA 1000",
+      "items":[
+        {"id":"rema-chicken","name":"Kyllingebryst","amount":"700 g","note":"Til mandag + tirsdag"},
+        {"id":"rema-beef","name":"Hakket oksekød","amount":"400 g","note":"Til fredag"}
+      ]
+    },
+    {
+      "store":"Netto",
+      "items":[
+        {"id":"netto-bread","name":"Brød","amount":"1 stk.","note":"Til torsdag"},
+        {"id":"netto-leeks","name":"Porrer","amount":"2 stk.","note":"Til lørdag"}
+      ]
+    },
+    {
+      "store":"365discount",
+      "items":[
+        {"id":"365-pork","name":"Hakket svinekød","amount":"500 g","note":"Til onsdag"}
+      ]
+    },
+    {
+      "store":"Køb hvor det passer",
+      "items":[
+        {"id":"other-pasta","name":"Pasta","amount":"500 g"},
+        {"id":"other-broccoli","name":"Broccoli","amount":"1 stk."},
+        {"id":"other-potatoes","name":"Kartofler","amount":"1,3 kg"},
+        {"id":"other-carrots","name":"Gulerødder","amount":"1 kg"},
+        {"id":"other-eggs","name":"Æg","amount":"6 stk."},
+        {"id":"other-cheese","name":"Ost","amount":"ca. 300 g"}
+      ]
+    }
+  ]
+}
