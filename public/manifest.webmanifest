@@ -1,0 +1,19 @@
+{
+  "name":"Vangsted Madplan",
+  "short_name":"Madplan",
+  "description":"Familiens madplan og fælles indkøbsliste",
+  "start_url":"/",
+  "scope":"/",
+  "display":"standalone",
+  "background_color":"#f4f0e7",
+  "theme_color":"#f4f0e7",
+  "lang":"da",
+  "icons":[
+    {
+      "src":"/icon.svg",
+      "sizes":"any",
+      "type":"image/svg+xml",
+      "purpose":"any"
+    }
+  ]
+}
