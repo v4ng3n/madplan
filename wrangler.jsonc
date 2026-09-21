@@ -7,5 +7,12 @@
     "directory": "./public",
     "binding": "ASSETS",
     "run_worker_first": ["/api/*"]
-  }
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "madplan-db",
+      "database_id": "80033131-8207-42f2-aaf1-47ecc2d7f385"
+    }
+  ]
 }
