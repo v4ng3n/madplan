@@ -197,37 +197,6 @@
           "note": "Sauce + onsdag"
         }
       ]
-    },
-    {
-      "store": "Netto",
-      "items": [
-        {
-          "id": "w39-test-netto-spangsberg",
-          "name": "Spangsberg flødeboller",
-          "amount": "60 g",
-          "category": "pantry",
-          "note": "TEST · Tilbud: 10 kr. · gælder 19.–25. september",
-          "offerUrl": "https://netto.dk/netto-avisen/",
-          "offerImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FlwRHEK9t%2Fp-2.webp&w=1000&x1r=0.02&x2r=0.49&y1r=0.17&y2r=0.54&s=18f8e2d88afcd3079f02dc2dc0b36155",
-          "offerPage": 2
-        }
-      ]
-    },
-    {
-      "store": "365discount",
-      "items": [
-        {
-          "id": "w39-test-365-wipes",
-          "name": "Änglamark vådservietter",
-          "amount": "24 stk.",
-          "category": "household",
-          "note": "TEST · Tilbud: 4 kr. · gælder 17.–23. september",
-          "offerUrl": "https://365discount.coop.dk/365avis/",
-          "offerImage": "https://res.cloudinary.com/coopsverige/image/upload/e_sharpen%2Cf_auto%2Cfl_clip%2Cfl_progressive%2Cq_90%2Cc_lpad%2Cg_center%2Ch_660%2Cw_660/v1715675609/cloud/353711.jpg",
-          "offerImageType": "product",
-          "offerSource": "365discount offer verified 17.09-23.09.2026"
-        }
-      ]
     }
   ]
 }
