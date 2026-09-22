@@ -1,140 +1,20 @@
-const json=(data,status=200)=>new Response(JSON.stringify(data),{
-  status,
-  headers:{
-    "content-type":"application/json; charset=utf-8",
-    "cache-control":"no-store"
-  }
-});
-
+const json=(data,status=200)=>new Response(JSON.stringify(data),{status,headers:{"content-type":"application/json; charset=utf-8","cache-control":"no-store"}});
 const VALID_DAYS=["Mandag","Tirsdag","Onsdag","Torsdag","Fredag","Lørdag","Søndag"];
-
-async function ensurePreferencesTable(env){
-  await env.DB.prepare(
-    "CREATE TABLE IF NOT EXISTS preferences ("+
-    "id INTEGER PRIMARY KEY CHECK (id = 1),"+
-    "selected_days TEXT NOT NULL,"+
-    "updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP"+
-    ")"
-  ).run();
+async function ensureTables(env){
+ await env.DB.prepare("CREATE TABLE IF NOT EXISTS preferences (id INTEGER PRIMARY KEY CHECK (id=1),selected_days TEXT NOT NULL,updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP)").run();
+ await env.DB.prepare("CREATE TABLE IF NOT EXISTS manual_items (id INTEGER PRIMARY KEY AUTOINCREMENT,name TEXT NOT NULL,checked INTEGER NOT NULL DEFAULT 0,created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP)").run();
 }
-
-async function checklistGet(request,env){
-  if(!env.DB) return json({error:"D1 database is not configured yet"},503);
-  const url=new URL(request.url);
-  const week=url.searchParams.get("week");
-  if(!week) return json({error:"week is required"},400);
-
-  const result=await env.DB
-    .prepare("SELECT item_id, checked FROM checklist WHERE week = ?")
-    .bind(week)
-    .all();
-
-  return json({
-    week,
-    checked:Object.fromEntries(result.results.map((row)=>[row.item_id,Boolean(row.checked)]))
-  });
-}
-
-async function checklistPost(request,env){
-  if(!env.DB) return json({error:"D1 database is not configured yet"},503);
-  const body=await request.json().catch(()=>null);
-  if(
-    !body ||
-    typeof body.week!=="string" ||
-    typeof body.itemId!=="string" ||
-    typeof body.checked!=="boolean"
-  ){
-    return json({error:"invalid payload"},400);
-  }
-
-  await env.DB.prepare(
-    "INSERT INTO checklist (week,item_id,checked,updated_at) VALUES (?,?,?,datetime('now')) "+
-    "ON CONFLICT(week,item_id) DO UPDATE SET checked=excluded.checked,updated_at=datetime('now')"
-  )
-  .bind(body.week,body.itemId,body.checked?1:0)
-  .run();
-
-  return json({ok:true});
-}
-
-async function checklistDelete(request,env){
-  if(!env.DB) return json({error:"D1 database is not configured yet"},503);
-  const body=await request.json().catch(()=>null);
-  if(!body || typeof body.week!=="string"){
-    return json({error:"invalid payload"},400);
-  }
-
-  await env.DB
-    .prepare("DELETE FROM checklist WHERE week = ?")
-    .bind(body.week)
-    .run();
-
-  return json({ok:true});
-}
-
-async function preferencesGet(env){
-  if(!env.DB) return json({error:"D1 database is not configured yet"},503);
-  await ensurePreferencesTable(env);
-  const row=await env.DB.prepare(
-    "SELECT selected_days, updated_at FROM preferences WHERE id = 1"
-  ).first();
-
-  if(!row){
-    return json({configured:false,selectedDays:[]});
-  }
-
-  let selectedDays=[];
-  try{
-    selectedDays=JSON.parse(row.selected_days);
-  }catch{
-    selectedDays=[];
-  }
-
-  return json({
-    configured:true,
-    selectedDays:selectedDays.filter((day)=>VALID_DAYS.includes(day)),
-    updatedAt:row.updated_at
-  });
-}
-
-async function preferencesPost(request,env){
-  if(!env.DB) return json({error:"D1 database is not configured yet"},503);
-  await ensurePreferencesTable(env);
-  const body=await request.json().catch(()=>null);
-  if(!body || !Array.isArray(body.selectedDays)){
-    return json({error:"invalid payload"},400);
-  }
-
-  const selectedDays=VALID_DAYS.filter((day)=>body.selectedDays.includes(day));
-  if(selectedDays.length<1){
-    return json({error:"select at least one day"},400);
-  }
-
-  await env.DB.prepare(
-    "INSERT INTO preferences (id,selected_days,updated_at) VALUES (1,?,datetime('now')) "+
-    "ON CONFLICT(id) DO UPDATE SET selected_days=excluded.selected_days,updated_at=datetime('now')"
-  ).bind(JSON.stringify(selectedDays)).run();
-
-  return json({ok:true,selectedDays});
-}
-
-export default {
-  async fetch(request,env){
-    const url=new URL(request.url);
-
-    if(url.pathname==="/api/checklist"){
-      if(request.method==="GET") return checklistGet(request,env);
-      if(request.method==="POST") return checklistPost(request,env);
-      if(request.method==="DELETE") return checklistDelete(request,env);
-      return json({error:"method not allowed"},405);
-    }
-
-    if(url.pathname==="/api/preferences"){
-      if(request.method==="GET") return preferencesGet(env);
-      if(request.method==="POST") return preferencesPost(request,env);
-      return json({error:"method not allowed"},405);
-    }
-
-    return env.ASSETS.fetch(request);
-  }
-};
+async function checklistGet(request,env){const week=new URL(request.url).searchParams.get("week");if(!week)return json({error:"week is required"},400);const r=await env.DB.prepare("SELECT item_id,checked FROM checklist WHERE week=?").bind(week).all();return json({week,checked:Object.fromEntries(r.results.map(x=>[x.item_id,Boolean(x.checked)]))});}
+async function checklistPost(request,env){const b=await request.json().catch(()=>null);if(!b||typeof b.week!=="string"||typeof b.itemId!=="string"||typeof b.checked!=="boolean")return json({error:"invalid payload"},400);await env.DB.prepare("INSERT INTO checklist (week,item_id,checked,updated_at) VALUES (?,?,?,datetime('now')) ON CONFLICT(week,item_id) DO UPDATE SET checked=excluded.checked,updated_at=datetime('now')").bind(b.week,b.itemId,b.checked?1:0).run();return json({ok:true});}
+async function checklistDelete(request,env){const b=await request.json().catch(()=>null);if(!b||typeof b.week!=="string")return json({error:"invalid payload"},400);await env.DB.prepare("DELETE FROM checklist WHERE week=?").bind(b.week).run();return json({ok:true});}
+async function preferencesGet(env){await ensureTables(env);const row=await env.DB.prepare("SELECT selected_days,updated_at FROM preferences WHERE id=1").first();if(!row)return json({configured:false,selectedDays:[]});let d=[];try{d=JSON.parse(row.selected_days)}catch{}return json({configured:true,selectedDays:d.filter(x=>VALID_DAYS.includes(x)),updatedAt:row.updated_at});}
+async function preferencesPost(request,env){await ensureTables(env);const b=await request.json().catch(()=>null);if(!b||!Array.isArray(b.selectedDays))return json({error:"invalid payload"},400);const d=VALID_DAYS.filter(x=>b.selectedDays.includes(x));if(!d.length)return json({error:"select at least one day"},400);await env.DB.prepare("INSERT INTO preferences (id,selected_days,updated_at) VALUES (1,?,datetime('now')) ON CONFLICT(id) DO UPDATE SET selected_days=excluded.selected_days,updated_at=datetime('now')").bind(JSON.stringify(d)).run();return json({ok:true,selectedDays:d});}
+async function manualGet(env){await ensureTables(env);const r=await env.DB.prepare("SELECT id,name,checked FROM manual_items ORDER BY id").all();return json({items:r.results.map(x=>({...x,checked:Boolean(x.checked)}))});}
+async function manualPost(request,env){await ensureTables(env);const b=await request.json().catch(()=>null);const name=typeof b?.name==="string"?b.name.trim().slice(0,100):"";if(!name)return json({error:"name is required"},400);const r=await env.DB.prepare("INSERT INTO manual_items (name) VALUES (?) RETURNING id,name,checked").bind(name).first();return json({item:{...r,checked:false}},201);}
+async function manualPatch(request,env){await ensureTables(env);const b=await request.json().catch(()=>null);if(!Number.isInteger(b?.id)||typeof b.checked!=="boolean")return json({error:"invalid payload"},400);await env.DB.prepare("UPDATE manual_items SET checked=?,updated_at=datetime('now') WHERE id=?").bind(b.checked?1:0,b.id).run();return json({ok:true});}
+async function manualDelete(request,env){await ensureTables(env);const b=await request.json().catch(()=>null);if(!Number.isInteger(b?.id))return json({error:"invalid payload"},400);await env.DB.prepare("DELETE FROM manual_items WHERE id=?").bind(b.id).run();return json({ok:true});}
+export default{async fetch(request,env){if(!env.DB)return request.method==="GET"&&new URL(request.url).pathname.startsWith("/api/")?json({error:"database unavailable"},503):env.ASSETS.fetch(request);const u=new URL(request.url);
+ if(u.pathname==="/api/checklist"){if(request.method==="GET")return checklistGet(request,env);if(request.method==="POST")return checklistPost(request,env);if(request.method==="DELETE")return checklistDelete(request,env);}
+ if(u.pathname==="/api/preferences"){if(request.method==="GET")return preferencesGet(env);if(request.method==="POST")return preferencesPost(request,env);}
+ if(u.pathname==="/api/manual-items"){if(request.method==="GET")return manualGet(env);if(request.method==="POST")return manualPost(request,env);if(request.method==="PATCH")return manualPatch(request,env);if(request.method==="DELETE")return manualDelete(request,env);}
+ if(u.pathname.startsWith("/api/"))return json({error:"method not allowed"},405);return env.ASSETS.fetch(request);}};
