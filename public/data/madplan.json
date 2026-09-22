@@ -1,30 +1,202 @@
 {
- "week":"2026-W39-trial-2026-09-21-23","label":"Mandag 21. – onsdag 23. september","generated_at":"2026-09-21T15:00:00+02:00",
- "offers":[
-  {"store":"REMA 1000","url":"https://rema1000.dk/avis"},
-  {"store":"Netto","url":"https://netto.dk/netto-avisen/"},
-  {"store":"365discount","url":"https://365discount.coop.dk/365avis/"}
- ],
- "days":[
-  {"day":"Mandag","dish":"Ovnbagt kylling med kartofler, gulerødder og hvidløgscreme","type":"cook","offer":"REMA 1000: kyllingelårfilet 400 g til 29 kr. og Buko Garlic 125 g til 9 kr.","recipe":{"servings":"Lav ca. 5 portioner – gem kylling til tirsdag","childNote":"Tag en portion kylling og grønt fra før ekstra salt. Skær kødet og grøntsagerne i passende små stykker.","ingredients":["800 g kyllingelårfilet","ca. 900 g kartofler","ca. 500 g gulerødder","ca. 80 g Buko Garlic","1 spsk olie","Paprika og oregano","Salt og peber"],"steps":["Tænd ovnen på 210 °C varmluft.","Skær kartofler og gulerødder i mundrette stykker. Vend dem med olie, paprika og oregano og bag dem ca. 20 minutter.","Læg kyllingelårfileterne på pladen og bag videre i ca. 20-25 minutter, til kyllingen er gennemstegt.","Rør Buko Garlic med en smule vand eller mælk til en blød creme og server til.","Læg 250-300 g af den færdige kylling til side til tirsdag, inden resten serveres."],"leftovers":"Gem 250-300 g tilberedt kylling på køl til tirsdag."}},
-  {"day":"Tirsdag","dish":"Kyllingeburritos med kidneybønner, gulerod og cheddar","type":"leftovers","offer":"REMA 1000: kidneybønner til 6 kr. og revet cheddar 150 g til 12 kr. – plus mandagens kyllingerester.","recipe":{"servings":"2 voksne + 1 barn","childNote":"Server gerne barnets burrito adskilt: mild kylling, bønner, revet gulerod, lidt ost og tortilla i små stykker.","useFromBefore":"250-300 g tilberedt kylling fra mandag.","ingredients":["250-300 g tilberedt kylling fra mandag","6 fuldkornstortillas","1 dåse kidneybønner, drænet","ca. 200 g gulerødder, groftrevet","150 g revet cheddar","ca. 45 g Buko Garlic","Evt. lidt paprika eller spidskommen"],"steps":["Riv gulerødderne og skyl kidneybønnerne.","Skær eller pluk kyllingen i mindre stykker og varm den forsigtigt på en pande sammen med bønnerne.","Lun tortillas. Smør dem med lidt Buko Garlic og fyld med kylling, bønner, gulerod og cheddar.","Rul sammen og server med ekstra gulerod ved siden af."]}},
-  {"day":"Onsdag","dish":"Svensk pølseret med gulerødder","type":"cook","offer":"REMA 1000: Langelænder pølser 220 g til 10 kr.","recipe":{"servings":"2 voksne + 1 barn","childNote":"Retten kan laves mild fra starten. Tag barnets portion fra før den endelige saltning.","ingredients":["220 g Langelænder wiener- eller grillpølser","ca. 600 g kartofler","ca. 250 g gulerødder","1 løg","ca. 70 g tomatpuré","2 dl mælk","1 tsk paprika","Salt og peber"],"steps":["Kog kartoflerne næsten møre og skær dem i grove tern.","Skær pølser og gulerødder i skiver og hak løget.","Svits løg, gulerødder og pølser i en gryde. Tilsæt paprika og tomatpuré.","Tilsæt mælk og kartofler og lad retten simre 5-10 minutter, til den er cremet og gulerødderne er møre.","Smag de voksnes portion til med salt og peber."]}}
- ],
- "shopping":[
-  {"store":"REMA 1000","items":[
-   {"id":"w39-rema-carrots","name":"Gulerødder","amount":"1 kg","category":"produce","note":"Tilbud: 6 kr. · bruges alle tre dage","offerUrl":"https://rema1000.dk/avis"},
-   {"id":"w39-rema-chicken","name":"Kyllingelårfilet","amount":"2 × 400 g","category":"meat","note":"Tilbud: 29 kr. pr. pakke · mandag + tirsdag","offerUrl":"https://rema1000.dk/avis"},
-   {"id":"w39-rema-sausage","name":"Langelænder pølser","amount":"220 g","category":"meat","note":"Tilbud: 10 kr. · onsdag","offerUrl":"https://rema1000.dk/avis"},
-   {"id":"w39-rema-beans","name":"Kidneybønner","amount":"1 dåse","category":"pantry","note":"Tilbud: 6 kr. · tirsdag","offerUrl":"https://rema1000.dk/avis"},
-   {"id":"w39-rema-buko","name":"Buko Garlic","amount":"125 g","category":"dairy","note":"Tilbud: 9 kr. · mandag + tirsdag","offerUrl":"https://rema1000.dk/avis"},
-   {"id":"w39-rema-cheddar","name":"Revet cheddar","amount":"150 g","category":"dairy","note":"Tilbud: 12 kr. · tirsdag","offerUrl":"https://rema1000.dk/avis"}
-  ]},
-  {"store":"Køb hvor det passer","items":[
-   {"id":"w39-other-potatoes","name":"Kartofler","amount":"ca. 1,5 kg","category":"produce","note":"Mandag + onsdag"},
-   {"id":"w39-other-onion","name":"Løg","amount":"1 stk.","category":"produce","note":"Onsdag"},
-   {"id":"w39-other-tortillas","name":"Fuldkornstortillas","amount":"6 stk.","category":"bread","note":"Tirsdag"},
-   {"id":"w39-other-tomatopuree","name":"Tomatpuré","amount":"ca. 70 g","category":"pantry","note":"Onsdag"},
-   {"id":"w39-other-milk","name":"Mælk","amount":"ca. 2,5 dl","category":"dairy","note":"Sauce + onsdag"}
-  ]}
- ]
+  "week": "2026-W39-trial-2026-09-21-23",
+  "label": "Mandag 21. – onsdag 23. september",
+  "generated_at": "2026-09-21T15:00:00+02:00",
+  "offers": [
+    {
+      "store": "REMA 1000",
+      "url": "https://rema1000.dk/avis"
+    },
+    {
+      "store": "Netto",
+      "url": "https://netto.dk/netto-avisen/"
+    },
+    {
+      "store": "365discount",
+      "url": "https://365discount.coop.dk/365avis/"
+    }
+  ],
+  "days": [
+    {
+      "day": "Mandag",
+      "dish": "Ovnbagt kylling med kartofler, gulerødder og hvidløgscreme",
+      "type": "cook",
+      "offer": "REMA 1000: kyllingelårfilet 400 g til 29 kr. og Buko Garlic 125 g til 9 kr.",
+      "recipe": {
+        "servings": "Lav ca. 5 portioner – gem kylling til tirsdag",
+        "childNote": "Tag en portion kylling og grønt fra før ekstra salt. Skær kødet og grøntsagerne i passende små stykker.",
+        "ingredients": [
+          "800 g kyllingelårfilet",
+          "ca. 900 g kartofler",
+          "ca. 500 g gulerødder",
+          "ca. 80 g Buko Garlic",
+          "1 spsk olie",
+          "Paprika og oregano",
+          "Salt og peber"
+        ],
+        "steps": [
+          "Tænd ovnen på 210 °C varmluft.",
+          "Skær kartofler og gulerødder i mundrette stykker. Vend dem med olie, paprika og oregano og bag dem ca. 20 minutter.",
+          "Læg kyllingelårfileterne på pladen og bag videre i ca. 20-25 minutter, til kyllingen er gennemstegt.",
+          "Rør Buko Garlic med en smule vand eller mælk til en blød creme og server til.",
+          "Læg 250-300 g af den færdige kylling til side til tirsdag, inden resten serveres."
+        ],
+        "leftovers": "Gem 250-300 g tilberedt kylling på køl til tirsdag."
+      }
+    },
+    {
+      "day": "Tirsdag",
+      "dish": "Kyllingeburritos med kidneybønner, gulerod og cheddar",
+      "type": "leftovers",
+      "offer": "REMA 1000: kidneybønner til 6 kr. og revet cheddar 150 g til 12 kr. – plus mandagens kyllingerester.",
+      "recipe": {
+        "servings": "2 voksne + 1 barn",
+        "childNote": "Server gerne barnets burrito adskilt: mild kylling, bønner, revet gulerod, lidt ost og tortilla i små stykker.",
+        "useFromBefore": "250-300 g tilberedt kylling fra mandag.",
+        "ingredients": [
+          "250-300 g tilberedt kylling fra mandag",
+          "6 fuldkornstortillas",
+          "1 dåse kidneybønner, drænet",
+          "ca. 200 g gulerødder, groftrevet",
+          "150 g revet cheddar",
+          "ca. 45 g Buko Garlic",
+          "Evt. lidt paprika eller spidskommen"
+        ],
+        "steps": [
+          "Riv gulerødderne og skyl kidneybønnerne.",
+          "Skær eller pluk kyllingen i mindre stykker og varm den forsigtigt på en pande sammen med bønnerne.",
+          "Lun tortillas. Smør dem med lidt Buko Garlic og fyld med kylling, bønner, gulerod og cheddar.",
+          "Rul sammen og server med ekstra gulerod ved siden af."
+        ]
+      }
+    },
+    {
+      "day": "Onsdag",
+      "dish": "Svensk pølseret med gulerødder",
+      "type": "cook",
+      "offer": "REMA 1000: Langelænder pølser 220 g til 10 kr.",
+      "recipe": {
+        "servings": "2 voksne + 1 barn",
+        "childNote": "Retten kan laves mild fra starten. Tag barnets portion fra før den endelige saltning.",
+        "ingredients": [
+          "220 g Langelænder wiener- eller grillpølser",
+          "ca. 600 g kartofler",
+          "ca. 250 g gulerødder",
+          "1 løg",
+          "ca. 70 g tomatpuré",
+          "2 dl mælk",
+          "1 tsk paprika",
+          "Salt og peber"
+        ],
+        "steps": [
+          "Kog kartoflerne næsten møre og skær dem i grove tern.",
+          "Skær pølser og gulerødder i skiver og hak løget.",
+          "Svits løg, gulerødder og pølser i en gryde. Tilsæt paprika og tomatpuré.",
+          "Tilsæt mælk og kartofler og lad retten simre 5-10 minutter, til den er cremet og gulerødderne er møre.",
+          "Smag de voksnes portion til med salt og peber."
+        ]
+      }
+    }
+  ],
+  "shopping": [
+    {
+      "store": "REMA 1000",
+      "items": [
+        {
+          "id": "w39-rema-carrots",
+          "name": "Gulerødder",
+          "amount": "1 kg",
+          "category": "produce",
+          "note": "Tilbud: 6 kr. · bruges alle tre dage",
+          "offerUrl": "https://rema1000.dk/avis",
+          "offerImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0PYIjcFX%2Fp-9.webp&w=1000&x1r=0.02&x2r=0.98&y1r=0.02&y2r=0.48&s=6d495a464e4c90bb761d192c263055ba",
+          "offerPage": 9
+        },
+        {
+          "id": "w39-rema-chicken",
+          "name": "Kyllingelårfilet",
+          "amount": "2 × 400 g",
+          "category": "meat",
+          "note": "Tilbud: 29 kr. pr. pakke · mandag + tirsdag",
+          "offerUrl": "https://rema1000.dk/avis",
+          "offerImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0PYIjcFX%2Fp-6.webp&w=1000&x1r=0&x2r=0.501&y1r=0.457&y2r=0.735&s=9d18f954d05555d81b7b28fa5d5ff651",
+          "offerPage": 6
+        },
+        {
+          "id": "w39-rema-sausage",
+          "name": "Langelænder pølser",
+          "amount": "220 g",
+          "category": "meat",
+          "note": "Tilbud: 10 kr. · onsdag",
+          "offerUrl": "https://rema1000.dk/avis",
+          "offerImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FIcwDlNUv%2Fp-1.webp&w=1000&x1r=0.014&x2r=0.496&y1r=0.148&y2r=0.43&s=d07eb7b0266cbdc76828c365896e0629",
+          "offerPage": 1
+        },
+        {
+          "id": "w39-rema-beans",
+          "name": "Kidneybønner",
+          "amount": "1 dåse",
+          "category": "pantry",
+          "note": "Tilbud: 6 kr. · tirsdag",
+          "offerUrl": "https://rema1000.dk/avis",
+          "offerImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0PYIjcFX%2Fp-15.webp&w=1000&x1r=0.46&x2r=0.985&y1r=0.081&y2r=0.698&s=050dca2e3e60210ab659a375cd00aff1",
+          "offerPage": 15
+        },
+        {
+          "id": "w39-rema-buko",
+          "name": "Buko Garlic",
+          "amount": "125 g",
+          "category": "dairy",
+          "note": "Tilbud: 9 kr. · mandag + tirsdag"
+        },
+        {
+          "id": "w39-rema-cheddar",
+          "name": "Revet cheddar",
+          "amount": "150 g",
+          "category": "dairy",
+          "note": "Tilbud: 12 kr. · tirsdag"
+        }
+      ]
+    },
+    {
+      "store": "Køb hvor det passer",
+      "items": [
+        {
+          "id": "w39-other-potatoes",
+          "name": "Kartofler",
+          "amount": "ca. 1,5 kg",
+          "category": "produce",
+          "note": "Mandag + onsdag"
+        },
+        {
+          "id": "w39-other-onion",
+          "name": "Løg",
+          "amount": "1 stk.",
+          "category": "produce",
+          "note": "Onsdag"
+        },
+        {
+          "id": "w39-other-tortillas",
+          "name": "Fuldkornstortillas",
+          "amount": "6 stk.",
+          "category": "bread",
+          "note": "Tirsdag"
+        },
+        {
+          "id": "w39-other-tomatopuree",
+          "name": "Tomatpuré",
+          "amount": "ca. 70 g",
+          "category": "pantry",
+          "note": "Onsdag"
+        },
+        {
+          "id": "w39-other-milk",
+          "name": "Mælk",
+          "amount": "ca. 2,5 dl",
+          "category": "dairy",
+          "note": "Sauce + onsdag"
+        }
+      ]
+    }
+  ]
 }
