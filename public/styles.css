@@ -15,3 +15,5 @@
 
 .flyer-deals{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:14px 0 18px}.flyer-deal{overflow:hidden;border:1px solid var(--line);border-radius:15px;background:#fff}.flyer-deal.focused{outline:3px solid var(--accent);outline-offset:2px}.flyer-meta{padding:11px 12px}.flyer-meta small{display:block;margin-top:3px;color:var(--muted);font-size:.78rem}.flyer-deal img{display:block;width:100%;height:auto;background:#f7f7f7}
 @media(max-width:560px){.flyer-deals{grid-template-columns:1fr}}
+
+.recipe-tools{display:flex;align-items:center;gap:10px;margin:0 0 10px}.wake-btn{min-height:42px;padding:0 13px;border:1px solid var(--line);border-radius:13px;background:var(--card);color:var(--text);font-weight:760;cursor:pointer}.wake-btn.active{border-color:var(--accent);background:var(--accent-soft);color:var(--accent)}.wake-btn:disabled{opacity:.55;cursor:default}.wake-status{font-size:.78rem}
