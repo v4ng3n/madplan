@@ -1,7 +1,7 @@
 {
   "week": "2026-W40",
   "label": "Mandag 28. september – søndag 4. oktober",
-  "generated_at": "2026-09-27T08:10:00+02:00",
+  "generated_at": "2026-09-27T11:19:00+02:00",
   "offers": [
     {
       "store": "REMA 1000",
@@ -19,142 +19,203 @@
   "days": [
     {
       "day": "Mandag",
-      "dish": "Ovnbagt kylling med kartofler, gulerødder og hvidløgscreme",
+      "dish": "Kyllingekebab i lune pitabrød med sprød kålsalat og yoghurtdressing",
       "type": "cook",
-      "offer": "REMA 1000: kyllingelårfilet 400 g til 29 kr. og Buko Garlic 125 g til 9 kr.",
-      "recipe": {
-        "servings": "Lav ca. 5 portioner – gem kylling til tirsdag",
-        "childNote": "Tag en portion kylling og grønt fra før ekstra salt. Skær kødet og grøntsagerne i passende små stykker.",
-        "ingredients": [
-          "800 g kyllingelårfilet",
-          "ca. 900 g kartofler",
-          "ca. 500 g gulerødder",
-          "ca. 80 g Buko Garlic",
-          "1 spsk olie",
-          "Paprika og oregano",
-          "Salt og peber"
-        ],
-        "steps": [
-          "Tænd ovnen på 210 °C varmluft.",
-          "Skær kartofler og gulerødder i mundrette stykker. Vend dem med olie, paprika og oregano og bag dem ca. 20 minutter.",
-          "Læg kyllingelårfileterne på pladen og bag videre i ca. 20-25 minutter, til kyllingen er gennemstegt.",
-          "Rør Buko Garlic med en smule vand eller mælk til en blød creme og server til.",
-          "Læg 250-300 g af den færdige kylling til side til tirsdag, inden resten serveres."
-        ],
-        "leftovers": "Gem 250-300 g tilberedt kylling på køl til tirsdag."
-      }
-    },
-    {
-      "day": "Tirsdag",
-      "dish": "Kyllingeburritos med kidneybønner, gulerod og cheddar",
-      "type": "leftovers",
-      "offer": "REMA 1000: kidneybønner til 6 kr. og revet cheddar 150 g til 12 kr. – plus mandagens kyllingerester.",
+      "offer": "Netto: Bistronne kyllingekebab til 22 kr. i avisen 26. september–2. oktober.",
       "recipe": {
         "servings": "2 voksne + 1 barn",
-        "childNote": "Server gerne barnets burrito adskilt: mild kylling, bønner, revet gulerod, lidt ost og tortilla i små stykker.",
-        "useFromBefore": "250-300 g tilberedt kylling fra mandag.",
+        "childNote": "Server fyldet hver for sig til barnet, og hold chilien helt ude af barnets portion.",
         "ingredients": [
-          "250-300 g tilberedt kylling fra mandag",
-          "6 fuldkornstortillas",
-          "1 dåse kidneybønner, drænet",
-          "ca. 200 g gulerødder, groftrevet",
-          "150 g revet cheddar",
-          "ca. 45 g Buko Garlic",
-          "Evt. lidt paprika eller spidskommen"
+          "2 pakker Bistronne kyllingekebab",
+          "5 pitabrød",
+          "300 g spidskål",
+          "2 gulerødder",
+          "1/2 agurk",
+          "200 g yoghurt naturel",
+          "1/2 citron",
+          "1 spsk olie"
         ],
         "steps": [
-          "Riv gulerødderne og skyl kidneybønnerne.",
-          "Skær eller pluk kyllingen i mindre stykker og varm den forsigtigt på en pande sammen med bønnerne.",
-          "Lun tortillas. Smør dem med lidt Buko Garlic og fyld med kylling, bønner, gulerod og cheddar.",
-          "Rul sammen og server med ekstra gulerod ved siden af."
+          "Snit spidskålen fint, riv gulerødderne og skær agurken i små tern.",
+          "Rør yoghurt med citronsaft og lidt peber.",
+          "Varm kyllingekebaben grundigt på en pande.",
+          "Lun pitabrødene og fyld dem med kylling, grønt og dressing."
         ]
       }
     },
     {
-      "day": "Onsdag",
-      "dish": "Svensk pølseret med gulerødder",
+      "day": "Tirsdag",
+      "dish": "Cremet tomatpasta med røde linser og grøntsager",
       "type": "cook",
-      "offer": "REMA 1000: Langelænder pølser 220 g til 10 kr.",
+      "offer": "",
       "recipe": {
-        "servings": "2 voksne + 1 barn",
-        "childNote": "Retten kan laves mild fra starten. Tag barnets portion fra før den endelige saltning.",
+        "servings": "2 voksne + 1 barn + rester til onsdag",
+        "childNote": "Retten er mild og blød. Tag barnets portion fra før ekstra salt.",
         "ingredients": [
-          "220 g Langelænder wiener- eller grillpølser",
-          "ca. 600 g kartofler",
-          "ca. 250 g gulerødder",
+          "350 g pasta",
+          "150 g røde linser",
           "1 løg",
-          "ca. 70 g tomatpuré",
-          "2 dl mælk",
-          "1 tsk paprika",
-          "Salt og peber"
+          "2 gulerødder",
+          "1 squash",
+          "2 dåser hakkede tomater",
+          "1 dl madlavningsfløde",
+          "1 tsk oregano",
+          "1 spsk olie"
         ],
         "steps": [
-          "Kog kartoflerne næsten møre og skær dem i grove tern.",
-          "Skær pølser og gulerødder i skiver og hak løget.",
-          "Svits løg, gulerødder og pølser i en gryde. Tilsæt paprika og tomatpuré.",
-          "Tilsæt mælk og kartofler og lad retten simre 5-10 minutter, til den er cremet og gulerødderne er møre.",
-          "Smag de voksnes portion til med salt og peber."
+          "Hak løget, riv gulerødderne og skær squashen i små tern.",
+          "Svits grøntsagerne i olie 4-5 minutter.",
+          "Tilsæt hakkede tomater, linser og oregano og lad saucen simre ca. 20 minutter, til linserne er møre.",
+          "Kog pastaen og vend den med saucen og madlavningsfløden.",
+          "Læg ca. 3 portioner til side til onsdag, før resten serveres."
+        ],
+        "leftovers": "Gem ca. 3 portioner færdig tomatpasta på køl til onsdag."
+      }
+    },
+    {
+      "day": "Onsdag",
+      "dish": "Pastagratin med mozzarella og tirsdagens tomatpasta",
+      "type": "leftovers",
+      "offer": "",
+      "recipe": {
+        "servings": "2 voksne + 1 barn",
+        "childNote": "En mild restemadsret; lad gratinen køle lidt og skær barnets portion i små stykker.",
+        "useFromBefore": "Ca. 3 portioner færdig tomatpasta fra tirsdag.",
+        "ingredients": [
+          "ca. 3 portioner færdig tomatpasta fra tirsdag",
+          "125 g mozzarella",
+          "100 g frosne ærter",
+          "1 spsk rasp"
+        ],
+        "steps": [
+          "Tænd ovnen på 200 °C varmluft.",
+          "Vend tomatpastaen med ærterne og fordel den i et lille ovnfast fad.",
+          "Riv mozzarellaen over og drys med rasp.",
+          "Bag 15-20 minutter, til gratinen er gennemvarm og gylden."
+        ]
+      }
+    },
+    {
+      "day": "Torsdag",
+      "dish": "Ovnbagt kuller med kartofler, broccoli og citronyoghurt",
+      "type": "cook",
+      "offer": "",
+      "recipe": {
+        "servings": "2 voksne + 1 barn",
+        "childNote": "Tjek fisken grundigt for ben. Server uden ekstra salt til barnet.",
+        "ingredients": [
+          "450 g kullerfilet",
+          "800 g kartofler",
+          "1 broccoli",
+          "150 g yoghurt naturel",
+          "1/2 citron",
+          "1 spsk olie",
+          "1 tsk tørret dild"
+        ],
+        "steps": [
+          "Tænd ovnen på 210 °C varmluft.",
+          "Skær kartoflerne i både, vend dem med olie og bag dem 25 minutter.",
+          "Del broccolien i buketter, læg dem og fisken på pladen og bag videre 12-15 minutter, til fisken deler sig let.",
+          "Rør yoghurt med citron og dild og server til."
+        ]
+      }
+    },
+    {
+      "day": "Fredag",
+      "dish": "Milde tacos med oksekød, bønner og grønt",
+      "type": "cook",
+      "offer": "",
+      "recipe": {
+        "servings": "2 voksne + 1 barn",
+        "childNote": "Tag lidt mildt kød og bønner fra før krydring og server tortilla og grønt separat.",
+        "ingredients": [
+          "400 g hakket oksekød",
+          "1 dåse kidneybønner",
+          "8 små tortillas",
+          "1 løg",
+          "2 gulerødder",
+          "1/2 agurk",
+          "150 g majs",
+          "100 g yoghurt naturel",
+          "1 tsk paprika",
+          "1 tsk spidskommen"
+        ],
+        "steps": [
+          "Hak løget, riv gulerødderne og skær agurken i små tern.",
+          "Brun kødet med løget, tilsæt bønner, paprika og spidskommen og varm det igennem.",
+          "Lun tortillas og sæt grønt, majs og yoghurt på bordet.",
+          "Fyld tortillas ved bordet, så alle kan sammensætte deres egen."
+        ]
+      }
+    },
+    {
+      "day": "Lørdag",
+      "dish": "Kyllingefrikadeller med ovnkartofler og råkost",
+      "type": "cook",
+      "offer": "",
+      "recipe": {
+        "servings": "2 voksne + 1 barn + frikadeller til søndag",
+        "childNote": "Lav farsen mildt krydret og skær frikadellen i små bidder til barnet.",
+        "ingredients": [
+          "800 g hakket kylling",
+          "1 æg",
+          "1 dl havregryn",
+          "1 dl mælk",
+          "1 lille løg",
+          "900 g kartofler",
+          "3 gulerødder",
+          "1 æble",
+          "1 spsk olie"
+        ],
+        "steps": [
+          "Tænd ovnen på 210 °C varmluft og bag kartoffelbåde vendt med olie i ca. 35 minutter.",
+          "Rør kylling med æg, havregryn, mælk og fintrevet løg.",
+          "Form små frikadeller og steg dem gennemstegte på en pande.",
+          "Riv gulerødder og æble til råkost.",
+          "Læg 5-6 færdige kyllingefrikadeller på køl til søndag."
+        ],
+        "leftovers": "Gem 5-6 færdige kyllingefrikadeller på køl til søndag."
+      }
+    },
+    {
+      "day": "Søndag",
+      "dish": "Fladbrødspizza med kyllingefrikadeller, grønt og mozzarella",
+      "type": "leftovers",
+      "offer": "",
+      "recipe": {
+        "servings": "2 voksne + 1 barn",
+        "childNote": "Lav barnets pizza med et tyndt lag tomat og moderate mængder ost; skær den i små stykker.",
+        "useFromBefore": "5-6 færdige kyllingefrikadeller fra lørdag.",
+        "ingredients": [
+          "5-6 færdige kyllingefrikadeller fra lørdag",
+          "4 fladbrød",
+          "200 g passata",
+          "125 g mozzarella",
+          "1/2 squash",
+          "1/2 løg",
+          "1 tsk oregano"
+        ],
+        "steps": [
+          "Tænd ovnen på 220 °C varmluft.",
+          "Fordel passata på fladbrødene.",
+          "Skær frikadellerne i skiver, squashen tyndt og løget fint og fordel det på pizzaerne.",
+          "Top med mozzarella og oregano og bag 8-10 minutter, til kanten er sprød og osten smeltet."
         ]
       }
     }
   ],
   "shopping": [
     {
-      "store": "REMA 1000",
+      "store": "Netto",
       "items": [
         {
-          "id": "w39-rema-carrots",
-          "name": "Gulerødder",
-          "amount": "1 kg",
-          "category": "produce",
-          "note": "Tilbud: 6 kr. · bruges alle tre dage",
-          "offerUrl": "https://rema1000.dk/avis",
-          "offerImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0PYIjcFX%2Fp-9.webp&w=1000&x1r=0.02&x2r=0.98&y1r=0.02&y2r=0.48&s=6d495a464e4c90bb761d192c263055ba",
-          "offerPage": 9
-        },
-        {
-          "id": "w39-rema-chicken",
-          "name": "Kyllingelårfilet",
-          "amount": "2 × 400 g",
+          "id": "w40-netto-kebab",
+          "name": "Bistronne kyllingekebab",
+          "amount": "2 pakker",
           "category": "meat",
-          "note": "Tilbud: 29 kr. pr. pakke · mandag + tirsdag",
-          "offerUrl": "https://rema1000.dk/avis",
-          "offerImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0PYIjcFX%2Fp-6.webp&w=1000&x1r=0&x2r=0.501&y1r=0.457&y2r=0.735&s=9d18f954d05555d81b7b28fa5d5ff651",
-          "offerPage": 6
-        },
-        {
-          "id": "w39-rema-sausage",
-          "name": "Langelænder pølser",
-          "amount": "220 g",
-          "category": "meat",
-          "note": "Tilbud: 10 kr. · onsdag",
-          "offerUrl": "https://rema1000.dk/avis",
-          "offerImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FIcwDlNUv%2Fp-1.webp&w=1000&x1r=0.014&x2r=0.496&y1r=0.148&y2r=0.43&s=d07eb7b0266cbdc76828c365896e0629",
-          "offerPage": 1
-        },
-        {
-          "id": "w39-rema-beans",
-          "name": "Kidneybønner",
-          "amount": "1 dåse",
-          "category": "pantry",
-          "note": "Tilbud: 6 kr. · tirsdag",
-          "offerUrl": "https://rema1000.dk/avis",
-          "offerImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F0PYIjcFX%2Fp-15.webp&w=1000&x1r=0.46&x2r=0.985&y1r=0.081&y2r=0.698&s=050dca2e3e60210ab659a375cd00aff1",
-          "offerPage": 15
-        },
-        {
-          "id": "w39-rema-buko",
-          "name": "Buko Garlic",
-          "amount": "125 g",
-          "category": "dairy",
-          "note": "Tilbud: 9 kr. · mandag + tirsdag"
-        },
-        {
-          "id": "w39-rema-cheddar",
-          "name": "Revet cheddar",
-          "amount": "150 g",
-          "category": "dairy",
-          "note": "Tilbud: 12 kr. · tirsdag"
+          "note": "Tilbud: 22 kr. pr. pakke · gælder 26. september–2. oktober · mandag",
+          "offerUrl": "https://netto.dk/netto-avisen/",
+          "offerImageType": "product"
         }
       ]
     },
@@ -162,39 +223,207 @@
       "store": "Køb hvor det passer",
       "items": [
         {
-          "id": "w39-other-potatoes",
-          "name": "Kartofler",
-          "amount": "ca. 1,5 kg",
+          "id": "w40-other-cabbage",
+          "name": "Spidskål",
+          "amount": "1 lille",
           "category": "produce",
-          "note": "Mandag + onsdag"
+          "note": "Mandag"
         },
         {
-          "id": "w39-other-onion",
-          "name": "Løg",
+          "id": "w40-other-carrots",
+          "name": "Gulerødder",
+          "amount": "ca. 1 kg",
+          "category": "produce",
+          "note": "Mandag, tirsdag, fredag og lørdag"
+        },
+        {
+          "id": "w40-other-cucumber",
+          "name": "Agurk",
           "amount": "1 stk.",
           "category": "produce",
-          "note": "Onsdag"
+          "note": "Mandag + fredag"
         },
         {
-          "id": "w39-other-tortillas",
-          "name": "Fuldkornstortillas",
-          "amount": "6 stk.",
+          "id": "w40-other-lemon",
+          "name": "Citron",
+          "amount": "1 stk.",
+          "category": "produce",
+          "note": "Mandag + torsdag"
+        },
+        {
+          "id": "w40-other-onions",
+          "name": "Løg",
+          "amount": "4 stk.",
+          "category": "produce",
+          "note": "Tirsdag, fredag, lørdag og søndag"
+        },
+        {
+          "id": "w40-other-squash",
+          "name": "Squash",
+          "amount": "2 stk.",
+          "category": "produce",
+          "note": "Tirsdag + søndag"
+        },
+        {
+          "id": "w40-other-broccoli",
+          "name": "Broccoli",
+          "amount": "1 stk.",
+          "category": "produce",
+          "note": "Torsdag"
+        },
+        {
+          "id": "w40-other-potatoes",
+          "name": "Kartofler",
+          "amount": "ca. 1,7 kg",
+          "category": "produce",
+          "note": "Torsdag + lørdag"
+        },
+        {
+          "id": "w40-other-apple",
+          "name": "Æble",
+          "amount": "1 stk.",
+          "category": "produce",
+          "note": "Lørdag"
+        },
+        {
+          "id": "w40-other-pita",
+          "name": "Pitabrød",
+          "amount": "5 stk.",
           "category": "bread",
+          "note": "Mandag"
+        },
+        {
+          "id": "w40-other-tortillas",
+          "name": "Små tortillas",
+          "amount": "8 stk.",
+          "category": "bread",
+          "note": "Fredag"
+        },
+        {
+          "id": "w40-other-flatbread",
+          "name": "Fladbrød",
+          "amount": "4 stk.",
+          "category": "bread",
+          "note": "Søndag"
+        },
+        {
+          "id": "w40-other-beef",
+          "name": "Hakket oksekød",
+          "amount": "400 g",
+          "category": "meat",
+          "note": "Fredag"
+        },
+        {
+          "id": "w40-other-chickenmince",
+          "name": "Hakket kylling",
+          "amount": "800 g",
+          "category": "meat",
+          "note": "Lørdag + rester søndag"
+        },
+        {
+          "id": "w40-other-haddock",
+          "name": "Kullerfilet",
+          "amount": "450 g",
+          "category": "fish",
+          "note": "Torsdag"
+        },
+        {
+          "id": "w40-other-pasta",
+          "name": "Pasta",
+          "amount": "350 g",
+          "category": "pantry",
+          "note": "Tirsdag + rester onsdag"
+        },
+        {
+          "id": "w40-other-lentils",
+          "name": "Røde linser",
+          "amount": "150 g",
+          "category": "pantry",
           "note": "Tirsdag"
         },
         {
-          "id": "w39-other-tomatopuree",
-          "name": "Tomatpuré",
-          "amount": "ca. 70 g",
+          "id": "w40-other-tomatoes",
+          "name": "Hakkede tomater",
+          "amount": "2 dåser",
+          "category": "pantry",
+          "note": "Tirsdag"
+        },
+        {
+          "id": "w40-other-kidney",
+          "name": "Kidneybønner",
+          "amount": "1 dåse",
+          "category": "pantry",
+          "note": "Fredag"
+        },
+        {
+          "id": "w40-other-corn",
+          "name": "Majs",
+          "amount": "150 g",
+          "category": "pantry",
+          "note": "Fredag"
+        },
+        {
+          "id": "w40-other-passata",
+          "name": "Passata",
+          "amount": "200 g",
+          "category": "pantry",
+          "note": "Søndag"
+        },
+        {
+          "id": "w40-other-oats",
+          "name": "Havregryn",
+          "amount": "1 dl",
+          "category": "pantry",
+          "note": "Lørdag"
+        },
+        {
+          "id": "w40-other-breadcrumbs",
+          "name": "Rasp",
+          "amount": "1 spsk",
           "category": "pantry",
           "note": "Onsdag"
         },
         {
-          "id": "w39-other-milk",
-          "name": "Mælk",
-          "amount": "ca. 2,5 dl",
+          "id": "w40-other-yoghurt",
+          "name": "Yoghurt naturel",
+          "amount": "ca. 450 g",
           "category": "dairy",
-          "note": "Sauce + onsdag"
+          "note": "Mandag, torsdag og fredag"
+        },
+        {
+          "id": "w40-other-cream",
+          "name": "Madlavningsfløde",
+          "amount": "1 dl",
+          "category": "dairy",
+          "note": "Tirsdag"
+        },
+        {
+          "id": "w40-other-mozzarella",
+          "name": "Mozzarella",
+          "amount": "2 × 125 g",
+          "category": "dairy",
+          "note": "Onsdag + søndag"
+        },
+        {
+          "id": "w40-other-milk",
+          "name": "Mælk",
+          "amount": "1 dl",
+          "category": "dairy",
+          "note": "Lørdag"
+        },
+        {
+          "id": "w40-other-egg",
+          "name": "Æg",
+          "amount": "1 stk.",
+          "category": "dairy",
+          "note": "Lørdag"
+        },
+        {
+          "id": "w40-other-peas",
+          "name": "Frosne ærter",
+          "amount": "100 g",
+          "category": "frozen",
+          "note": "Onsdag"
         }
       ]
     }
