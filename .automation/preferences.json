@@ -1,9 +1,1 @@
-{
-  "configured": true,
-  "selectedDays": [
-    "Mandag",
-    "Tirsdag",
-    "Onsdag"
-  ],
-  "syncedAt": "2026-09-27T11:19:00+02:00"
-}
+{"configured":true,"selectedDays":["Mandag","Tirsdag","Onsdag","Torsdag","Fredag","Lørdag","Søndag"],"updatedAt":"2026-10-03 22:47:56"}
