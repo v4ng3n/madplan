@@ -1,8 +1,9 @@
 const json=(data,status=200)=>new Response(JSON.stringify(data),{status,headers:{"content-type":"application/json; charset=utf-8","cache-control":"no-store"}});
 const VALID_DAYS=["Mandag","Tirsdag","Onsdag","Torsdag","Fredag","Lørdag","Søndag"];
+async function ensureTables(env){
+ await env.DB.prepare("CREATE TABLE IF NOT EXISTS checklist (week TEXT NOT NULL,item_id TEXT NOT NULL,checked INTEGER NOT NULL DEFAULT 0,updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,PRIMARY KEY (week,item_id))").run();
  await env.DB.prepare("CREATE TABLE IF NOT EXISTS preferences (id INTEGER PRIMARY KEY CHECK (id=1),selected_days TEXT NOT NULL,day_requests TEXT NOT NULL DEFAULT '{}',updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP)").run();
  try{await env.DB.prepare("ALTER TABLE preferences ADD COLUMN day_requests TEXT NOT NULL DEFAULT '{}'").run()}catch{}
- await env.DB.prepare("CREATE TABLE IF NOT EXISTS preferences (id INTEGER PRIMARY KEY CHECK (id=1),selected_days TEXT NOT NULL,updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP)").run();
  await env.DB.prepare("CREATE TABLE IF NOT EXISTS manual_items (id INTEGER PRIMARY KEY AUTOINCREMENT,name TEXT NOT NULL,checked INTEGER NOT NULL DEFAULT 0,created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP)").run();
 }
 async function checklistGet(request,env){const week=new URL(request.url).searchParams.get("week");if(!week)return json({error:"week is required"},400);const r=await env.DB.prepare("SELECT item_id,checked FROM checklist WHERE week=?").bind(week).all();return json({week,checked:Object.fromEntries(r.results.map(x=>[x.item_id,Boolean(x.checked)]))});}
