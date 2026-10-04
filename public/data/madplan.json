@@ -1,7 +1,301 @@
 {
   "week": "2026-W41",
   "label": "Mandag 5. oktober – søndag 11. oktober",
-  "generated_at": "2026-10-04T14:25:00+02:00",
+  "generated_at": "2026-10-04T21:12:00+02:00",
+  "days": [
+    {
+      "day": "Mandag",
+      "dish": "Hønsekødssuppe med kød- og melboller",
+      "type": "cook",
+      "offer": "Allerede handlet ind",
+      "recipe": {
+        "servings": "2 voksne + 1 barn",
+        "childNote": "Server suppen lun og del bollerne i passende små stykker.",
+        "ingredients": [
+          "Ingredienser er allerede købt ind."
+        ],
+        "steps": [
+          "Tilbered hønsekødssuppen med kød- og melboller som planlagt."
+        ]
+      }
+    },
+    {
+      "day": "Tirsdag",
+      "dish": "Rødvinsgryde med svinestrimler",
+      "type": "cook",
+      "offer": "Allerede handlet ind",
+      "recipe": {
+        "servings": "2 voksne + 1 barn",
+        "childNote": "Lad rødvinen koge godt ind og tag barnets portion fra før ekstra salt.",
+        "ingredients": [
+          "Ingredienser er allerede købt ind."
+        ],
+        "steps": [
+          "Tilbered rødvinsgryden med svinestrimler som planlagt."
+        ]
+      }
+    },
+    {
+      "day": "Onsdag",
+      "dish": "Svinemørbrad med ovnkartofler, rodfrugter, feta og mayo",
+      "type": "cook",
+      "offer": "REMA 1000: svinemørbrad 29 kr.",
+      "recipe": {
+        "servings": "2 voksne + 1 barn",
+        "childNote": "Skær kødet i små møre stykker. Hold evt. lidt feta og salt tilbage på barnets portion.",
+        "ingredients": [
+          "1 svinemørbrad",
+          "800 g kartofler",
+          "600 g blandede rodfrugter",
+          "150 g feta",
+          "Mayonnaise",
+          "Olie",
+          "Salt og peber"
+        ],
+        "steps": [
+          "Tænd ovnen på 210 °C varmluft.",
+          "Skær kartofler og rodfrugter i mundrette stykker, vend med olie og bag ca. 35-45 minutter.",
+          "Puds mørbraden af, krydr og brun den på en pande. Steg den færdig i ovnen til ønsket kernetemperatur og lad den hvile.",
+          "Smuldr feta over de varme kartofler og rodfrugter.",
+          "Skær mørbraden i skiver og server med ovngrønt og mayonnaise."
+        ]
+      }
+    },
+    {
+      "day": "Torsdag",
+      "dish": "Cremet pasta med kylling, bacon og spinat",
+      "type": "cook",
+      "offer": "REMA 1000: kyllingebrystfilet 450 g til 29 kr. pr. pakke",
+      "recipe": {
+        "servings": "6 portioner – aftensmad torsdag og fredag",
+        "childNote": "Tag barnets portion fra før ekstra salt og peber; skær kyllingen småt.",
+        "ingredients": [
+          "900 g kyllingebrystfilet",
+          "200 g bacon",
+          "600 g pasta",
+          "300 g frisk eller frossen spinat",
+          "5 dl madlavningsfløde",
+          "1 løg",
+          "2 fed hvidløg",
+          "50 g parmesan",
+          "Salt og peber"
+        ],
+        "steps": [
+          "Kog pastaen næsten mør og gem lidt pastavand.",
+          "Steg bacon sprødt og læg det til side.",
+          "Skær kyllingen i tern og steg den sammen med finthakket løg og hvidløg.",
+          "Tilsæt spinat og madlavningsfløde og lad saucen simre.",
+          "Vend pasta og bacon i saucen. Juster med lidt pastavand og parmesan.",
+          "Server halvdelen og køl resten hurtigt ned til fredag."
+        ],
+        "leftovers": "Gem ca. halvdelen til fredag."
+      }
+    },
+    {
+      "day": "Fredag",
+      "dish": "Cremet pasta med kylling, bacon og spinat",
+      "type": "leftovers",
+      "offer": "Rester fra torsdag",
+      "recipe": {
+        "servings": "2 voksne + 1 barn",
+        "childNote": "Varm barnets portion grundigt og lad den køle til passende temperatur.",
+        "ingredients": [
+          "Rester fra torsdag"
+        ],
+        "steps": [
+          "Varm torsdagens pasta forsigtigt igennem, gerne med en lille sjat vand eller mælk så saucen bliver cremet igen."
+        ],
+        "useFromBefore": "Torsdagens cremede pasta."
+      }
+    },
+    {
+      "day": "Lørdag",
+      "dish": "Frikadeller med kartofler, brun sovs og gulerødder",
+      "type": "cook",
+      "offer": "REMA 1000: hakket gris 8-12 %, 400 g til 25 kr. pr. pakke",
+      "recipe": {
+        "servings": "6 portioner – aftensmad lørdag og søndag",
+        "childNote": "Lav nogle små frikadeller til barnet og tag portionen fra før ekstra salt.",
+        "ingredients": [
+          "800 g hakket grisekød",
+          "2 æg",
+          "1 løg",
+          "1,5 dl mælk",
+          "4 spsk hvedemel eller havregryn",
+          "1,2 kg kartofler",
+          "600 g gulerødder",
+          "Ingredienser til brun sovs",
+          "Smør eller olie til stegning",
+          "Salt og peber"
+        ],
+        "steps": [
+          "Rør kødet med æg, finthakket løg, mælk og mel/havregryn til en fars.",
+          "Form frikadeller og steg dem gyldne og gennemstegte.",
+          "Kog kartofler og gulerødder møre.",
+          "Lav brun sovs og server halvdelen af frikadellerne med kartofler, gulerødder og sovs.",
+          "Køl resten hurtigt ned til søndag."
+        ],
+        "leftovers": "Gem halvdelen af frikadeller, kartofler, gulerødder og sovs til søndag."
+      }
+    },
+    {
+      "day": "Søndag",
+      "dish": "Frikadeller med kartofler, brun sovs og gulerødder",
+      "type": "leftovers",
+      "offer": "Rester fra lørdag",
+      "recipe": {
+        "servings": "2 voksne + 1 barn",
+        "childNote": "Varm barnets portion grundigt og lad den køle til passende temperatur.",
+        "ingredients": [
+          "Rester fra lørdag"
+        ],
+        "steps": [
+          "Varm frikadeller, kartofler, gulerødder og sovs grundigt igennem og server."
+        ],
+        "useFromBefore": "Lørdagens frikadeller med tilbehør."
+      }
+    }
+  ],
+  "shopping": [
+    {
+      "store": "REMA 1000",
+      "items": [
+        {
+          "id": "w41-rema-tenderloin",
+          "name": "Svinemørbrad",
+          "amount": "1 stk.",
+          "category": "meat",
+          "note": "Tilbud: 29 kr. · onsdag"
+        },
+        {
+          "id": "w41-rema-chickenbreast",
+          "name": "Kyllingebrystfilet",
+          "amount": "2 × 450 g",
+          "category": "meat",
+          "note": "Tilbud: 29 kr. pr. pakke · torsdag + fredag"
+        },
+        {
+          "id": "w41-rema-bacon",
+          "name": "Bacon",
+          "amount": "200 g",
+          "category": "meat",
+          "note": "Torsdag + fredag"
+        },
+        {
+          "id": "w41-rema-pork",
+          "name": "Hakket grisekød 8-12 %",
+          "amount": "2 × 400 g",
+          "category": "meat",
+          "note": "Tilbud: 25 kr. pr. pakke · lørdag + søndag"
+        },
+        {
+          "id": "w41-rema-potatoes",
+          "name": "Kartofler",
+          "amount": "ca. 2 kg",
+          "category": "produce",
+          "note": "Onsdag + lørdag/søndag"
+        },
+        {
+          "id": "w41-rema-roots",
+          "name": "Blandede rodfrugter",
+          "amount": "ca. 600 g",
+          "category": "produce",
+          "note": "Onsdag"
+        },
+        {
+          "id": "w41-rema-carrots",
+          "name": "Gulerødder",
+          "amount": "ca. 600 g",
+          "category": "produce",
+          "note": "Lørdag + søndag"
+        },
+        {
+          "id": "w41-rema-spinach",
+          "name": "Spinat",
+          "amount": "300 g",
+          "category": "produce",
+          "note": "Torsdag + fredag"
+        },
+        {
+          "id": "w41-rema-onions",
+          "name": "Løg",
+          "amount": "2 stk.",
+          "category": "produce",
+          "note": "Torsdag + lørdag"
+        },
+        {
+          "id": "w41-rema-garlic",
+          "name": "Hvidløg",
+          "amount": "1 stk.",
+          "category": "produce",
+          "note": "Torsdag"
+        },
+        {
+          "id": "w41-rema-pasta",
+          "name": "Pasta",
+          "amount": "600 g",
+          "category": "pantry",
+          "note": "Torsdag + fredag"
+        },
+        {
+          "id": "w41-rema-flour",
+          "name": "Hvedemel eller havregryn",
+          "amount": "Lidt",
+          "category": "pantry",
+          "note": "Lørdag"
+        },
+        {
+          "id": "w41-rema-gravy",
+          "name": "Til brun sovs",
+          "amount": "Efter behov",
+          "category": "pantry",
+          "note": "Lørdag + søndag"
+        },
+        {
+          "id": "w41-rema-feta",
+          "name": "Feta",
+          "amount": "150 g",
+          "category": "dairy",
+          "note": "Onsdag"
+        },
+        {
+          "id": "w41-rema-cream",
+          "name": "Madlavningsfløde",
+          "amount": "5 dl",
+          "category": "dairy",
+          "note": "Torsdag + fredag"
+        },
+        {
+          "id": "w41-rema-parmesan",
+          "name": "Parmesan",
+          "amount": "50 g",
+          "category": "dairy",
+          "note": "Torsdag + fredag"
+        },
+        {
+          "id": "w41-rema-milk",
+          "name": "Mælk",
+          "amount": "1,5 dl",
+          "category": "dairy",
+          "note": "Lørdag"
+        },
+        {
+          "id": "w41-rema-eggs",
+          "name": "Æg",
+          "amount": "2 stk.",
+          "category": "dairy",
+          "note": "Lørdag"
+        },
+        {
+          "id": "w41-rema-mayo",
+          "name": "Mayonnaise",
+          "amount": "1 glas/tube",
+          "category": "pantry",
+          "note": "Onsdag"
+        }
+      ]
+    }
+  ],
   "offers": [
     {
       "store": "REMA 1000",
@@ -14,437 +308,10 @@
     {
       "store": "365discount",
       "url": "https://365discount.coop.dk/365avis/"
-    }
-  ],
-  "days": [
-    {
-      "day": "Mandag",
-      "dish": "Helstegt kylling med ovnkartofler, gulerødder og mild citroncreme",
-      "type": "cook",
-      "offer": "REMA 1000: Hel dansk kylling 1.350 g til 39 kr. · gælder til 10. oktober.",
-      "recipe": {
-        "servings": "2 voksne + 1 barn + kylling til tirsdag",
-        "childNote": "Tag barnets kylling og grønt fra før ekstra salt. Fjern skind og ben, og skær kødet småt.",
-        "ingredients": [
-          "1 hel dansk kylling, ca. 1.350 g",
-          "800 g kartofler",
-          "400 g gulerødder",
-          "1 citron",
-          "150 g yoghurt naturel",
-          "1 spsk olie",
-          "1 tsk paprika",
-          "1 tsk tørret timian"
-        ],
-        "steps": [
-          "Tænd ovnen på 200 °C varmluft.",
-          "Skær kartofler og gulerødder i mundrette stykker og vend dem med olie, paprika og timian.",
-          "Læg kyllingen i et fad med grøntsagerne omkring og steg den, til den er gennemstegt og saften er klar ved låret.",
-          "Rør yoghurt med lidt citronsaft og server som mild creme.",
-          "Pil 300 g færdigstegt kyllingekød af og sæt det straks på køl til tirsdag."
-        ],
-        "leftovers": "Gem 300 g tilberedt kyllingekød på køl til tirsdag."
-      }
     },
     {
-      "day": "Tirsdag",
-      "dish": "Cremet kyllingepasta med broccoli og ærter",
-      "type": "leftovers",
-      "offer": "Bruger mandagens tilbudskylling.",
-      "recipe": {
-        "servings": "2 voksne + 1 barn",
-        "childNote": "Skær broccoli og kylling i små stykker. Tag barnets portion fra før ekstra salt.",
-        "useFromBefore": "300 g tilberedt kyllingekød fra mandag.",
-        "ingredients": [
-          "300 g tilberedt kyllingekød fra mandag",
-          "300 g pasta",
-          "1 broccoli",
-          "150 g frosne ærter",
-          "2 dl madlavningsfløde",
-          "30 g revet parmesan",
-          "1/2 citron"
-        ],
-        "steps": [
-          "Kog pastaen efter pakkens anvisning.",
-          "Del broccolien i små buketter og kog dem med pastaen de sidste 4 minutter.",
-          "Varm kylling, ærter og madlavningsfløde i en stor pande.",
-          "Vend den kogte pasta og broccoli i saucen, tilsæt parmesan og smag til med lidt citronsaft."
-        ]
-      }
-    },
-    {
-      "day": "Onsdag",
-      "dish": "Milde frikadeller med kartofler, råkost og brun sovs",
-      "type": "cook",
-      "offer": "365discount: Coop hakket grisekød 8-12 %, 500 g til 20 kr. · gælder til og med 7. oktober.",
-      "recipe": {
-        "servings": "2 voksne + 1 barn + frikadeller til torsdag",
-        "childNote": "Lav farsen mild. Tag barnets frikadelle fra før ekstra salt og server råkosten fintrevet.",
-        "ingredients": [
-          "500 g hakket grisekød 8-12 %",
-          "1 æg",
-          "1 dl mælk",
-          "40 g havregryn",
-          "1 lille løg",
-          "700 g kartofler",
-          "300 g gulerødder",
-          "1 æble",
-          "2 dl mælk til sovs",
-          "1 spsk smør",
-          "1 spsk hvedemel"
-        ],
-        "steps": [
-          "Rør kødet med æg, mælk, havregryn og fintrevet løg og lad farsen hvile 10 minutter.",
-          "Kog kartoflerne møre.",
-          "Form farsen til små frikadeller og steg dem gennemstegte på en pande.",
-          "Riv gulerødder og æble til råkost.",
-          "Lav en enkel sovs af smør, mel og mælk.",
-          "Læg 4 færdige frikadeller på køl til torsdag."
-        ],
-        "leftovers": "Gem 4 færdige frikadeller på køl til torsdag."
-      }
-    },
-    {
-      "day": "Torsdag",
-      "dish": "Fladbrød med frikadeller, sprød kål og yoghurtdressing",
-      "type": "leftovers",
-      "offer": "Bruger onsdagens frikadeller.",
-      "recipe": {
-        "servings": "2 voksne + 1 barn",
-        "childNote": "Server fladbrød, frikadelle, kål og dressing hver for sig til barnet.",
-        "useFromBefore": "4 færdige frikadeller fra onsdag.",
-        "ingredients": [
-          "4 færdige frikadeller fra onsdag",
-          "4 fladbrød",
-          "250 g spidskål",
-          "1/2 agurk",
-          "2 gulerødder",
-          "150 g yoghurt naturel",
-          "1/2 citron"
-        ],
-        "steps": [
-          "Snit spidskålen fint, riv gulerødderne og skær agurken i små tern.",
-          "Rør yoghurt med citronsaft til en mild dressing.",
-          "Skær frikadellerne i skiver og varm dem forsigtigt.",
-          "Lun fladbrødene og fyld dem med grønt, frikadeller og dressing."
-        ]
-      }
-    },
-    {
-      "day": "Fredag",
-      "dish": "Blomkålssuppe med sprøde brødcroutoner og ost",
-      "type": "cook",
-      "offer": "Netto: Dansk blomkål til 12 kr. · gælder 3.–9. oktober.",
-      "recipe": {
-        "servings": "2 voksne + 1 barn",
-        "childNote": "Suppen er mild og blød. Tag barnets portion fra før ekstra salt.",
-        "ingredients": [
-          "1 dansk blomkål",
-          "400 g kartofler",
-          "1 løg",
-          "7 dl vand",
-          "1 grøntsagsbouillonterning",
-          "1 dl madlavningsfløde",
-          "4 skiver brød",
-          "75 g revet ost",
-          "1 spsk olie"
-        ],
-        "steps": [
-          "Hak løget, skær kartoflerne i tern og del blomkålen i buketter.",
-          "Svits løget kort i en gryde, tilsæt kartofler, blomkål, vand og bouillon og kog grøntsagerne helt møre.",
-          "Blend suppen glat og rør madlavningsfløden i.",
-          "Skær brødet i tern, vend med olie og rist dem sprøde i ovn eller på pande.",
-          "Server suppen med croutoner og lidt revet ost."
-        ]
-      }
-    },
-    {
-      "day": "Lørdag",
-      "dish": "Mild chili con carne med ris og grønt",
-      "type": "cook",
-      "offer": "",
-      "recipe": {
-        "servings": "2 voksne + 1 barn + chili til søndag",
-        "childNote": "Hold chilien helt mild; stærk sauce kan sættes på bordet til de voksne.",
-        "ingredients": [
-          "400 g hakket oksekød",
-          "1 løg",
-          "2 gulerødder",
-          "1 rød peberfrugt",
-          "1 dåse kidneybønner",
-          "1 dåse hakkede tomater",
-          "1 lille dåse majs",
-          "250 g ris",
-          "1 tsk paprika",
-          "1 tsk spidskommen"
-        ],
-        "steps": [
-          "Hak løget, riv gulerødderne og skær peberfrugten i små tern.",
-          "Brun kødet med løget og tilsæt gulerødder, peberfrugt, paprika og spidskommen.",
-          "Tilsæt kidneybønner, hakkede tomater og majs og lad chilien simre 15-20 minutter.",
-          "Kog risene efter pakkens anvisning.",
-          "Læg 500 g færdig chili con carne på køl til søndag."
-        ],
-        "leftovers": "Gem 500 g færdig chili con carne på køl til søndag."
-      }
-    },
-    {
-      "day": "Søndag",
-      "dish": "Sprøde quesadillas med chili con carne og ost",
-      "type": "leftovers",
-      "offer": "",
-      "recipe": {
-        "servings": "2 voksne + 1 barn",
-        "childNote": "Lav barnets quesadilla med et tyndt lag chili og moderat ost, og skær den i små trekanter.",
-        "useFromBefore": "500 g færdig chili con carne fra lørdag.",
-        "ingredients": [
-          "500 g færdig chili con carne fra lørdag",
-          "6 tortillas",
-          "150 g revet ost",
-          "1/2 agurk",
-          "150 g yoghurt naturel"
-        ],
-        "steps": [
-          "Fordel chili con carne og revet ost på halvdelen af hver tortilla og fold dem sammen.",
-          "Rist quesadillas på en tør pande ved middel varme, til de er gyldne og osten er smeltet.",
-          "Skær agurken i små stave.",
-          "Skær quesadillas i trekanter og server med agurk og yoghurt."
-        ]
-      }
-    }
-  ],
-  "shopping": [
-    {
-      "store": "REMA 1000",
-      "items": [
-        {
-          "id": "w41-rema-chicken",
-          "name": "Hel dansk kylling",
-          "amount": "1 stk. · ca. 1.350 g",
-          "category": "meat",
-          "note": "Tilbud: 39 kr. · gælder til 10. oktober · mandag + rester tirsdag",
-          "offerUrl": "https://rema1000.dk/avis"
-        }
-      ]
-    },
-    {
-      "store": "Netto",
-      "items": [
-        {
-          "id": "w41-netto-cauliflower",
-          "name": "Dansk blomkål",
-          "amount": "1 stk.",
-          "category": "produce",
-          "note": "Tilbud: 12 kr. · gælder 3.–9. oktober · fredag",
-          "offerUrl": "https://netto.dk/netto-avisen/"
-        }
-      ]
-    },
-    {
-      "store": "365discount",
-      "items": [
-        {
-          "id": "w41-365-pork",
-          "name": "Coop hakket grisekød 8-12 %",
-          "amount": "500 g",
-          "category": "meat",
-          "note": "Tilbud: 20 kr. · gælder 1.–7. oktober · onsdag + rester torsdag",
-          "offerUrl": "https://365discount.coop.dk/365avis/"
-        }
-      ]
-    },
-    {
-      "store": "Køb hvor det passer",
-      "items": [
-        {
-          "id": "w41-other-potatoes",
-          "name": "Kartofler",
-          "amount": "ca. 1,9 kg",
-          "category": "produce",
-          "note": "Mandag, onsdag og fredag"
-        },
-        {
-          "id": "w41-other-carrots",
-          "name": "Gulerødder",
-          "amount": "ca. 1,2 kg",
-          "category": "produce",
-          "note": "Mandag, onsdag, torsdag og lørdag"
-        },
-        {
-          "id": "w41-other-lemon",
-          "name": "Citroner",
-          "amount": "2 stk.",
-          "category": "produce",
-          "note": "Mandag, tirsdag og torsdag"
-        },
-        {
-          "id": "w41-other-broccoli",
-          "name": "Broccoli",
-          "amount": "1 stk.",
-          "category": "produce",
-          "note": "Tirsdag"
-        },
-        {
-          "id": "w41-other-onions",
-          "name": "Løg",
-          "amount": "4 stk.",
-          "category": "produce",
-          "note": "Onsdag, fredag og lørdag"
-        },
-        {
-          "id": "w41-other-apple",
-          "name": "Æble",
-          "amount": "1 stk.",
-          "category": "produce",
-          "note": "Onsdag"
-        },
-        {
-          "id": "w41-other-cabbage",
-          "name": "Spidskål",
-          "amount": "250 g",
-          "category": "produce",
-          "note": "Torsdag"
-        },
-        {
-          "id": "w41-other-cucumber",
-          "name": "Agurk",
-          "amount": "1 stk.",
-          "category": "produce",
-          "note": "Torsdag + søndag"
-        },
-        {
-          "id": "w41-other-pepper",
-          "name": "Rød peberfrugt",
-          "amount": "1 stk.",
-          "category": "produce",
-          "note": "Lørdag"
-        },
-        {
-          "id": "w41-other-bread",
-          "name": "Brød",
-          "amount": "4 skiver",
-          "category": "bread",
-          "note": "Fredag"
-        },
-        {
-          "id": "w41-other-flatbread",
-          "name": "Fladbrød",
-          "amount": "4 stk.",
-          "category": "bread",
-          "note": "Torsdag"
-        },
-        {
-          "id": "w41-other-tortillas",
-          "name": "Tortillas",
-          "amount": "6 stk.",
-          "category": "bread",
-          "note": "Søndag"
-        },
-        {
-          "id": "w41-other-beef",
-          "name": "Hakket oksekød",
-          "amount": "400 g",
-          "category": "meat",
-          "note": "Lørdag + rester søndag"
-        },
-        {
-          "id": "w41-other-pasta",
-          "name": "Pasta",
-          "amount": "300 g",
-          "category": "pantry",
-          "note": "Tirsdag"
-        },
-        {
-          "id": "w41-other-oats",
-          "name": "Havregryn",
-          "amount": "40 g",
-          "category": "pantry",
-          "note": "Onsdag"
-        },
-        {
-          "id": "w41-other-flour",
-          "name": "Hvedemel",
-          "amount": "1 spsk",
-          "category": "pantry",
-          "note": "Onsdag"
-        },
-        {
-          "id": "w41-other-rice",
-          "name": "Ris",
-          "amount": "250 g",
-          "category": "pantry",
-          "note": "Lørdag"
-        },
-        {
-          "id": "w41-other-kidney",
-          "name": "Kidneybønner",
-          "amount": "1 dåse",
-          "category": "pantry",
-          "note": "Lørdag"
-        },
-        {
-          "id": "w41-other-tomatoes",
-          "name": "Hakkede tomater",
-          "amount": "1 dåse",
-          "category": "pantry",
-          "note": "Lørdag"
-        },
-        {
-          "id": "w41-other-corn",
-          "name": "Majs",
-          "amount": "1 lille dåse",
-          "category": "pantry",
-          "note": "Lørdag"
-        },
-        {
-          "id": "w41-other-yoghurt",
-          "name": "Yoghurt naturel",
-          "amount": "450 g",
-          "category": "dairy",
-          "note": "Mandag, torsdag og søndag"
-        },
-        {
-          "id": "w41-other-cookingcream",
-          "name": "Madlavningsfløde",
-          "amount": "3 dl",
-          "category": "dairy",
-          "note": "Tirsdag + fredag"
-        },
-        {
-          "id": "w41-other-milk",
-          "name": "Mælk",
-          "amount": "3 dl",
-          "category": "dairy",
-          "note": "Onsdag"
-        },
-        {
-          "id": "w41-other-parmesan",
-          "name": "Parmesan",
-          "amount": "30 g",
-          "category": "dairy",
-          "note": "Tirsdag"
-        },
-        {
-          "id": "w41-other-cheese",
-          "name": "Revet ost",
-          "amount": "225 g",
-          "category": "dairy",
-          "note": "Fredag + søndag"
-        },
-        {
-          "id": "w41-other-egg",
-          "name": "Æg",
-          "amount": "1 stk.",
-          "category": "dairy",
-          "note": "Onsdag"
-        },
-        {
-          "id": "w41-other-peas",
-          "name": "Frosne ærter",
-          "amount": "150 g",
-          "category": "frozen",
-          "note": "Tirsdag"
-        }
-      ]
+      "store": "SuperBrugsen",
+      "url": "https://superbrugsen.coop.dk/avis/"
     }
   ]
 }
