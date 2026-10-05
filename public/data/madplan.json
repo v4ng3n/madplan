@@ -107,53 +107,6 @@
         ],
         "useFromBefore": "Torsdagens cremede pasta."
       }
-    },
-    {
-      "day": "Lørdag",
-      "dish": "Frikadeller med kartofler, brun sovs og gulerødder",
-      "type": "cook",
-      "offer": "REMA 1000: hakket gris 8-12 %, 400 g til 25 kr. pr. pakke",
-      "recipe": {
-        "servings": "6 portioner – aftensmad lørdag og søndag",
-        "childNote": "Lav nogle små frikadeller til barnet og tag portionen fra før ekstra salt.",
-        "ingredients": [
-          "800 g hakket grisekød",
-          "2 æg",
-          "1 løg",
-          "1,5 dl mælk",
-          "4 spsk hvedemel eller havregryn",
-          "1,2 kg kartofler",
-          "600 g gulerødder",
-          "Ingredienser til brun sovs",
-          "Smør eller olie til stegning",
-          "Salt og peber"
-        ],
-        "steps": [
-          "Rør kødet med æg, finthakket løg, mælk og mel/havregryn til en fars.",
-          "Form frikadeller og steg dem gyldne og gennemstegte.",
-          "Kog kartofler og gulerødder møre.",
-          "Lav brun sovs og server halvdelen af frikadellerne med kartofler, gulerødder og sovs.",
-          "Køl resten hurtigt ned til søndag."
-        ],
-        "leftovers": "Gem halvdelen af frikadeller, kartofler, gulerødder og sovs til søndag."
-      }
-    },
-    {
-      "day": "Søndag",
-      "dish": "Frikadeller med kartofler, brun sovs og gulerødder",
-      "type": "leftovers",
-      "offer": "Rester fra lørdag",
-      "recipe": {
-        "servings": "2 voksne + 1 barn",
-        "childNote": "Varm barnets portion grundigt og lad den køle til passende temperatur.",
-        "ingredients": [
-          "Rester fra lørdag"
-        ],
-        "steps": [
-          "Varm frikadeller, kartofler, gulerødder og sovs grundigt igennem og server."
-        ],
-        "useFromBefore": "Lørdagens frikadeller med tilbehør."
-      }
     }
   ],
   "shopping": [
@@ -182,18 +135,11 @@
           "note": "Torsdag + fredag"
         },
         {
-          "id": "w41-rema-pork",
-          "name": "Hakket grisekød 8-12 %",
-          "amount": "2 × 400 g",
-          "category": "meat",
-          "note": "Tilbud: 25 kr. pr. pakke · lørdag + søndag"
-        },
-        {
           "id": "w41-rema-potatoes",
           "name": "Kartofler",
-          "amount": "ca. 2 kg",
+          "amount": "800 g",
           "category": "produce",
-          "note": "Onsdag + lørdag/søndag"
+          "note": "Onsdag"
         },
         {
           "id": "w41-rema-roots",
@@ -201,13 +147,6 @@
           "amount": "ca. 600 g",
           "category": "produce",
           "note": "Onsdag"
-        },
-        {
-          "id": "w41-rema-carrots",
-          "name": "Gulerødder",
-          "amount": "ca. 600 g",
-          "category": "produce",
-          "note": "Lørdag + søndag"
         },
         {
           "id": "w41-rema-spinach",
@@ -219,9 +158,9 @@
         {
           "id": "w41-rema-onions",
           "name": "Løg",
-          "amount": "2 stk.",
+          "amount": "1 stk.",
           "category": "produce",
-          "note": "Torsdag + lørdag"
+          "note": "Torsdag"
         },
         {
           "id": "w41-rema-garlic",
@@ -236,20 +175,6 @@
           "amount": "600 g",
           "category": "pantry",
           "note": "Torsdag + fredag"
-        },
-        {
-          "id": "w41-rema-flour",
-          "name": "Hvedemel eller havregryn",
-          "amount": "Lidt",
-          "category": "pantry",
-          "note": "Lørdag"
-        },
-        {
-          "id": "w41-rema-gravy",
-          "name": "Til brun sovs",
-          "amount": "Efter behov",
-          "category": "pantry",
-          "note": "Lørdag + søndag"
         },
         {
           "id": "w41-rema-feta",
@@ -271,20 +196,6 @@
           "amount": "50 g",
           "category": "dairy",
           "note": "Torsdag + fredag"
-        },
-        {
-          "id": "w41-rema-milk",
-          "name": "Mælk",
-          "amount": "1,5 dl",
-          "category": "dairy",
-          "note": "Lørdag"
-        },
-        {
-          "id": "w41-rema-eggs",
-          "name": "Æg",
-          "amount": "2 stk.",
-          "category": "dairy",
-          "note": "Lørdag"
         },
         {
           "id": "w41-rema-mayo",
