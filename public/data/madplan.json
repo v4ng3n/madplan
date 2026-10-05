@@ -39,12 +39,12 @@
       "day": "Onsdag",
       "dish": "Svinemørbrad med ovnkartofler, rodfrugter, feta og mayo",
       "type": "cook",
-      "offer": "Ingen verificeret tilbudsvare",
+      "offer": "REMA 1000: filet a la mørbrad 29 kr.",
       "recipe": {
         "servings": "2 voksne + 1 barn",
         "childNote": "Skær kødet i små møre stykker. Hold evt. lidt feta og salt tilbage på barnets portion.",
         "ingredients": [
-          "1 svinemørbrad",
+          "1 filet a la mørbrad",
           "800 g kartofler",
           "600 g blandede rodfrugter",
           "150 g feta",
@@ -114,6 +114,13 @@
       "store": "REMA 1000",
       "items": [
         {
+          "id": "w41-rema-filet-a-la-morbrad",
+          "name": "Filet a la mørbrad",
+          "amount": "1 stk.",
+          "category": "meat",
+          "note": "Tilbud: 29 kr. · onsdag"
+        },
+        {
           "id": "w41-rema-chickenbreast",
           "name": "Kyllingebrystfilet",
           "amount": "2 × 450 g",
@@ -125,13 +132,6 @@
     {
       "store": "Valgfri butik",
       "items": [
-        {
-          "id": "w41-rema-tenderloin",
-          "name": "Svinemørbrad",
-          "amount": "1 stk.",
-          "category": "meat",
-          "note": "onsdag"
-        },
         {
           "id": "w41-rema-bacon",
           "name": "Bacon",
