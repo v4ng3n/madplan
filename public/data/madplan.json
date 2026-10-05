@@ -133,7 +133,8 @@
           "amount": "1 kg",
           "category": "meat",
           "note": "Tilbud: 75 kr. · torsdag + fredag",
-          "offerStore": "Netto"
+          "offerStore": "Netto",
+          "offerPage": 13
         }
       ]
     },
@@ -223,19 +224,39 @@
   "offers": [
     {
       "store": "REMA 1000",
-      "url": "https://rema1000.dk/avis/2g2CAjpP"
+      "url": "https://rema1000.dk/avis/2g2CAjpP",
+      "pageSource": {
+        "type": "tjek",
+        "asset": "2g2CAjpP",
+        "count": 28
+      }
     },
     {
       "store": "Netto",
-      "url": "https://netto.dk/netto-avisen/"
+      "url": "https://netto.dk/netto-avisen/",
+      "pageSource": {
+        "type": "tjek",
+        "asset": "bvGHPzYu",
+        "count": 33
+      }
     },
     {
       "store": "365discount",
-      "url": "https://365discount.coop.dk/365avis/"
+      "url": "https://365discount.coop.dk/365avis/",
+      "pageSource": {
+        "type": "coop",
+        "source": "365discount",
+        "url": "https://365discount.coop.dk/365avisen-pdf/"
+      }
     },
     {
       "store": "SuperBrugsen",
-      "url": "https://superbrugsen.coop.dk/avis/"
+      "url": "https://superbrugsen.coop.dk/avis/",
+      "pageSource": {
+        "type": "coop",
+        "source": "superbrugsen",
+        "url": "https://superbrugsen.coop.dk/avis-pdf/"
+      }
     }
   ]
 }
