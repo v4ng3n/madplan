@@ -65,12 +65,12 @@
       "day": "Torsdag",
       "dish": "Cremet pasta med kylling, bacon og spinat",
       "type": "cook",
-      "offer": "REMA 1000: kyllingebrystfilet 450 g til 29 kr. pr. pakke",
+      "offer": "Netto: kyllingebrystfilet 1 kg til 75 kr.",
       "recipe": {
         "servings": "6 portioner – aftensmad torsdag og fredag",
         "childNote": "Tag barnets portion fra før ekstra salt og peber; skær kyllingen småt.",
         "ingredients": [
-          "900 g kyllingebrystfilet",
+          "1 kg kyllingebrystfilet",
           "200 g bacon",
           "600 g pasta",
           "300 g frisk eller frossen spinat",
@@ -121,13 +121,19 @@
           "note": "Tilbud: 29 kr. · onsdag",
           "offerPage": 7,
           "offerImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F2g2CAjpP%2Fp-7.webp&w=1000&x1r=0.03&x2r=0.48&y1r=0.74&y2r=0.99&s=e1e5c8d321cd76c4b8d7a3da6ec6940d"
-        },
+        }
+      ]
+    },
+    {
+      "store": "Netto",
+      "items": [
         {
-          "id": "w41-rema-chickenbreast",
+          "id": "w41-netto-chickenbreast",
           "name": "Kyllingebrystfilet",
-          "amount": "2 × 450 g",
+          "amount": "1 kg",
           "category": "meat",
-          "note": "29 kr. pr. pakke · torsdag + fredag · ikke avis-tilbud"
+          "note": "Tilbud: 75 kr. · torsdag + fredag",
+          "offerStore": "Netto"
         }
       ]
     },
