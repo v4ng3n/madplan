@@ -118,14 +118,18 @@
           "name": "Filet a la mørbrad",
           "amount": "1 stk.",
           "category": "meat",
-          "note": "Tilbud: 29 kr. · onsdag"
+          "note": "Tilbud: 29 kr. · onsdag",
+          "offerUrl": "https://rema1000.dk/avis/2g2CAjpP",
+          "offerStore": "REMA 1000"
         },
         {
           "id": "w41-rema-chickenbreast",
           "name": "Kyllingebrystfilet",
           "amount": "2 × 450 g",
           "category": "meat",
-          "note": "29 kr. pr. pakke · torsdag + fredag"
+          "note": "29 kr. pr. pakke · torsdag + fredag",
+          "offerUrl": "https://rema1000.dk/avis/2g2CAjpP",
+          "offerStore": "REMA 1000"
         }
       ]
     },
