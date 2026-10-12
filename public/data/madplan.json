@@ -1,222 +1,306 @@
 {
-  "week": "2026-W41",
-  "label": "Mandag 5. oktober – søndag 11. oktober",
-  "generated_at": "2026-10-04T21:12:00+02:00",
+  "week": "2026-W42",
+  "label": "Mandag 12. oktober – søndag 18. oktober",
+  "generated_at": "2026-10-12T17:24:00+02:00",
   "days": [
     {
       "day": "Mandag",
-      "dish": "Hønsekødssuppe med kød- og melboller",
+      "dish": "Mild chili con carne med ris",
       "type": "cook",
-      "offer": "Allerede handlet ind",
+      "offer": "Ingen verificerede tilbud",
       "recipe": {
-        "servings": "2 voksne + 1 barn",
-        "childNote": "Server suppen lun og del bollerne i passende små stykker.",
+        "servings": "Ca. 6 portioner til to dage",
+        "childNote": "Tilpas salt og skær maden i små stykker.",
         "ingredients": [
-          "Ingredienser er allerede købt ind."
+          "900 g hakket oksekød",
+          "2 dåser kidneybønner",
+          "2 dåser hakkede tomater",
+          "2 løg",
+          "2 peberfrugter",
+          "400 g ris"
         ],
         "steps": [
-          "Tilbered hønsekødssuppen med kød- og melboller som planlagt."
-        ]
+          "Brun kødet og løgene.",
+          "Tilsæt tomat, bønner og peberfrugt, og lad simre 25 minutter.",
+          "Kog ris og gem halvdelen af chilien til tirsdag."
+        ],
+        "leftovers": "Gem halvdelen til næste dag."
       }
     },
     {
       "day": "Tirsdag",
-      "dish": "Rødvinsgryde med svinestrimler",
-      "type": "cook",
-      "offer": "Allerede handlet ind",
+      "dish": "Mild chili con carne med ris",
+      "type": "leftovers",
+      "offer": "Ingen verificerede tilbud",
       "recipe": {
-        "servings": "2 voksne + 1 barn",
-        "childNote": "Lad rødvinen koge godt ind og tag barnets portion fra før ekstra salt.",
+        "servings": "2 voksne og 1 barn",
+        "childNote": "Tilpas salt og skær maden i små stykker.",
         "ingredients": [
-          "Ingredienser er allerede købt ind."
+          "Rester fra mandag",
+          "200 g ris"
         ],
         "steps": [
-          "Tilbered rødvinsgryden med svinestrimler som planlagt."
-        ]
+          "Kog ris og varm mandagens chili grundigt igennem."
+        ],
+        "useFromBefore": "Mandag"
       }
     },
     {
       "day": "Onsdag",
-      "dish": "Svinemørbrad med ovnkartofler, rodfrugter, feta og mayo",
+      "dish": "Cremet one-pot pasta med kylling og spinat",
       "type": "cook",
-      "offer": "REMA 1000: filet a la mørbrad 29 kr.",
+      "offer": "Ingen verificerede tilbud",
       "recipe": {
-        "servings": "2 voksne + 1 barn",
-        "childNote": "Skær kødet i små møre stykker. Hold evt. lidt feta og salt tilbage på barnets portion.",
+        "servings": "Ca. 6 portioner til to dage",
+        "childNote": "Tilpas salt og skær maden i små stykker.",
         "ingredients": [
-          "1 filet a la mørbrad",
-          "800 g kartofler",
-          "600 g blandede rodfrugter",
-          "150 g feta",
-          "Mayonnaise",
-          "Olie",
-          "Salt og peber"
+          "800 g kyllingebryst",
+          "600 g pasta",
+          "300 g spinat",
+          "5 dl fløde",
+          "1 løg",
+          "2 fed hvidløg"
         ],
         "steps": [
-          "Tænd ovnen på 210 °C varmluft.",
-          "Skær kartofler og rodfrugter i mundrette stykker, vend med olie og bag ca. 35-45 minutter.",
-          "Puds mørbraden af, krydr og brun den på en pande. Steg den færdig i ovnen til ønsket kernetemperatur og lad den hvile.",
-          "Smuldr feta over de varme kartofler og rodfrugter.",
-          "Skær mørbraden i skiver og server med ovngrønt og mayonnaise."
-        ]
+          "Steg kylling med løg og hvidløg.",
+          "Tilsæt pasta, fløde, vand og spinat, og lad simre til kyllingen er gennemstegt og pastaen mør.",
+          "Gem halvdelen til torsdag."
+        ],
+        "leftovers": "Gem halvdelen til næste dag."
       }
     },
     {
       "day": "Torsdag",
-      "dish": "Cremet pasta med kylling, bacon og spinat",
-      "type": "cook",
-      "offer": "Netto: kyllingebrystfilet 1 kg til 75 kr.",
+      "dish": "Cremet one-pot pasta med kylling og spinat",
+      "type": "leftovers",
+      "offer": "Ingen verificerede tilbud",
       "recipe": {
-        "servings": "6 portioner – aftensmad torsdag og fredag",
-        "childNote": "Tag barnets portion fra før ekstra salt og peber; skær kyllingen småt.",
+        "servings": "2 voksne og 1 barn",
+        "childNote": "Tilpas salt og skær maden i små stykker.",
         "ingredients": [
-          "1 kg kyllingebrystfilet",
-          "200 g bacon",
-          "600 g pasta",
-          "300 g frisk eller frossen spinat",
-          "5 dl madlavningsfløde",
-          "1 løg",
-          "2 fed hvidløg",
-          "50 g parmesan",
-          "Salt og peber"
+          "Rester fra onsdag"
         ],
         "steps": [
-          "Kog pastaen næsten mør og gem lidt pastavand.",
-          "Steg bacon sprødt og læg det til side.",
-          "Skær kyllingen i tern og steg den sammen med finthakket løg og hvidløg.",
-          "Tilsæt spinat og madlavningsfløde og lad saucen simre.",
-          "Vend pasta og bacon i saucen. Juster med lidt pastavand og parmesan.",
-          "Server halvdelen og køl resten hurtigt ned til fredag."
+          "Varm onsdagens pasta grundigt igennem med lidt vand."
         ],
-        "leftovers": "Gem ca. halvdelen til fredag."
+        "useFromBefore": "Onsdag"
       }
     },
     {
       "day": "Fredag",
-      "dish": "Cremet pasta med kylling, bacon og spinat",
-      "type": "leftovers",
-      "offer": "Rester fra torsdag",
+      "dish": "Paprikagryde med svinestrimler og ris",
+      "type": "cook",
+      "offer": "Ingen verificerede tilbud",
       "recipe": {
-        "servings": "2 voksne + 1 barn",
-        "childNote": "Varm barnets portion grundigt og lad den køle til passende temperatur.",
+        "servings": "Ca. 6 portioner til to dage",
+        "childNote": "Tilpas salt og skær maden i små stykker.",
         "ingredients": [
-          "Rester fra torsdag"
+          "900 g svinestrimler",
+          "400 g champignon",
+          "2 løg",
+          "2 peberfrugter",
+          "5 dl fløde",
+          "400 g ris"
         ],
         "steps": [
-          "Varm torsdagens pasta forsigtigt igennem, gerne med en lille sjat vand eller mælk så saucen bliver cremet igen."
+          "Brun svinestrimler og steg grøntsagerne.",
+          "Tilsæt fløde, paprika og lidt bouillon, og lad simre til kødet er mørt.",
+          "Kog ris og gem halvdelen af gryden til lørdag."
         ],
-        "useFromBefore": "Torsdagens cremede pasta."
+        "leftovers": "Gem halvdelen til næste dag."
+      }
+    },
+    {
+      "day": "Lørdag",
+      "dish": "Paprikagryde med svinestrimler og ris",
+      "type": "leftovers",
+      "offer": "Ingen verificerede tilbud",
+      "recipe": {
+        "servings": "2 voksne og 1 barn",
+        "childNote": "Tilpas salt og skær maden i små stykker.",
+        "ingredients": [
+          "Rester fra fredag",
+          "200 g ris"
+        ],
+        "steps": [
+          "Kog ris og varm fredagens paprikagryde grundigt igennem."
+        ],
+        "useFromBefore": "Fredag"
+      }
+    },
+    {
+      "day": "Søndag",
+      "dish": "Karbonader med kartofler og grønt",
+      "type": "cook",
+      "offer": "Ingen verificerede tilbud",
+      "recipe": {
+        "servings": "2 voksne og 1 barn",
+        "childNote": "Tilpas salt og skær maden i små stykker.",
+        "ingredients": [
+          "600 g hakket svinekød",
+          "900 g kartofler",
+          "500 g gulerødder",
+          "300 g ærter",
+          "1 æg",
+          "75 g rasp"
+        ],
+        "steps": [
+          "Form karbonader, vend i æg og rasp og steg gennemstegte.",
+          "Kog kartofler og gulerødder og varm ærterne."
+        ]
       }
     }
   ],
   "shopping": [
     {
-      "store": "REMA 1000",
-      "items": [
-        {
-          "id": "w41-rema-filet-a-la-morbrad",
-          "name": "Filet a la mørbrad",
-          "amount": "1 stk.",
-          "category": "meat",
-          "note": "Tilbud: 29 kr. · onsdag",
-          "offerPage": 7,
-          "offerImage": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F2g2CAjpP%2Fp-7.webp&w=1000&x1r=0.03&x2r=0.48&y1r=0.74&y2r=0.99&s=e1e5c8d321cd76c4b8d7a3da6ec6940d"
-        }
-      ]
-    },
-    {
-      "store": "Netto",
-      "items": [
-        {
-          "id": "w41-netto-chickenbreast",
-          "name": "Kyllingebrystfilet",
-          "amount": "1 kg",
-          "category": "meat",
-          "note": "Tilbud: 75 kr. · torsdag + fredag",
-          "offerStore": "Netto",
-          "offerPage": 13
-        }
-      ]
-    },
-    {
       "store": "Valgfri butik",
       "items": [
         {
-          "id": "w41-rema-bacon",
-          "name": "Bacon",
-          "amount": "200 g",
-          "category": "meat",
-          "note": "Torsdag + fredag"
-        },
-        {
-          "id": "w41-rema-potatoes",
-          "name": "Kartofler",
-          "amount": "800 g",
-          "category": "produce",
-          "note": "Onsdag"
-        },
-        {
-          "id": "w41-rema-roots",
-          "name": "Blandede rodfrugter",
-          "amount": "ca. 600 g",
-          "category": "produce",
-          "note": "Onsdag"
-        },
-        {
-          "id": "w41-rema-spinach",
-          "name": "Spinat",
-          "amount": "300 g",
-          "category": "produce",
-          "note": "Torsdag + fredag"
-        },
-        {
-          "id": "w41-rema-onions",
+          "id": "w42-1",
           "name": "Løg",
-          "amount": "1 stk.",
+          "amount": "5 stk.",
           "category": "produce",
-          "note": "Torsdag"
+          "note": "Ikke verificeret tilbud"
         },
         {
-          "id": "w41-rema-garlic",
+          "id": "w42-2",
+          "name": "Peberfrugt",
+          "amount": "4 stk.",
+          "category": "produce",
+          "note": "Ikke verificeret tilbud"
+        },
+        {
+          "id": "w42-3",
           "name": "Hvidløg",
           "amount": "1 stk.",
           "category": "produce",
-          "note": "Torsdag"
+          "note": "Ikke verificeret tilbud"
         },
         {
-          "id": "w41-rema-pasta",
+          "id": "w42-4",
+          "name": "Champignon",
+          "amount": "400 g",
+          "category": "produce",
+          "note": "Ikke verificeret tilbud"
+        },
+        {
+          "id": "w42-5",
+          "name": "Kartofler",
+          "amount": "900 g",
+          "category": "produce",
+          "note": "Ikke verificeret tilbud"
+        },
+        {
+          "id": "w42-6",
+          "name": "Gulerødder",
+          "amount": "500 g",
+          "category": "produce",
+          "note": "Ikke verificeret tilbud"
+        },
+        {
+          "id": "w42-7",
+          "name": "Hakket oksekød",
+          "amount": "900 g",
+          "category": "meat",
+          "note": "Ikke verificeret tilbud"
+        },
+        {
+          "id": "w42-8",
+          "name": "Kyllingebryst",
+          "amount": "800 g",
+          "category": "meat",
+          "note": "Ikke verificeret tilbud"
+        },
+        {
+          "id": "w42-9",
+          "name": "Svinestrimler",
+          "amount": "900 g",
+          "category": "meat",
+          "note": "Ikke verificeret tilbud"
+        },
+        {
+          "id": "w42-10",
+          "name": "Hakket svinekød",
+          "amount": "600 g",
+          "category": "meat",
+          "note": "Ikke verificeret tilbud"
+        },
+        {
+          "id": "w42-11",
+          "name": "Ris",
+          "amount": "800 g",
+          "category": "pantry",
+          "note": "Ikke verificeret tilbud"
+        },
+        {
+          "id": "w42-12",
           "name": "Pasta",
           "amount": "600 g",
           "category": "pantry",
-          "note": "Torsdag + fredag"
+          "note": "Ikke verificeret tilbud"
         },
         {
-          "id": "w41-rema-feta",
-          "name": "Feta",
-          "amount": "150 g",
-          "category": "dairy",
-          "note": "Onsdag"
-        },
-        {
-          "id": "w41-rema-cream",
-          "name": "Madlavningsfløde",
-          "amount": "5 dl",
-          "category": "dairy",
-          "note": "Torsdag + fredag"
-        },
-        {
-          "id": "w41-rema-parmesan",
-          "name": "Parmesan",
-          "amount": "50 g",
-          "category": "dairy",
-          "note": "Torsdag + fredag"
-        },
-        {
-          "id": "w41-rema-mayo",
-          "name": "Mayonnaise",
-          "amount": "1 glas/tube",
+          "id": "w42-13",
+          "name": "Hakkede tomater",
+          "amount": "2 dåser",
           "category": "pantry",
-          "note": "Onsdag"
+          "note": "Ikke verificeret tilbud"
+        },
+        {
+          "id": "w42-14",
+          "name": "Kidneybønner",
+          "amount": "2 dåser",
+          "category": "pantry",
+          "note": "Ikke verificeret tilbud"
+        },
+        {
+          "id": "w42-15",
+          "name": "Rasp",
+          "amount": "75 g",
+          "category": "pantry",
+          "note": "Ikke verificeret tilbud"
+        },
+        {
+          "id": "w42-16",
+          "name": "Paprika",
+          "amount": "Efter behov",
+          "category": "pantry",
+          "note": "Ikke verificeret tilbud"
+        },
+        {
+          "id": "w42-17",
+          "name": "Bouillon",
+          "amount": "Efter behov",
+          "category": "pantry",
+          "note": "Ikke verificeret tilbud"
+        },
+        {
+          "id": "w42-18",
+          "name": "Fløde",
+          "amount": "1 liter",
+          "category": "dairy",
+          "note": "Ikke verificeret tilbud"
+        },
+        {
+          "id": "w42-19",
+          "name": "Æg",
+          "amount": "1 stk.",
+          "category": "dairy",
+          "note": "Ikke verificeret tilbud"
+        },
+        {
+          "id": "w42-20",
+          "name": "Spinat",
+          "amount": "300 g",
+          "category": "frozen",
+          "note": "Ikke verificeret tilbud"
+        },
+        {
+          "id": "w42-21",
+          "name": "Ærter",
+          "amount": "300 g",
+          "category": "frozen",
+          "note": "Ikke verificeret tilbud"
         }
       ]
     }
@@ -224,39 +308,19 @@
   "offers": [
     {
       "store": "REMA 1000",
-      "url": "https://rema1000.dk/avis/2g2CAjpP",
-      "pageSource": {
-        "type": "tjek",
-        "asset": "2g2CAjpP",
-        "count": 28
-      }
+      "url": "https://rema1000.dk/avis/"
     },
     {
       "store": "Netto",
-      "url": "https://netto.dk/netto-avisen/",
-      "pageSource": {
-        "type": "tjek",
-        "asset": "bvGHPzYu",
-        "count": 33
-      }
+      "url": "https://netto.dk/netto-avisen/"
     },
     {
       "store": "365discount",
-      "url": "https://365discount.coop.dk/365avis/",
-      "pageSource": {
-        "type": "coop",
-        "source": "365discount",
-        "url": "https://365discount.coop.dk/365avisen-pdf/"
-      }
+      "url": "https://365discount.coop.dk/365avis/"
     },
     {
       "store": "SuperBrugsen",
-      "url": "https://superbrugsen.coop.dk/avis/",
-      "pageSource": {
-        "type": "coop",
-        "source": "superbrugsen",
-        "url": "https://superbrugsen.coop.dk/avis-pdf/"
-      }
+      "url": "https://superbrugsen.coop.dk/avis/"
     }
   ]
 }
