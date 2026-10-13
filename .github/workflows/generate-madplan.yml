@@ -1,11 +1,9 @@
-name: Generate weekly meal plan (disabled: requires paid API)
+name: Weekly meal plan generation (handled by ChatGPT)
 on:
   workflow_dispatch:
 jobs:
-  disabled:
+  information:
     runs-on: ubuntu-latest
     steps:
-      - run: |
-          echo "This workflow is disabled to avoid requiring an OpenAI API key."
-          echo "Use the ChatGPT weekly automation to research, generate and publish via GitHub."
-          exit 1
+      - name: Explain
+        run: echo 'Weekly plan generation is handled by the scheduled ChatGPT task.'
