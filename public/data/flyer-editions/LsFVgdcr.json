@@ -1,1 +1,4718 @@
-{"store":"REMA 1000","catalogId":"LsFVgdcr","label":"Uge 42","sourceUrl":"https://rema1000.dk/avis/","validFrom":"2026-10-10T22:00:00+0000","validTo":"2026-10-17T21:59:59+0000","pageCount":28,"products":[{"id":"vHa0qlB4GS5sa4sICk86j","heading":"REMA 1000 Dansk ovnklar flæskesteg","description":"Uden ben\nPR. ½ KG\nPartivare 29.90 pr. kg","pricing":{"price":14.95,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"kg","si":{"symbol":"kg","factor":1}},"size":{"from":0.5,"to":0.5},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":1},{"id":"JackwAgnQSCZk867Q4FD6","heading":"Coca-Cola eller Fanta","description":"Ved køb af flere end 72 stk. pr. variant pr. dag er prisen op til 5.95 pr. stk.\n33 cl. Ex. pant\nKasse med 24 stk. 72.00/9.09 pr. liter","pricing":{"price":3,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"cl","si":{"symbol":"l","factor":0.01}},"size":{"from":33,"to":33},"pieces":{"from":1,"to":1,"min":null,"max":72}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":1},{"id":"GDNeJI-LeLVCRAJuSgPjR","heading":"Haribo slikpose","description":"150-170 g\nPartivare. Max. 100.00 pr. kg","pricing":{"price":15,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":150,"to":170},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":1},{"id":"MY8xpYUR1iJ5_ATxN0tKX","heading":"Gøl spegepølse eller kødpølse","description":"Ved køb af flere end 6 stk. pr. variant pr. dag er prisen op til 14.95 pr. stk.\n110-135 g\nMax. 90.91 pr. kg","pricing":{"price":10,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":110,"to":135},"pieces":{"from":1,"to":1,"min":null,"max":6}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":1},{"id":"4IheIQGChUWZE-k0PlAox","heading":"REMA 1000 Flæskesvær","description":"Saltes godt og steges i ovnen i 25-30 min.\n400 g\nPartivare. 50.00 pr. kg","pricing":{"price":20,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":400,"to":400},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":1},{"id":"6YeEkiTQB8rc_5h_2j1ST","heading":"Skrabeæg M/L","description":"10 stk.\n2.00 pr. stk.","pricing":{"price":20,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"pcs","si":{"symbol":"pcs","factor":1}},"size":{"from":10,"to":10},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":2},{"id":"bSXmoxu6-I8nQDrhFrvH-","heading":"Steff Houlberg Brunchpølser eller bacon i skiver","description":"300-350 g\nPartivare. Max. 73.33 pr. kg","pricing":{"price":22,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":300,"to":350},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":2},{"id":"z7WGBVLxL2986tqRXNBFI","heading":"Castello","description":"125-170 g\nMax. 144.00 pr. kg","pricing":{"price":18,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":125,"to":170},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":2},{"id":"cnYdI0I-kyhYTJUB6Jvgy","heading":"Den Gamle Fabrik Marmelade","description":"270 g\nPartivare. 55.56 pr. kg","pricing":{"price":15,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":270,"to":270},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":2},{"id":"19R15fdisgEX7kPUD5Xl3","heading":"Tropicana juice","description":"FINDES PÅ KØL\n900 ml. Ex. pant\n22.22 pr. liter","pricing":{"price":20,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"ml","si":{"symbol":"l","factor":0.001}},"size":{"from":900,"to":900},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":2},{"id":"fuRI5ack2iVPw65s4GmyQ","heading":"Friskbagt morgenbrød fra håndværksbageren","description":"BAVINCHI BAGER\nLækkert bagværk fra bageren\nÆGTE BAGERHÅNDVÆRK JA TAK\nPr. stk.","pricing":{"price":3,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"pcs","si":{"symbol":"pcs","factor":1}},"size":{"from":1,"to":1},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":2},{"id":"QZO-b_53cg1BFNr5VWuMO","heading":"Galle & Jessen pålægschokolade eller Nutella","description":"Ved køb af flere end 6 stk. pr. variant pr. dag er prisen op til 48.95 pr. stk.\n216-350 g\nMax. 162.04 pr. kg","pricing":{"price":35,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":216,"to":350},"pieces":{"from":1,"to":1,"min":null,"max":6}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":3},{"id":"r9_8DQ1DK0grQ3R-dDUY9","heading":"BKI formalet eller instant kaffe","description":"150-400 g\nMax. 260.00 pr. kg","pricing":{"price":39,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":150,"to":400},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":3},{"id":"f7tLC-tyfKt3tvn8x76z7","heading":"REMA 1000 Bær eller frugter","description":"Økologiske Dybfrost 200-250 g\nMax. 75.00 pr. kg","pricing":{"price":15,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":200,"to":250},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":3},{"id":"YNM9474roSFU7j7WuMf1i","heading":"Hatting brød, kanelsnegle eller tebirkes","description":"Dybfrost 340-438 g\nMax. 35.29 pr. kg","pricing":{"price":12,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":340,"to":438},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":3},{"id":"BF2jSbSz6msbaDk9QsCY-","heading":"Protein- eller brunchpandekager","description":"240-360 g\nPartivare. Max. 83.33 pr. kg","pricing":{"price":20,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":240,"to":360},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":3},{"id":"_6OYQTmmLKPDMGZSi6yoo","heading":"Mango","description":"Kl. 1, udenlandsk Pr. stk.","pricing":{"price":12,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"pcs","si":{"symbol":"pcs","factor":1}},"size":{"from":1,"to":1},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":3},{"id":"ebXEHq1VSNiD1WpbTwdTs","heading":"Granatæble","description":"Udenlandsk Pr. stk.","pricing":{"price":8,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"pcs","si":{"symbol":"pcs","factor":1}},"size":{"from":1,"to":1},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":3},{"id":"9vYmuFr_NliHdNJS8MV1O","heading":"Kohberg brød","description":"Ved køb af flere end 6 stk. pr. variant pr. dag er prisen op til 26.50 pr. stk.\n380-1000 g\nMax. 39.47 pr. kg","pricing":{"price":15,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":380,"to":1000},"pieces":{"from":1,"to":1,"min":null,"max":6}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":4},{"id":"G-fMDyXdXDOgnb_OiX4CI","heading":"Ocean Run Rejer i lage","description":"200 g\n145.00 pr. kg","pricing":{"price":29,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":200,"to":200},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":4},{"id":"fwPziVpTqI0rHpNxiQix8","heading":"REMA 1000 Panerede fisk","description":"Dybfrost\n500 g\n58.00 pr. kg","pricing":{"price":29,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":500,"to":500},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":4},{"id":"5rL1RbfJS-xEGbrKC_XBZ","heading":"Røget laks i skiver","description":"50 g\nPartivare. 300.00 pr. kg","pricing":{"price":15,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":50,"to":50},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":4},{"id":"UkXbpj3RQYGoS4wwhJskk","heading":"Slagtermester Andersen Leverpostej","description":"400 g\n30.00 pr. kg","pricing":{"price":12,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":400,"to":400},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":4},{"id":"4ceA97c5J6vj9sh9frQKw","heading":"REMA 1000 Saltkød","description":"100 g\n150.00 pr. kg","pricing":{"price":15,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":100,"to":100},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":4},{"id":"FYaSBzoYvIqKvpKhhwG-q","heading":"REMA 1000 Sky","description":"200 g\n30.00 pr. kg","pricing":{"price":6,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":200,"to":200},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":4},{"id":"hetgHKXZ01ObZuM6sckLM","heading":"Æbler","description":"Danske, kl. 1\n1 kg. økologiske eller\n1.5 kg. konventionelle","pricing":{"price":16,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"kg","si":{"symbol":"kg","factor":1}},"size":{"from":1,"to":1.5},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":5},{"id":"DEKtubelWMP6GKxz9OtDQ","heading":"Stenfri druer","description":"Ruby eller Crunchy Dream\nUdenlandske\n400 g","pricing":{"price":18,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":400,"to":400},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":5},{"id":"yo28Z_kkWkrZbr1taad20","heading":"Snackgulerødder","description":"Økologiske\nDanske\n200 g","pricing":{"price":6,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":200,"to":200},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":5},{"id":"ZcEybb1acAqIMEeACUeOU","heading":"Nemt & Grønt Balsamico glace","description":"40 g","pricing":{"price":5,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":40,"to":40},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":5},{"id":"xjnDZCUCsMpCjXBFrCI-h","heading":"REMA 1000 Dansk kylling","description":"250-825 g\nMax. 116.00 pr. kg","pricing":{"price":29,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":250,"to":825},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":6},{"id":"ELsG9jnC0H9DD5ECtfP5I","heading":"Nakkefilet med gyros eller grillbryst med nordisk marinade","description":"550-750 g\nMax. 89.09 pr. kg","pricing":{"price":49,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":550,"to":750},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":6},{"id":"iGJ58F3FU3MclOvA6l75F","heading":"Grisekæber eller REMA 1000 Frilandsgris grillkøller med BBQ","description":"400-800 g\nPartivare. Max. 122.50 pr. kg","pricing":{"price":49,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":400,"to":800},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":6},{"id":"Eu4Y5pGwr-K4snXDbnNWQ","heading":"REMA 1000 Frilandsgris","description":"250-400 g\nMax. 116.00 pr. kg","pricing":{"price":29,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":250,"to":400},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":6},{"id":"h7Pcb6HgmjCz0f6sysCV9","heading":"REMA 1000 Ribsteaks, chunks eller crispy sticks","description":"360-400 g\nMax. 80.56 pr. kg","pricing":{"price":29,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":360,"to":400},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":6},{"id":"yYjwsg1BjWmlKLlzsIaeT","heading":"REMA 1000 Mørbrad","description":"Dansk gris\nPR. ½ KG\n50.00 pr. kg\nVed køb af flere end 6 stk. pr. dag er prisen 39.95 pr. ½ kg","pricing":{"price":25,"pre_price":39.95,"currency":"DKK"},"quantity":{"unit":{"symbol":"kg","si":{"symbol":"kg","factor":1}},"size":{"from":0.5,"to":0.5},"pieces":{"from":1,"to":1,"min":null,"max":6}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":7},{"id":"sLXmG6NHOEu-c8ECeU6Ut","heading":"Karolines Køkken Piskefløde 36%","description":"250 ml\n48.00 pr. liter","pricing":{"price":12,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"ml","si":{"symbol":"l","factor":0.001}},"size":{"from":250,"to":250},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":7},{"id":"4tnUzt3DOoa2XGLp942NR","heading":"REMA 1000 Tarteletter","description":"120 g\n75.00 pr. kg","pricing":{"price":9,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":120,"to":120},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":7},{"id":"D3wv3MgssvlEVfk8okvSt","heading":"Paradiso Aspargessnitter","description":"240 g\n75.00 pr. kg","pricing":{"price":18,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":240,"to":240},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":7},{"id":"RDy8aWLG0C0AK_b6mDedI","heading":"REMA 1000 Jasminris","description":"1 kg","pricing":{"price":14,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"kg","si":{"symbol":"kg","factor":1}},"size":{"from":1,"to":1},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":7},{"id":"WBZlxEQcMwJa7MmEjEgYG","heading":"REMA 1000 Hønsekød i tern","description":"Dybfrost\n300 g\n116.66 pr. kg","pricing":{"price":35,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":300,"to":300},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":7},{"id":"3gsLhVHEETEPyRQG6mtk1","heading":"Brune champignon","description":"Økologiske\nDanske\n200 g 70.00 pr. kg","pricing":{"price":14,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":200,"to":200},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":8},{"id":"06LNZbkxc4iwaQVh227v_","heading":"Fynbo Ribsgelé eller tyttebær","description":"275-340 g\nMax. 54.55 pr. kg","pricing":{"price":15,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":275,"to":340},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":8},{"id":"MLtZm5dza11czOWnXnovr","heading":"Carl Vollstedt Hjorte- eller vildsvinespegepølse","description":"200 g\nPartivare. 145.00 pr. kg","pricing":{"price":29,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":200,"to":200},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":8},{"id":"WmsadNDEnNB9CqxmJGtJA","heading":"REMA 1000 Fasan","description":"Flået og renset\n450 g\n86.67 pr. kg","pricing":{"price":39,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":450,"to":450},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":8},{"id":"pmCcRHLbl4GS_WkHD4Ul2","heading":"Hakket krondyrkød","description":"Max. 10% fedt\nDybfrost\n350 g Partivare. 111.43 pr. kg","pricing":{"price":39,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":350,"to":350},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":8},{"id":"YSVdLc8rxL-WDfwF6t0Dg","heading":"Confiterede andelår","description":"425 g\n115.30 pr. kg","pricing":{"price":49,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":425,"to":425},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":9},{"id":"H-RjBX888DjdJVB6U04K8","heading":"REMA 1000 Krondyrsteaks eller krondyrkød i tern","description":"250-300 g\nPartivare. Max. 196.00 pr. kg","pricing":{"price":49,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":250,"to":300},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":9},{"id":"RU1pKM1Ng6XoYd9r-fjMn","heading":"REMA 1000 Krondyrfilet","description":"300 g\nPartivare. 330.00 pr. kg\nKrondyr med karamelliserede løg og broccolini","pricing":{"price":99,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":300,"to":300},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":9},{"id":"UmhoA9BWtdiaVhAbwzhnI","heading":"Krondyrkøllesteg","description":"700-800 g\nPartivare. Max. 178.57 pr. kg","pricing":{"price":125,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":700,"to":800},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":9},{"id":"fmX45Bg3hjxYVLaoq42mS","heading":"Diamond Hill Australsk rød-, hvid- eller rosévin","description":"Shiraz Merlot, 13.5%\nChardonnay, 13%\nShiraz Rosé, 13%\n3 LITER 33.00 pr. liter\nVed køb af flere end 6 stk. pr. variant pr. dag er prisen op til 125.00 pr. stk.","pricing":{"price":99,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"l","si":{"symbol":"l","factor":1}},"size":{"from":3,"to":3},"pieces":{"from":1,"to":1,"min":null,"max":6}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":10},{"id":"vMHjIvbHC-KDTZBtFGLpg","heading":"Maynard’s 10 Years Old Tawny","description":"Portugal, 75 cl, 20%\nPartivare. Max. 198.00 pr. liter","pricing":{"price":99,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"cl","si":{"symbol":"l","factor":0.01}},"size":{"from":75,"to":75},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":10},{"id":"tZv1FnleQ7wCOvkTjXeC1","heading":"WOW Reserve USA, rød- eller hvidvin, 75 cl","description":"Riesling, 12%\nPinot Noir, 13.5%\nPartivare. 78.67 pr. liter","pricing":{"price":59,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"cl","si":{"symbol":"l","factor":0.01}},"size":{"from":75,"to":75},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":10},{"id":"k_XbAQ_rgSOi30Q9KKuuh","heading":"Paul Mas Reserve Fransk rød- eller hvidvin, 75 cl","description":"Viognier, 13.5%\nPinot Noir, Pays d’Oc IGP, 13.5%\nCabernet Sauvignon, 14%\n78.67 pr. liter","pricing":{"price":59,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"cl","si":{"symbol":"l","factor":0.01}},"size":{"from":75,"to":75},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":10},{"id":"-GIWhk3eDIiL3rVb2bH2h","heading":"Maynard’s Colheita 2016","description":"Portugal 50 cl, 20%\nPartivare. Max. 198.00 pr. liter","pricing":{"price":99,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"cl","si":{"symbol":"l","factor":0.01}},"size":{"from":50,"to":50},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":10},{"id":"Gy2Vgovyrz-7X4ljxBuQx","heading":"Xavier Cotes Du Rhone","description":"Fransk rødvin, 75 cl, 14.5%\n78.67 pr. liter","pricing":{"price":59,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"cl","si":{"symbol":"l","factor":0.01}},"size":{"from":75,"to":75},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":10},{"id":"jwrp9ukKlWTGKHJFGCo71","heading":"LZC USA rød- eller hvidvin, 75 cl","description":"Special Reserva Cabernet Sauvignon Napa Valley, 14%\nChardonnay Napa Valley, 13.5%\nPartivare. 118.67 pr. liter","pricing":{"price":89,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"cl","si":{"symbol":"l","factor":0.01}},"size":{"from":75,"to":75},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":10},{"id":"Bk3OOYqNXAoN2wkTX9Zqj","heading":"Above & Beyond Californisk rød- eller hvidvin, 75 cl","description":"Pinot Noir, 13.5%\nChardonnay, 13.5%\nPartivare. 78.67 pr. liter","pricing":{"price":59,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"cl","si":{"symbol":"l","factor":0.01}},"size":{"from":75,"to":75},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":10},{"id":"lX5I2ao9FsFdK1fYkGPBh","heading":"REMA 1000 Flødekartofler","description":"700 g\n21.43 pr. kg","pricing":{"price":15,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":700,"to":700},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":11},{"id":"MnHF0J7hQYSEDmiy4zreI","heading":"Andebryst eller andelår","description":"Dybfrost 160-220 g\nMax. 125.00 pr. kg","pricing":{"price":20,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":160,"to":220},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":11},{"id":"uSHfVXxazXY1rMaoI8bhf","heading":"REMA 1000 Pitabrød","description":"375 g\n26.67 pr. kg","pricing":{"price":10,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":375,"to":375},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":11},{"id":"_J--0x4uT-3438KRq5UMO","heading":"Kitchen Joy Færdigret","description":"400 g\n62.50 pr. kg","pricing":{"price":25,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":400,"to":400},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":11},{"id":"5SXByb1C0KrU7Q1cboUdr","heading":"REMA 1000 Kyllingedippers eller cordon bleu","description":"275-300 g\nMax. 90.91 pr. kg","pricing":{"price":25,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":275,"to":300},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":11},{"id":"Pk4jFRFMrzr8EYSUazJ72","heading":"Yoghurt eller græsk inspireret yoghurt","description":"Laktosefri\n400-1000 g\nMax. 37.50 pr. kg","pricing":{"price":15,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":400,"to":1000},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":12},{"id":"DeEomYNkxpQEmthkxy8eG","heading":"REMA 1000 salat","description":"Økologisk\n70 g\n142.86 pr. kg","pricing":{"price":10,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":70,"to":70},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":12},{"id":"RiJSbvRmUeXAWzZ7fj9It","heading":"Slagter Lampe Spegepølse, guldleverpølse eller frankfurter","description":"300-400 g\nMax. 83.33 pr. kg\n5 STJERNER\nJyllands-Posten, Mad & Vin, 9. juli 2026","pricing":{"price":25,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":300,"to":400},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":12},{"id":"UX7Bqu1-Mesoiez8g0wC5","heading":"Graasten ketchup, remoulade, mayo eller dressing","description":"375-425 g\nMax. 37.33 pr. kg","pricing":{"price":14,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":375,"to":425},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":13},{"id":"PWY6LSutz6JGjM-pdYtM4","heading":"Knorr dinner kit","description":"252-321 g","pricing":{"price":18,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":252,"to":321},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":13},{"id":"0iKPcF4AFrGjHgb_eOrCL","heading":"Lavazza eller Merrild Hele bønner","description":"1 kg","pricing":{"price":149,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"kg","si":{"symbol":"kg","factor":1}},"size":{"from":1,"to":1},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":13},{"id":"6-swp5UWcVkdJ5ag1NmNu","heading":"Jacobsen eller Grimbergen øl","description":"75 cl. Ex. pant\n33.33 pr. liter","pricing":{"price":25,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"cl","si":{"symbol":"l","factor":0.01}},"size":{"from":75,"to":75},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":13},{"id":"2Q1MBdi_ZVJrLGR22xppG","heading":"Skippy eller REMA 1000 peanutbutter","description":"300-340 g\nMax. 83.33 pr. kg","pricing":{"price":25,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":300,"to":340},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":13},{"id":"W8hUxWy4r5hDDns6m4OA8","heading":"Humlum pizzadej","description":"400 g","pricing":{"price":10,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":400,"to":400},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":14},{"id":"MIBd6-EIUn-71HmTRJNh3","heading":"REMA 1000 Tex Mex Tortilla chips","description":"200 g","pricing":{"price":5,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":200,"to":200},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":14},{"id":"TyTJXzWCaoGOd7TtSsGpZ","heading":"REMA 1000 Pepperoni eller skinketern","description":"100-150 g","pricing":{"price":10,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":100,"to":150},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":14},{"id":"_NXnFkeys-0Xc65dOQ_D2","heading":"REMA 1000 Dansk kyllingeinderfilet","description":"300 g","pricing":{"price":25,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":300,"to":300},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":14},{"id":"EhU65Z0gkowPqEfpAS94K","heading":"Planet Dairy Revet tex mex eller cheddar","description":"150 g","pricing":{"price":12,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":150,"to":150},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":14},{"id":"TlBHU8jIa3leXJn5oRBgz","heading":"REMA 1000 hakket dansk oksekød 4-7% eller Burger Boost","description":"350 g\n100.00 pr. kg","pricing":{"price":35,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":350,"to":350},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":15},{"id":"1esUus3KIevdUUu_-oPTj","heading":"REMA 1000 eller Napoli fastfoodbrød","description":"330-500 g\nMax. 36.36 pr. kg","pricing":{"price":12,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":330,"to":500},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":15},{"id":"qtDubbzEAQgiQtIiY7X4R","heading":"REMA 1000 Kyllingekebab eller Frilandsgris gyros","description":"Dybfrost\n300 g\n83.33 pr. kg","pricing":{"price":25,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":300,"to":300},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":15},{"id":"sIYNOhbXg_pspeWPUEJio","heading":"Zelected Syltede rødløg, agurker, aioli eller sauce","description":"115-260 g\nMax. 130.43 pr. kg","pricing":{"price":15,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":115,"to":260},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":15},{"id":"9WeBXQPQKp9TXaDMRXtzU","heading":"REMA 1000 Grillet madbrød","description":"Dybfrost\n4 stk./600 g\n25.00 pr. kg","pricing":{"price":15,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":600,"to":600},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":15},{"id":"qtYfKHTpmBd_SX4TISpvl","heading":"KiMs chips eller snacks","description":"130-160 g\nMax. 107.69 pr. kg","pricing":{"price":14,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":130,"to":160},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":16},{"id":"LOsKhB5ZqpWN38f53Vck1","heading":"Harboe sodavand","description":"50 cl. Ex. pant\n6.00 pr. liter","pricing":{"price":3,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"cl","si":{"symbol":"l","factor":0.01}},"size":{"from":50,"to":50},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":16},{"id":"JMJ3XAb4uEH__Q6Q6tjoO","heading":"Taffel Corners eller Cornitas","description":"90-160 g\nPartivare. Max. 155.56 pr. kg","pricing":{"price":14,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":90,"to":160},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":16},{"id":"lX4b3jCbrL1dSRAwI37py","heading":"Easis chips","description":"50 g\n180.00 pr. kg","pricing":{"price":9,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":50,"to":50},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":16},{"id":"SNvlN0JJL--pyMNTRzUYx","heading":"Gazoz sodavand","description":"33 cl. Ex. pant\nPartivare. 30.30 pr. liter","pricing":{"price":10,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"cl","si":{"symbol":"l","factor":0.01}},"size":{"from":33,"to":33},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":16},{"id":"yH8D9Xj5ssih4tPqBsmz7","heading":"Marabou chokolade","description":"87-100 g\nMax. 172.41 pr. kg","pricing":{"price":15,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":87,"to":100},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":17},{"id":"2aq6C1srZeetHBOk8pC0V","heading":"Malaco slik eller Cloetta juleskum","description":"200-340 g\nPartivare. Max. 175.00 pr. kg","pricing":{"price":35,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":200,"to":340},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":17},{"id":"66rPG8elNWdd_5q2djBwc","heading":"Carletti slik eller Evers bolcher","description":"60-70 g\nMax. 166.67 pr. kg","pricing":{"price":10,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":60,"to":70},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":17},{"id":"BOb4ftsxx2rqdN4UcLL90","heading":"Katjes eller Sallos","description":"100-110 g\nPartivare. Max. 120.00 pr. kg","pricing":{"price":12,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":100,"to":110},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":17},{"id":"Gf_qVFg-UiLSQZtrZ1aAt","heading":"Van Slooten slik","description":"200-250 g\nPartivare. Max. 125.00 pr. kg","pricing":{"price":25,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":200,"to":250},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":17},{"id":"tDInhYYbL7dOA9Vyy4KuG","heading":"Rønbjerg Is Dansk flødeis","description":"Økologisk 750 ml\nVed køb af flere end 6 stk. pr. variant pr. dag er prisen 40.18 pr. stk.\n38.67 pr. liter","pricing":{"price":29,"pre_price":40.18,"currency":"DKK"},"quantity":{"unit":{"symbol":"ml","si":{"symbol":"l","factor":0.001}},"size":{"from":750,"to":750},"pieces":{"from":1,"to":1,"min":null,"max":6}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":18},{"id":"0r-fjGDN829Ze79RI5Yvl","heading":"REMA 1000 is","description":"400-440 ml/4-8 stk.\nMax. 37.50 pr. liter","pricing":{"price":15,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"ml","si":{"symbol":"l","factor":0.001}},"size":{"from":400,"to":440},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":18},{"id":"qIWfsZ_0g2EtK2SHVmpoI","heading":"Tiramisu eller Danette choko","description":"180-200 g\nMax. 55.56 pr. kg","pricing":{"price":10,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":180,"to":200},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":18},{"id":"cA9_Oz1tGJ7XUEzv_2wT9","heading":"Thy Ismejeri Fromage","description":"900 ml\n24.44 pr. liter","pricing":{"price":22,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"ml","si":{"symbol":"l","factor":0.001}},"size":{"from":900,"to":900},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":18},{"id":"CkKLf5r0lAO2YzI8Pr6n8","heading":"REMA 1000 Chokolade-fondant","description":"Dybfrost\n2 stk./200 g\nPartivare. 10.00 pr. stk./100.00 pr. kg","pricing":{"price":20,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":200,"to":200},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":18},{"id":"CeoiWwZp-jHVBGhEwSteh","heading":"Wasa snacks","description":"150-330 g\nMax. 133.33 pr. kg","pricing":{"price":20,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":150,"to":330},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":19},{"id":"gullvOyY4ONHEIzG2IFVG","heading":"Coronet roulade eller Dan Cake kage","description":"250-350 g\nMax. 48.00 pr. kg","pricing":{"price":12,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":250,"to":350},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":19},{"id":"UDUGihKgSP-kikz1pVLhO","heading":"Karen Volf Franske vafler","description":"107 g\nPartivare. 93.46 pr. kg","pricing":{"price":10,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":107,"to":107},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":19},{"id":"kMTrqCLuIvmNSE9JHzqc8","heading":"Kiks eller kage","description":"120-230 g\nMax. 83.33 pr. kg","pricing":{"price":10,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":120,"to":230},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":19},{"id":"_QXFWwpOI8w0f_kOgPqjC","heading":"Kage","description":"400 g\nPartivare. 70.00 pr. kg","pricing":{"price":28,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":400,"to":400},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":19},{"id":"wSvvC0pAXVZk9hLisAusQ","heading":"Caputo mel","description":"1 kg Partivare","pricing":{"price":18,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"kg","si":{"symbol":"kg","factor":1}},"size":{"from":1,"to":1},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":20},{"id":"ePguEMohXGeSdmMRUqrw7","heading":"Amo bolle- eller kageblanding","description":"400-500 g Partivare. Max. 50.00 pr. kg","pricing":{"price":20,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":400,"to":500},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":20},{"id":"lbl1zISVvBMEtk8Gb-xre","heading":"Carletti overtræk eller chokoladeplade","description":"100-200 g Max. 200.00 pr. kg","pricing":{"price":20,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":100,"to":200},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":20},{"id":"x6nI6vd39cKFL-4gCpW4o","heading":"Gluten eller Amo hvedemel","description":"1.8-2 kg Max. 8.33 pr. kg","pricing":{"price":15,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"kg","si":{"symbol":"kg","factor":1}},"size":{"from":1.8,"to":2},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":20},{"id":"hzB6vb-d9c7XgqQBVDam5","heading":"Mallows","description":"120 g Partivare. 166.67 pr. kg","pricing":{"price":20,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":120,"to":120},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":20},{"id":"pby-jI9zE8aeVOpWS5rWv","heading":"Serveringsfad, kagerulle, afsætningsrist, køkkenvægt, kageboks, 3-pak opbevaringssæt i plast, springform eller bradepande med låg","description":"Partivare","pricing":{"price":50,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"pcs","si":{"symbol":"pcs","factor":1}},"size":{"from":1,"to":1},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":21},{"id":"uNfCi9pOgKjYLCTDECN9-","heading":"Decilitermål, dejskraber, piskeris, minisigte 8 cm, 2-pak grydeskeer, grydeske og palet, 5-pak udstikkerforme, smørebræt i træ 24x14 cm, palet, 12-pak kødnåle. 2-4-pak mini dip skåle, 2-pak squeeze","description":"flasker 20-pak sprøjteposer eller 3-pak målebæger","pricing":{"price":20,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"pcs","si":{"symbol":"pcs","factor":1}},"size":{"from":1,"to":1},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":21},{"id":"n5eGhnxbJP9J42LHkVEWo","heading":"10-pak tyller, fad i stål, udstikker til honningkagehus, 3-pak røreskåle, brødkurv eller røreskål med låg","description":"L30 cm/1.5-3 l Partivare","pricing":{"price":30,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"pcs","si":{"symbol":"pcs","factor":1}},"size":{"from":1,"to":1},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":21},{"id":"v75drgg45V0-jbzWFqCT0","heading":"Fiskars Essential Grøntsags-, tomat-, urte- eller skrællekniv","description":"Partivare","pricing":{"price":25,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"pcs","si":{"symbol":"pcs","factor":1}},"size":{"from":1,"to":1},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":21},{"id":"IIFZhjXvvP-QUGVQTxpI2","heading":"Målekande 1/4 l, sigte, dejskærer, rivejern, 8-pak udstikkersæt, 1-2-pak strødåse, dej-/farsrører, 2-pak dipskål, dejspore med 6 hjul eller 4-pak kagepap","description":"Partivare","pricing":{"price":25,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"pcs","si":{"symbol":"pcs","factor":1}},"size":{"from":1,"to":1},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":21},{"id":"l_Sz-MRjWOcPp8m3hyghZ","heading":"Skål, 2-pak snackskål, springform, kølerist, 3i1 målebæger, chokoladeform, 4-pak silikoneredskaber eller bogen Mine bedste opskrifter","description":"3.2 l/Ø24 cm Partivare","pricing":{"price":40,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"pcs","si":{"symbol":"pcs","factor":1}},"size":{"from":1,"to":1},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":21},{"id":"IBD-gHIONj30SVPfh95dA","heading":"Sukkertermometer, bradepande, 2-pak dekoplatte, træbakke eller pandekagepande","description":"40x28/45x20 cm/ Ø25 cm Partivare","pricing":{"price":59,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"pcs","si":{"symbol":"pcs","factor":1}},"size":{"from":1,"to":1},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":21},{"id":"xbiKEdTzBylAVnTy_6akv","heading":"Æbleskivepande i støbejerm","description":"Partivare","pricing":{"price":99,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"pcs","si":{"symbol":"pcs","factor":1}},"size":{"from":1,"to":1},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":21},{"id":"cQuNUSyZz1jMT-WvH_xd-","heading":"Libresse hygiejnebind, trusseindlæg eller Tena discreet","description":"6-60 stk.\nMax. 5.00 pr. stk.","pricing":{"price":30,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"pcs","si":{"symbol":"pcs","factor":1}},"size":{"from":1,"to":1},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":22},{"id":"ZjvyMybkQny_rOC8xtKoS","heading":"OMO vaskemiddel","description":"700 ml/14 vaske\nPartivare. 1.43 pr. vask","pricing":{"price":20,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"ml","si":{"symbol":"l","factor":0.001}},"size":{"from":700,"to":700},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":22},{"id":"ZNTXE1NCGyRT0zJEzsgbq","heading":"Skrald-let affaldsposer med snørelukning","description":"Ved køb af flere end 6 stk. pr. variant pr. dag er prisen op til 9.95 pr. stk.\n20 stk./15 l madaffald\n22 stk./15 l\n20 stk./20 l\n15 stk./30 l\nMax. 0.33 pr. stk.","pricing":{"price":5,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"pcs","si":{"symbol":"pcs","factor":1}},"size":{"from":1,"to":1},"pieces":{"from":1,"to":1,"min":null,"max":6}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":22},{"id":"0duqataHAwDWCQthFsphV","heading":"Domestos toiletrens","description":"435 ml\nPartivare. 45.98 pr. liter","pricing":{"price":20,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"ml","si":{"symbol":"l","factor":0.001}},"size":{"from":435,"to":435},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":22},{"id":"7EceLBh7JP-aoItBvf_Ld","heading":"Axe deo spray eller shower gel","description":"150-400 ml\nMax. 133.33 pr. liter","pricing":{"price":20,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"ml","si":{"symbol":"l","factor":0.001}},"size":{"from":150,"to":400},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":22},{"id":"vKDbiyC8BBXUhtUT6GlBT","heading":"Poly Swing eller Taft hair styling","description":"150-250 ml\nMax. 146.67 pr. liter","pricing":{"price":22,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"ml","si":{"symbol":"l","factor":0.001}},"size":{"from":150,"to":250},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":22},{"id":"qVT6Cb8L8HoU65JXJD_yT","heading":"REMA 1000 Laksefileter, rødspættefileter eller mørksejfilet","description":"225 g\n173.33 pr. kg","pricing":{"price":39,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":225,"to":225},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":23},{"id":"deYEN9JIlmkGsZtJOgIDF","heading":"REMA 1000 Cocktailpølser eller minifrikadeller","description":"Fedtreducerede\n150-200 g\nMax. 100.00 pr. kg","pricing":{"price":15,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":150,"to":200},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":23},{"id":"f8wdIB2HjnRdbieqagIGx","heading":"REMA 1000 Røget filet eller kogt skinke","description":"120-140 g\nMax. 100.00 pr. kg","pricing":{"price":12,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":120,"to":140},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":23},{"id":"zUHvVEurLBZx-i4Jqe41y","heading":"Cheasy Hytteost 1.5% fedt","description":"250 g\n48.00 pr. kg","pricing":{"price":12,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":250,"to":250},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":23},{"id":"OllEuwc3-5c9t659XvNP4","heading":"REMA 1000 Kullerloins eller hele rødspætter","description":"300-475 g\nMax. 196.67 pr. kg","pricing":{"price":59,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":300,"to":475},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":23},{"id":"r2WteOAHa5jjXpL66mwy1","heading":"Matilde Kakaomælk","description":"Ved køb af flere end 6 stk. pr. dag er prisen 21.79 pr. stk.\n1 liter","pricing":{"price":8,"pre_price":21.79,"currency":"DKK"},"quantity":{"unit":{"symbol":"l","si":{"symbol":"l","factor":1}},"size":{"from":1,"to":1},"pieces":{"from":1,"to":1,"min":null,"max":6}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":24},{"id":"pHZV0jgIU-EKwA6IxaB4e","heading":"REMA 1000 Hakket dansk grisekød 8-12% eller medister","description":"500 g\n40.00 pr. kg","pricing":{"price":20,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":500,"to":500},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":24},{"id":"Nkw4IELhrWnRj5mnh7zyI","heading":"Mayo Pålægs- eller frugtsalat","description":"150-200 g\nMax. 66.67 pr. kg","pricing":{"price":10,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":150,"to":200},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":24},{"id":"cSjAKRjKTu_4IFVdePVZL","heading":"Tuborg eller Carlsberg øl","description":"Ved køb af flere end 72 stk. pr. variant pr. dag er prisen op til 7.25 pr. stk.\n33 cl. Ex. pant\nKasse med 24 stk. 108.00/13.64 pr. liter","pricing":{"price":4.5,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"cl","si":{"symbol":"l","factor":0.01}},"size":{"from":33,"to":33},"pieces":{"from":1,"to":1,"min":null,"max":72}},"run_from":"2026-10-10T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":24},{"id":"juNvUopS6-mcNJPsqgSzF","heading":"CasAmore Italiensk mini surdejspizza","description":"Dybfrost 150 g Partivare. 66.67 pr. kg","pricing":{"price":10,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":150,"to":150},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-14T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":25},{"id":"bCxQJbUHLXIG2jcVQi1ah","heading":"Spangsberg Flødeboller","description":"270 g Partivare. 144.44 pr. kg","pricing":{"price":39,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":270,"to":270},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-14T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":25},{"id":"Oq6rJ9xsTgXe5wD9LGUdC","heading":"Magnum is","description":"270-300 ml/3-pak\nPartivare. Max. 92.59 pr. liter","pricing":{"price":25,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"ml","si":{"symbol":"l","factor":0.001}},"size":{"from":270,"to":300},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-14T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":26},{"id":"59mvHOIqUPJ3Ru4hdh7Wb","heading":"Président brie eller smøresost","description":"100-140 g\n100.00 pr. kg\nVed køb af flere end 6 stk. pr. variant pr. dag er prisen op til 19.09 pr. stk.","pricing":{"price":10,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":100,"to":140},"pieces":{"from":1,"to":1,"min":null,"max":6}},"run_from":"2026-10-14T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":26},{"id":"KDGFDX4sU7D0hfCZsQl0w","heading":"REMA 1000 Ribeye","description":"Af kalv eller ungkvæg\nPR. ½ KG\n179.90 pr. kg\nVed køb af flere end 6 stk. pr. variant pr. dag er prisen op til 149.95 pr. ½ kg","pricing":{"price":89.95,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"kg","si":{"symbol":"kg","factor":1}},"size":{"from":0.5,"to":0.5},"pieces":{"from":1,"to":1,"min":null,"max":6}},"run_from":"2026-10-14T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":26},{"id":"Yq5c9Kq51HLOKp0jNMmOB","heading":"REMA 1000 Højrebsfilet","description":"Af kalv eller ungkvæg\nPR. ½ KG\n159.90 pr. kg","pricing":{"price":79.95,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"kg","si":{"symbol":"kg","factor":1}},"size":{"from":0.5,"to":0.5},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-14T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":26},{"id":"WFB6__1rCmUcGfYL0M7AB","heading":"Arla Klovborg eller Cheasy ost i skiver","description":"200-240 g\nMax. 110.00 pr. kg","pricing":{"price":22,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":200,"to":240},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-14T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":26},{"id":"UdTn7rhre1uhZzsfseDdV","heading":"Café Noir eller Gevalia kaffe eller instant","description":"185-500 g Max. 318.92 pr. kg","pricing":{"price":59,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":185,"to":500},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-14T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":27},{"id":"cwe1f17OM4g6ZBtjOPYnf","heading":"One Edge, State eller Powerade","description":"40-75 cl. Ex. pant Max. 25.00 pr. liter","pricing":{"price":10,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"cl","si":{"symbol":"l","factor":0.01}},"size":{"from":40,"to":75},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-14T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":27},{"id":"Jy9a2YbSOX9fQzJu3sErw","heading":"Antos fladbrød","description":"360 g Partivare. 41.67 pr. kg","pricing":{"price":15,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":360,"to":360},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-14T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":27},{"id":"C3ArtndMU9KrYoVRGd1Ro","heading":"Bananer","description":"Kl. 1, udenlandske Pr. stk.\nVed køb af flere end 20 stk. pr. dag er prisen 2.50 pr. stk.\nBanan med chokolade og nødder","pricing":{"price":1.25,"pre_price":2.5,"currency":"DKK"},"quantity":{"unit":{"symbol":"pcs","si":{"symbol":"pcs","factor":1}},"size":{"from":1,"to":1},"pieces":{"from":1,"to":1,"min":null,"max":20}},"run_from":"2026-10-14T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":28},{"id":"a56cjTMb7T1SvFSykcFmU","heading":"Roser i bundt","description":"10 stk./50 cm","pricing":{"price":25,"pre_price":null,"currency":"DKK"},"quantity":{"unit":{"symbol":"pcs","si":{"symbol":"pcs","factor":1}},"size":{"from":1,"to":1},"pieces":{"from":1,"to":1,"min":null,"max":null}},"run_from":"2026-10-14T22:00:00+0000","run_till":"2026-10-17T21:59:59+0000","catalog_page":28}],"pages":[{"number":1,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-1.webp&w=1400&s=aca751f224d7fdd48c60d6a4e1c969a4","width":1400,"height":2443,"sha256":"01b4087c6f5ddb62f95ec06ec4695e3767d4b0480fa47151b1678240316cddba","bytes":460677},{"number":2,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-2.webp&w=1400&s=e40fbefaf8c0792cefd30815668c2f8b","width":1400,"height":2443,"sha256":"b0040100c54f2bfbeb6d5a52d1003bddb92919d08b1a00f611c1209ad297692f","bytes":415255},{"number":3,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-3.webp&w=1400&s=c3afff6d08cf19b32aeb231d0b1c3c76","width":1400,"height":2443,"sha256":"dc07db15347974952d0c8965e59ef9777f0b6bfee60aab3198fe2b945ff64786","bytes":385817},{"number":4,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-4.webp&w=1400&s=e768eefec43373d7a3eb527b4c6c3080","width":1400,"height":2443,"sha256":"eec1911281e83b495e63ffbe86d5f32dea18be02ab993153284af0d0307e1e1a","bytes":392477},{"number":5,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-5.webp&w=1400&s=4a0a5e1eb312cdeb416410d1e4ce9168","width":1400,"height":2443,"sha256":"9134794b55a5212b1b7ede02ba0f4bf2bab6b508013521ae82b605cade48a38e","bytes":460912},{"number":6,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-6.webp&w=1400&s=bc56c79a627b42a98647dbc57bc9a3b8","width":1400,"height":2443,"sha256":"26ca6b214eb1e22c0a8edc14f280514cf595592019976a30783859e799446347","bytes":478001},{"number":7,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-7.webp&w=1400&s=5a08586f41efb4912d66dccf41211af2","width":1400,"height":2443,"sha256":"9f8da42c825bf08b9477d4f07ced94e11b04d884d6ebf34088a2057409d14638","bytes":411496},{"number":8,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-8.webp&w=1400&s=b7f9090c38a335118b44aad74e2f0af9","width":1400,"height":2443,"sha256":"ad122d8ac2d5bc1154b6c09e803b6aa5761b578b093a71a3ad346d1c6a28f227","bytes":540400},{"number":9,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-9.webp&w=1400&s=5551dc6828533e908bc1f7fbba363ef1","width":1400,"height":2443,"sha256":"a426f218b4563f5a9d4dcd571dc1f55e613ee298d106f8b7f28683cc734eedc5","bytes":584278},{"number":10,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-10.webp&w=1400&s=b43c8ff33c0e6193f47b0d5e466ff789","width":1400,"height":2443,"sha256":"57209fe66c6792c422a483ed4e4037b9eede13a74f480a3c057f15ee530ca41c","bytes":418531},{"number":11,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-11.webp&w=1400&s=0ed02da99d00abae595904699e7da8c9","width":1400,"height":2443,"sha256":"ba9972e4345d12c6f5f5e4fbcdd6599429311ae3c38b55b8cdae97c72a103ab8","bytes":385537},{"number":12,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-12.webp&w=1400&s=499c40198e1e1dc9cdfcd90070b893af","width":1400,"height":2443,"sha256":"2189e707b53c0676d57c0a09656b330b114d8545f58fd8b125d4712e8414fdae","bytes":348164},{"number":13,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-13.webp&w=1400&s=bb631b4b0a7a396374c7818560856e13","width":1400,"height":2443,"sha256":"9f9f4cba1e3fa46242bd443484a0d1cf209f0ce496c9e5945795876ee7a41637","bytes":394746},{"number":14,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-14.webp&w=1400&s=dabfeb6781eceb64a24969c685d5f558","width":1400,"height":2443,"sha256":"7417dd4c78ecc4fb3e5710aa2c0ab309733f9e33d324a43bf127b744284db853","bytes":439872},{"number":15,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-15.webp&w=1400&s=57e27c04304ccb0c20b3e705b9fca9ed","width":1400,"height":2443,"sha256":"5d786d67bccaf73e8d7f544ae3082a96763ec6fb64fee702f72506e3bfc7b5ea","bytes":448036},{"number":16,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-16.webp&w=1400&s=d979f515d87be5c0aa6d49e2ace2e06a","width":1400,"height":2443,"sha256":"4ae1bed2eb81ad3c7eb1767e39cc94fce77def4498f819b77a990b4b8d80bbcd","bytes":434402},{"number":17,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-17.webp&w=1400&s=9f923e3825e0501c97d47333f544f44f","width":1400,"height":2443,"sha256":"ce6786bdb366f87f93f204b7370742ba55b3692e1b60663594e54c3d58870474","bytes":459836},{"number":18,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-18.webp&w=1400&s=2c7fbc5b6c154895abf72e2c9e0b508b","width":1400,"height":2443,"sha256":"43bce3806bf714f5e8a9be7503dad67e56621719a1ce77f40ace6b87cf2e0ba6","bytes":334413},{"number":19,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-19.webp&w=1400&s=18ab3621e4655e9e0b04741607087c98","width":1400,"height":2443,"sha256":"c2d1d55575953816e41bba708d685e22201966c2c41d9f92c67e0cb6d4ab74df","bytes":435828},{"number":20,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-20.webp&w=1400&s=029fbda0f4a3a1fa15ad53509aa25010","width":1400,"height":2443,"sha256":"9dbb3a9395f528acd8d7a296e2af05f5b787611716913e63b3eccedb559004d7","bytes":383614},{"number":21,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-21.webp&w=1400&s=40b4a3de15023d3caf1d41b789bdc2d7","width":1400,"height":2443,"sha256":"104b62590b071137ad355a8039534d22d2411627f1e7aa07456ecebde17189db","bytes":652498},{"number":22,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-22.webp&w=1400&s=4979731d84bdd2d7bdc8e0f8009b35bc","width":1400,"height":2443,"sha256":"6f94b00fd286e702ab1da80c6d999a381c14114edc7383f4d114191570660c96","bytes":401908},{"number":23,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-23.webp&w=1400&s=50152ede1e2b4af089c7e6116789cf1e","width":1400,"height":2443,"sha256":"c4e057493a56feba6973c1c705f1b680b9df13a38bf3aa0290a956c48c5238d2","bytes":406680},{"number":24,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-24.webp&w=1400&s=eb548224785e2e259863a066e2385b91","width":1400,"height":2443,"sha256":"bc3ff30fc7a995bc8fa507a70a6e69aeafca3d3d5c5a2e51f694d8cb1cfacc59","bytes":387610},{"number":25,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-25.webp&w=1400&s=71d61350a2115dad778760d36564e018","width":1400,"height":2443,"sha256":"ad4e030a1f1bd9780e96318ba925b8c3c4e5992b494a366a57989a697d5c0fc1","bytes":446771},{"number":26,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-26.webp&w=1400&s=00d3f619ac8df222f6032dd7ef082a68","width":1400,"height":2443,"sha256":"04b417b4add8331992ba516220b8cab2b1cb5f8f1bccad03db8781404339a7d7","bytes":465520},{"number":27,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-27.webp&w=1400&s=3b11e1308b39e739f36f79d72f4f68a1","width":1400,"height":2443,"sha256":"1e7e35719fde4d042cbb9ebb43668a374780ae11d6f34d161f40237e80aca8bd","bytes":399668},{"number":28,"url":"https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-28.webp&w=1400&s=3f64f92ede6c1efb114c891b5a23493f","width":1400,"height":2443,"sha256":"ecf8366c13974d915e15a47d4f08da330304539d780753bea14bc327b309d60f","bytes":450081}],"complete":true}
+{
+  "store": "REMA 1000",
+  "catalogId": "LsFVgdcr",
+  "label": "Uge 42",
+  "sourceUrl": "https://rema1000.dk/avis/",
+  "validFrom": "2026-10-10T22:00:00+0000",
+  "validTo": "2026-10-17T21:59:59+0000",
+  "pageCount": 28,
+  "products": [
+    {
+      "id": "vHa0qlB4GS5sa4sICk86j",
+      "heading": "REMA 1000 Dansk ovnklar flæskesteg",
+      "description": "Uden ben\nPR. ½ KG\nPartivare 29.90 pr. kg",
+      "pricing": {
+        "price": 14.95,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "kg",
+          "si": {
+            "symbol": "kg",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 0.5,
+          "to": 0.5
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 1
+    },
+    {
+      "id": "JackwAgnQSCZk867Q4FD6",
+      "heading": "Coca-Cola eller Fanta",
+      "description": "Ved køb af flere end 72 stk. pr. variant pr. dag er prisen op til 5.95 pr. stk.\n33 cl. Ex. pant\nKasse med 24 stk. 72.00/9.09 pr. liter",
+      "pricing": {
+        "price": 3,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "cl",
+          "si": {
+            "symbol": "l",
+            "factor": 0.01
+          }
+        },
+        "size": {
+          "from": 33,
+          "to": 33
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": 72
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 1
+    },
+    {
+      "id": "GDNeJI-LeLVCRAJuSgPjR",
+      "heading": "Haribo slikpose",
+      "description": "150-170 g\nPartivare. Max. 100.00 pr. kg",
+      "pricing": {
+        "price": 15,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 150,
+          "to": 170
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 1
+    },
+    {
+      "id": "MY8xpYUR1iJ5_ATxN0tKX",
+      "heading": "Gøl spegepølse eller kødpølse",
+      "description": "Ved køb af flere end 6 stk. pr. variant pr. dag er prisen op til 14.95 pr. stk.\n110-135 g\nMax. 90.91 pr. kg",
+      "pricing": {
+        "price": 10,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 110,
+          "to": 135
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": 6
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 1
+    },
+    {
+      "id": "4IheIQGChUWZE-k0PlAox",
+      "heading": "REMA 1000 Flæskesvær",
+      "description": "Saltes godt og steges i ovnen i 25-30 min.\n400 g\nPartivare. 50.00 pr. kg",
+      "pricing": {
+        "price": 20,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 400,
+          "to": 400
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 1
+    },
+    {
+      "id": "6YeEkiTQB8rc_5h_2j1ST",
+      "heading": "Skrabeæg M/L",
+      "description": "10 stk.\n2.00 pr. stk.",
+      "pricing": {
+        "price": 20,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "pcs",
+          "si": {
+            "symbol": "pcs",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 10,
+          "to": 10
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 2
+    },
+    {
+      "id": "bSXmoxu6-I8nQDrhFrvH-",
+      "heading": "Steff Houlberg Brunchpølser eller bacon i skiver",
+      "description": "300-350 g\nPartivare. Max. 73.33 pr. kg",
+      "pricing": {
+        "price": 22,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 300,
+          "to": 350
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 2
+    },
+    {
+      "id": "z7WGBVLxL2986tqRXNBFI",
+      "heading": "Castello",
+      "description": "125-170 g\nMax. 144.00 pr. kg",
+      "pricing": {
+        "price": 18,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 125,
+          "to": 170
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 2
+    },
+    {
+      "id": "cnYdI0I-kyhYTJUB6Jvgy",
+      "heading": "Den Gamle Fabrik Marmelade",
+      "description": "270 g\nPartivare. 55.56 pr. kg",
+      "pricing": {
+        "price": 15,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 270,
+          "to": 270
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 2
+    },
+    {
+      "id": "19R15fdisgEX7kPUD5Xl3",
+      "heading": "Tropicana juice",
+      "description": "FINDES PÅ KØL\n900 ml. Ex. pant\n22.22 pr. liter",
+      "pricing": {
+        "price": 20,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "ml",
+          "si": {
+            "symbol": "l",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 900,
+          "to": 900
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 2
+    },
+    {
+      "id": "fuRI5ack2iVPw65s4GmyQ",
+      "heading": "Friskbagt morgenbrød fra håndværksbageren",
+      "description": "BAVINCHI BAGER\nLækkert bagværk fra bageren\nÆGTE BAGERHÅNDVÆRK JA TAK\nPr. stk.",
+      "pricing": {
+        "price": 3,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "pcs",
+          "si": {
+            "symbol": "pcs",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1,
+          "to": 1
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 2
+    },
+    {
+      "id": "QZO-b_53cg1BFNr5VWuMO",
+      "heading": "Galle & Jessen pålægschokolade eller Nutella",
+      "description": "Ved køb af flere end 6 stk. pr. variant pr. dag er prisen op til 48.95 pr. stk.\n216-350 g\nMax. 162.04 pr. kg",
+      "pricing": {
+        "price": 35,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 216,
+          "to": 350
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": 6
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 3
+    },
+    {
+      "id": "r9_8DQ1DK0grQ3R-dDUY9",
+      "heading": "BKI formalet eller instant kaffe",
+      "description": "150-400 g\nMax. 260.00 pr. kg",
+      "pricing": {
+        "price": 39,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 150,
+          "to": 400
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 3
+    },
+    {
+      "id": "f7tLC-tyfKt3tvn8x76z7",
+      "heading": "REMA 1000 Bær eller frugter",
+      "description": "Økologiske Dybfrost 200-250 g\nMax. 75.00 pr. kg",
+      "pricing": {
+        "price": 15,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 200,
+          "to": 250
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 3
+    },
+    {
+      "id": "YNM9474roSFU7j7WuMf1i",
+      "heading": "Hatting brød, kanelsnegle eller tebirkes",
+      "description": "Dybfrost 340-438 g\nMax. 35.29 pr. kg",
+      "pricing": {
+        "price": 12,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 340,
+          "to": 438
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 3
+    },
+    {
+      "id": "BF2jSbSz6msbaDk9QsCY-",
+      "heading": "Protein- eller brunchpandekager",
+      "description": "240-360 g\nPartivare. Max. 83.33 pr. kg",
+      "pricing": {
+        "price": 20,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 240,
+          "to": 360
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 3
+    },
+    {
+      "id": "_6OYQTmmLKPDMGZSi6yoo",
+      "heading": "Mango",
+      "description": "Kl. 1, udenlandsk Pr. stk.",
+      "pricing": {
+        "price": 12,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "pcs",
+          "si": {
+            "symbol": "pcs",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1,
+          "to": 1
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 3
+    },
+    {
+      "id": "ebXEHq1VSNiD1WpbTwdTs",
+      "heading": "Granatæble",
+      "description": "Udenlandsk Pr. stk.",
+      "pricing": {
+        "price": 8,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "pcs",
+          "si": {
+            "symbol": "pcs",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1,
+          "to": 1
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 3
+    },
+    {
+      "id": "9vYmuFr_NliHdNJS8MV1O",
+      "heading": "Kohberg brød",
+      "description": "Ved køb af flere end 6 stk. pr. variant pr. dag er prisen op til 26.50 pr. stk.\n380-1000 g\nMax. 39.47 pr. kg",
+      "pricing": {
+        "price": 15,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 380,
+          "to": 1000
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": 6
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 4
+    },
+    {
+      "id": "G-fMDyXdXDOgnb_OiX4CI",
+      "heading": "Ocean Run Rejer i lage",
+      "description": "200 g\n145.00 pr. kg",
+      "pricing": {
+        "price": 29,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 200,
+          "to": 200
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 4
+    },
+    {
+      "id": "fwPziVpTqI0rHpNxiQix8",
+      "heading": "REMA 1000 Panerede fisk",
+      "description": "Dybfrost\n500 g\n58.00 pr. kg",
+      "pricing": {
+        "price": 29,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 500,
+          "to": 500
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 4
+    },
+    {
+      "id": "5rL1RbfJS-xEGbrKC_XBZ",
+      "heading": "Røget laks i skiver",
+      "description": "50 g\nPartivare. 300.00 pr. kg",
+      "pricing": {
+        "price": 15,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 50,
+          "to": 50
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 4
+    },
+    {
+      "id": "UkXbpj3RQYGoS4wwhJskk",
+      "heading": "Slagtermester Andersen Leverpostej",
+      "description": "400 g\n30.00 pr. kg",
+      "pricing": {
+        "price": 12,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 400,
+          "to": 400
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 4
+    },
+    {
+      "id": "4ceA97c5J6vj9sh9frQKw",
+      "heading": "REMA 1000 Saltkød",
+      "description": "100 g\n150.00 pr. kg",
+      "pricing": {
+        "price": 15,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 100,
+          "to": 100
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 4
+    },
+    {
+      "id": "FYaSBzoYvIqKvpKhhwG-q",
+      "heading": "REMA 1000 Sky",
+      "description": "200 g\n30.00 pr. kg",
+      "pricing": {
+        "price": 6,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 200,
+          "to": 200
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 4
+    },
+    {
+      "id": "hetgHKXZ01ObZuM6sckLM",
+      "heading": "Æbler",
+      "description": "Danske, kl. 1\n1 kg. økologiske eller\n1.5 kg. konventionelle",
+      "pricing": {
+        "price": 16,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "kg",
+          "si": {
+            "symbol": "kg",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1,
+          "to": 1.5
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 5
+    },
+    {
+      "id": "DEKtubelWMP6GKxz9OtDQ",
+      "heading": "Stenfri druer",
+      "description": "Ruby eller Crunchy Dream\nUdenlandske\n400 g",
+      "pricing": {
+        "price": 18,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 400,
+          "to": 400
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 5
+    },
+    {
+      "id": "yo28Z_kkWkrZbr1taad20",
+      "heading": "Snackgulerødder",
+      "description": "Økologiske\nDanske\n200 g",
+      "pricing": {
+        "price": 6,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 200,
+          "to": 200
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 5
+    },
+    {
+      "id": "ZcEybb1acAqIMEeACUeOU",
+      "heading": "Nemt & Grønt Balsamico glace",
+      "description": "40 g",
+      "pricing": {
+        "price": 5,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 40,
+          "to": 40
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 5
+    },
+    {
+      "id": "xjnDZCUCsMpCjXBFrCI-h",
+      "heading": "REMA 1000 Dansk kylling",
+      "description": "250-825 g\nMax. 116.00 pr. kg",
+      "pricing": {
+        "price": 29,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 250,
+          "to": 825
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 6
+    },
+    {
+      "id": "ELsG9jnC0H9DD5ECtfP5I",
+      "heading": "Nakkefilet med gyros eller grillbryst med nordisk marinade",
+      "description": "550-750 g\nMax. 89.09 pr. kg",
+      "pricing": {
+        "price": 49,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 550,
+          "to": 750
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 6
+    },
+    {
+      "id": "iGJ58F3FU3MclOvA6l75F",
+      "heading": "Grisekæber eller REMA 1000 Frilandsgris grillkøller med BBQ",
+      "description": "400-800 g\nPartivare. Max. 122.50 pr. kg",
+      "pricing": {
+        "price": 49,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 400,
+          "to": 800
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 6
+    },
+    {
+      "id": "Eu4Y5pGwr-K4snXDbnNWQ",
+      "heading": "REMA 1000 Frilandsgris",
+      "description": "250-400 g\nMax. 116.00 pr. kg",
+      "pricing": {
+        "price": 29,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 250,
+          "to": 400
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 6
+    },
+    {
+      "id": "h7Pcb6HgmjCz0f6sysCV9",
+      "heading": "REMA 1000 Ribsteaks, chunks eller crispy sticks",
+      "description": "360-400 g\nMax. 80.56 pr. kg",
+      "pricing": {
+        "price": 29,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 360,
+          "to": 400
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 6
+    },
+    {
+      "id": "yYjwsg1BjWmlKLlzsIaeT",
+      "heading": "REMA 1000 Mørbrad",
+      "description": "Dansk gris\nPR. ½ KG\n50.00 pr. kg\nVed køb af flere end 6 stk. pr. dag er prisen 39.95 pr. ½ kg",
+      "pricing": {
+        "price": 25,
+        "pre_price": 39.95,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "kg",
+          "si": {
+            "symbol": "kg",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 0.5,
+          "to": 0.5
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": 6
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 7
+    },
+    {
+      "id": "sLXmG6NHOEu-c8ECeU6Ut",
+      "heading": "Karolines Køkken Piskefløde 36%",
+      "description": "250 ml\n48.00 pr. liter",
+      "pricing": {
+        "price": 12,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "ml",
+          "si": {
+            "symbol": "l",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 250,
+          "to": 250
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 7
+    },
+    {
+      "id": "4tnUzt3DOoa2XGLp942NR",
+      "heading": "REMA 1000 Tarteletter",
+      "description": "120 g\n75.00 pr. kg",
+      "pricing": {
+        "price": 9,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 120,
+          "to": 120
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 7
+    },
+    {
+      "id": "D3wv3MgssvlEVfk8okvSt",
+      "heading": "Paradiso Aspargessnitter",
+      "description": "240 g\n75.00 pr. kg",
+      "pricing": {
+        "price": 18,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 240,
+          "to": 240
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 7
+    },
+    {
+      "id": "RDy8aWLG0C0AK_b6mDedI",
+      "heading": "REMA 1000 Jasminris",
+      "description": "1 kg",
+      "pricing": {
+        "price": 14,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "kg",
+          "si": {
+            "symbol": "kg",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1,
+          "to": 1
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 7
+    },
+    {
+      "id": "WBZlxEQcMwJa7MmEjEgYG",
+      "heading": "REMA 1000 Hønsekød i tern",
+      "description": "Dybfrost\n300 g\n116.66 pr. kg",
+      "pricing": {
+        "price": 35,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 300,
+          "to": 300
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 7
+    },
+    {
+      "id": "3gsLhVHEETEPyRQG6mtk1",
+      "heading": "Brune champignon",
+      "description": "Økologiske\nDanske\n200 g 70.00 pr. kg",
+      "pricing": {
+        "price": 14,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 200,
+          "to": 200
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 8
+    },
+    {
+      "id": "06LNZbkxc4iwaQVh227v_",
+      "heading": "Fynbo Ribsgelé eller tyttebær",
+      "description": "275-340 g\nMax. 54.55 pr. kg",
+      "pricing": {
+        "price": 15,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 275,
+          "to": 340
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 8
+    },
+    {
+      "id": "MLtZm5dza11czOWnXnovr",
+      "heading": "Carl Vollstedt Hjorte- eller vildsvinespegepølse",
+      "description": "200 g\nPartivare. 145.00 pr. kg",
+      "pricing": {
+        "price": 29,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 200,
+          "to": 200
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 8
+    },
+    {
+      "id": "WmsadNDEnNB9CqxmJGtJA",
+      "heading": "REMA 1000 Fasan",
+      "description": "Flået og renset\n450 g\n86.67 pr. kg",
+      "pricing": {
+        "price": 39,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 450,
+          "to": 450
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 8
+    },
+    {
+      "id": "pmCcRHLbl4GS_WkHD4Ul2",
+      "heading": "Hakket krondyrkød",
+      "description": "Max. 10% fedt\nDybfrost\n350 g Partivare. 111.43 pr. kg",
+      "pricing": {
+        "price": 39,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 350,
+          "to": 350
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 8
+    },
+    {
+      "id": "YSVdLc8rxL-WDfwF6t0Dg",
+      "heading": "Confiterede andelår",
+      "description": "425 g\n115.30 pr. kg",
+      "pricing": {
+        "price": 49,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 425,
+          "to": 425
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 9
+    },
+    {
+      "id": "H-RjBX888DjdJVB6U04K8",
+      "heading": "REMA 1000 Krondyrsteaks eller krondyrkød i tern",
+      "description": "250-300 g\nPartivare. Max. 196.00 pr. kg",
+      "pricing": {
+        "price": 49,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 250,
+          "to": 300
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 9
+    },
+    {
+      "id": "RU1pKM1Ng6XoYd9r-fjMn",
+      "heading": "REMA 1000 Krondyrfilet",
+      "description": "300 g\nPartivare. 330.00 pr. kg\nKrondyr med karamelliserede løg og broccolini",
+      "pricing": {
+        "price": 99,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 300,
+          "to": 300
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 9
+    },
+    {
+      "id": "UmhoA9BWtdiaVhAbwzhnI",
+      "heading": "Krondyrkøllesteg",
+      "description": "700-800 g\nPartivare. Max. 178.57 pr. kg",
+      "pricing": {
+        "price": 125,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 700,
+          "to": 800
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 9
+    },
+    {
+      "id": "fmX45Bg3hjxYVLaoq42mS",
+      "heading": "Diamond Hill Australsk rød-, hvid- eller rosévin",
+      "description": "Shiraz Merlot, 13.5%\nChardonnay, 13%\nShiraz Rosé, 13%\n3 LITER 33.00 pr. liter\nVed køb af flere end 6 stk. pr. variant pr. dag er prisen op til 125.00 pr. stk.",
+      "pricing": {
+        "price": 99,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "l",
+          "si": {
+            "symbol": "l",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 3,
+          "to": 3
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": 6
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 10
+    },
+    {
+      "id": "vMHjIvbHC-KDTZBtFGLpg",
+      "heading": "Maynard’s 10 Years Old Tawny",
+      "description": "Portugal, 75 cl, 20%\nPartivare. Max. 198.00 pr. liter",
+      "pricing": {
+        "price": 99,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "cl",
+          "si": {
+            "symbol": "l",
+            "factor": 0.01
+          }
+        },
+        "size": {
+          "from": 75,
+          "to": 75
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 10
+    },
+    {
+      "id": "tZv1FnleQ7wCOvkTjXeC1",
+      "heading": "WOW Reserve USA, rød- eller hvidvin, 75 cl",
+      "description": "Riesling, 12%\nPinot Noir, 13.5%\nPartivare. 78.67 pr. liter",
+      "pricing": {
+        "price": 59,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "cl",
+          "si": {
+            "symbol": "l",
+            "factor": 0.01
+          }
+        },
+        "size": {
+          "from": 75,
+          "to": 75
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 10
+    },
+    {
+      "id": "k_XbAQ_rgSOi30Q9KKuuh",
+      "heading": "Paul Mas Reserve Fransk rød- eller hvidvin, 75 cl",
+      "description": "Viognier, 13.5%\nPinot Noir, Pays d’Oc IGP, 13.5%\nCabernet Sauvignon, 14%\n78.67 pr. liter",
+      "pricing": {
+        "price": 59,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "cl",
+          "si": {
+            "symbol": "l",
+            "factor": 0.01
+          }
+        },
+        "size": {
+          "from": 75,
+          "to": 75
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 10
+    },
+    {
+      "id": "-GIWhk3eDIiL3rVb2bH2h",
+      "heading": "Maynard’s Colheita 2016",
+      "description": "Portugal 50 cl, 20%\nPartivare. Max. 198.00 pr. liter",
+      "pricing": {
+        "price": 99,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "cl",
+          "si": {
+            "symbol": "l",
+            "factor": 0.01
+          }
+        },
+        "size": {
+          "from": 50,
+          "to": 50
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 10
+    },
+    {
+      "id": "Gy2Vgovyrz-7X4ljxBuQx",
+      "heading": "Xavier Cotes Du Rhone",
+      "description": "Fransk rødvin, 75 cl, 14.5%\n78.67 pr. liter",
+      "pricing": {
+        "price": 59,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "cl",
+          "si": {
+            "symbol": "l",
+            "factor": 0.01
+          }
+        },
+        "size": {
+          "from": 75,
+          "to": 75
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 10
+    },
+    {
+      "id": "jwrp9ukKlWTGKHJFGCo71",
+      "heading": "LZC USA rød- eller hvidvin, 75 cl",
+      "description": "Special Reserva Cabernet Sauvignon Napa Valley, 14%\nChardonnay Napa Valley, 13.5%\nPartivare. 118.67 pr. liter",
+      "pricing": {
+        "price": 89,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "cl",
+          "si": {
+            "symbol": "l",
+            "factor": 0.01
+          }
+        },
+        "size": {
+          "from": 75,
+          "to": 75
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 10
+    },
+    {
+      "id": "Bk3OOYqNXAoN2wkTX9Zqj",
+      "heading": "Above & Beyond Californisk rød- eller hvidvin, 75 cl",
+      "description": "Pinot Noir, 13.5%\nChardonnay, 13.5%\nPartivare. 78.67 pr. liter",
+      "pricing": {
+        "price": 59,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "cl",
+          "si": {
+            "symbol": "l",
+            "factor": 0.01
+          }
+        },
+        "size": {
+          "from": 75,
+          "to": 75
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 10
+    },
+    {
+      "id": "lX5I2ao9FsFdK1fYkGPBh",
+      "heading": "REMA 1000 Flødekartofler",
+      "description": "700 g\n21.43 pr. kg",
+      "pricing": {
+        "price": 15,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 700,
+          "to": 700
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 11
+    },
+    {
+      "id": "MnHF0J7hQYSEDmiy4zreI",
+      "heading": "Andebryst eller andelår",
+      "description": "Dybfrost 160-220 g\nMax. 125.00 pr. kg",
+      "pricing": {
+        "price": 20,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 160,
+          "to": 220
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 11
+    },
+    {
+      "id": "uSHfVXxazXY1rMaoI8bhf",
+      "heading": "REMA 1000 Pitabrød",
+      "description": "375 g\n26.67 pr. kg",
+      "pricing": {
+        "price": 10,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 375,
+          "to": 375
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 11
+    },
+    {
+      "id": "_J--0x4uT-3438KRq5UMO",
+      "heading": "Kitchen Joy Færdigret",
+      "description": "400 g\n62.50 pr. kg",
+      "pricing": {
+        "price": 25,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 400,
+          "to": 400
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 11
+    },
+    {
+      "id": "5SXByb1C0KrU7Q1cboUdr",
+      "heading": "REMA 1000 Kyllingedippers eller cordon bleu",
+      "description": "275-300 g\nMax. 90.91 pr. kg",
+      "pricing": {
+        "price": 25,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 275,
+          "to": 300
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 11
+    },
+    {
+      "id": "Pk4jFRFMrzr8EYSUazJ72",
+      "heading": "Yoghurt eller græsk inspireret yoghurt",
+      "description": "Laktosefri\n400-1000 g\nMax. 37.50 pr. kg",
+      "pricing": {
+        "price": 15,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 400,
+          "to": 1000
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 12
+    },
+    {
+      "id": "DeEomYNkxpQEmthkxy8eG",
+      "heading": "REMA 1000 salat",
+      "description": "Økologisk\n70 g\n142.86 pr. kg",
+      "pricing": {
+        "price": 10,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 70,
+          "to": 70
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 12
+    },
+    {
+      "id": "RiJSbvRmUeXAWzZ7fj9It",
+      "heading": "Slagter Lampe Spegepølse, guldleverpølse eller frankfurter",
+      "description": "300-400 g\nMax. 83.33 pr. kg\n5 STJERNER\nJyllands-Posten, Mad & Vin, 9. juli 2026",
+      "pricing": {
+        "price": 25,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 300,
+          "to": 400
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 12
+    },
+    {
+      "id": "UX7Bqu1-Mesoiez8g0wC5",
+      "heading": "Graasten ketchup, remoulade, mayo eller dressing",
+      "description": "375-425 g\nMax. 37.33 pr. kg",
+      "pricing": {
+        "price": 14,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 375,
+          "to": 425
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 13
+    },
+    {
+      "id": "PWY6LSutz6JGjM-pdYtM4",
+      "heading": "Knorr dinner kit",
+      "description": "252-321 g",
+      "pricing": {
+        "price": 18,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 252,
+          "to": 321
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 13
+    },
+    {
+      "id": "0iKPcF4AFrGjHgb_eOrCL",
+      "heading": "Lavazza eller Merrild Hele bønner",
+      "description": "1 kg",
+      "pricing": {
+        "price": 149,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "kg",
+          "si": {
+            "symbol": "kg",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1,
+          "to": 1
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 13
+    },
+    {
+      "id": "6-swp5UWcVkdJ5ag1NmNu",
+      "heading": "Jacobsen eller Grimbergen øl",
+      "description": "75 cl. Ex. pant\n33.33 pr. liter",
+      "pricing": {
+        "price": 25,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "cl",
+          "si": {
+            "symbol": "l",
+            "factor": 0.01
+          }
+        },
+        "size": {
+          "from": 75,
+          "to": 75
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 13
+    },
+    {
+      "id": "2Q1MBdi_ZVJrLGR22xppG",
+      "heading": "Skippy eller REMA 1000 peanutbutter",
+      "description": "300-340 g\nMax. 83.33 pr. kg",
+      "pricing": {
+        "price": 25,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 300,
+          "to": 340
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 13
+    },
+    {
+      "id": "W8hUxWy4r5hDDns6m4OA8",
+      "heading": "Humlum pizzadej",
+      "description": "400 g",
+      "pricing": {
+        "price": 10,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 400,
+          "to": 400
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 14
+    },
+    {
+      "id": "MIBd6-EIUn-71HmTRJNh3",
+      "heading": "REMA 1000 Tex Mex Tortilla chips",
+      "description": "200 g",
+      "pricing": {
+        "price": 5,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 200,
+          "to": 200
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 14
+    },
+    {
+      "id": "TyTJXzWCaoGOd7TtSsGpZ",
+      "heading": "REMA 1000 Pepperoni eller skinketern",
+      "description": "100-150 g",
+      "pricing": {
+        "price": 10,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 100,
+          "to": 150
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 14
+    },
+    {
+      "id": "_NXnFkeys-0Xc65dOQ_D2",
+      "heading": "REMA 1000 Dansk kyllingeinderfilet",
+      "description": "300 g",
+      "pricing": {
+        "price": 25,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 300,
+          "to": 300
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 14
+    },
+    {
+      "id": "EhU65Z0gkowPqEfpAS94K",
+      "heading": "Planet Dairy Revet tex mex eller cheddar",
+      "description": "150 g",
+      "pricing": {
+        "price": 12,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 150,
+          "to": 150
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 14
+    },
+    {
+      "id": "TlBHU8jIa3leXJn5oRBgz",
+      "heading": "REMA 1000 hakket dansk oksekød 4-7% eller Burger Boost",
+      "description": "350 g\n100.00 pr. kg",
+      "pricing": {
+        "price": 35,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 350,
+          "to": 350
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 15
+    },
+    {
+      "id": "1esUus3KIevdUUu_-oPTj",
+      "heading": "REMA 1000 eller Napoli fastfoodbrød",
+      "description": "330-500 g\nMax. 36.36 pr. kg",
+      "pricing": {
+        "price": 12,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 330,
+          "to": 500
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 15
+    },
+    {
+      "id": "qtDubbzEAQgiQtIiY7X4R",
+      "heading": "REMA 1000 Kyllingekebab eller Frilandsgris gyros",
+      "description": "Dybfrost\n300 g\n83.33 pr. kg",
+      "pricing": {
+        "price": 25,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 300,
+          "to": 300
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 15
+    },
+    {
+      "id": "sIYNOhbXg_pspeWPUEJio",
+      "heading": "Zelected Syltede rødløg, agurker, aioli eller sauce",
+      "description": "115-260 g\nMax. 130.43 pr. kg",
+      "pricing": {
+        "price": 15,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 115,
+          "to": 260
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 15
+    },
+    {
+      "id": "9WeBXQPQKp9TXaDMRXtzU",
+      "heading": "REMA 1000 Grillet madbrød",
+      "description": "Dybfrost\n4 stk./600 g\n25.00 pr. kg",
+      "pricing": {
+        "price": 15,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 600,
+          "to": 600
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 15
+    },
+    {
+      "id": "qtYfKHTpmBd_SX4TISpvl",
+      "heading": "KiMs chips eller snacks",
+      "description": "130-160 g\nMax. 107.69 pr. kg",
+      "pricing": {
+        "price": 14,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 130,
+          "to": 160
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 16
+    },
+    {
+      "id": "LOsKhB5ZqpWN38f53Vck1",
+      "heading": "Harboe sodavand",
+      "description": "50 cl. Ex. pant\n6.00 pr. liter",
+      "pricing": {
+        "price": 3,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "cl",
+          "si": {
+            "symbol": "l",
+            "factor": 0.01
+          }
+        },
+        "size": {
+          "from": 50,
+          "to": 50
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 16
+    },
+    {
+      "id": "JMJ3XAb4uEH__Q6Q6tjoO",
+      "heading": "Taffel Corners eller Cornitas",
+      "description": "90-160 g\nPartivare. Max. 155.56 pr. kg",
+      "pricing": {
+        "price": 14,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 90,
+          "to": 160
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 16
+    },
+    {
+      "id": "lX4b3jCbrL1dSRAwI37py",
+      "heading": "Easis chips",
+      "description": "50 g\n180.00 pr. kg",
+      "pricing": {
+        "price": 9,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 50,
+          "to": 50
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 16
+    },
+    {
+      "id": "SNvlN0JJL--pyMNTRzUYx",
+      "heading": "Gazoz sodavand",
+      "description": "33 cl. Ex. pant\nPartivare. 30.30 pr. liter",
+      "pricing": {
+        "price": 10,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "cl",
+          "si": {
+            "symbol": "l",
+            "factor": 0.01
+          }
+        },
+        "size": {
+          "from": 33,
+          "to": 33
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 16
+    },
+    {
+      "id": "yH8D9Xj5ssih4tPqBsmz7",
+      "heading": "Marabou chokolade",
+      "description": "87-100 g\nMax. 172.41 pr. kg",
+      "pricing": {
+        "price": 15,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 87,
+          "to": 100
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 17
+    },
+    {
+      "id": "2aq6C1srZeetHBOk8pC0V",
+      "heading": "Malaco slik eller Cloetta juleskum",
+      "description": "200-340 g\nPartivare. Max. 175.00 pr. kg",
+      "pricing": {
+        "price": 35,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 200,
+          "to": 340
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 17
+    },
+    {
+      "id": "66rPG8elNWdd_5q2djBwc",
+      "heading": "Carletti slik eller Evers bolcher",
+      "description": "60-70 g\nMax. 166.67 pr. kg",
+      "pricing": {
+        "price": 10,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 60,
+          "to": 70
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 17
+    },
+    {
+      "id": "BOb4ftsxx2rqdN4UcLL90",
+      "heading": "Katjes eller Sallos",
+      "description": "100-110 g\nPartivare. Max. 120.00 pr. kg",
+      "pricing": {
+        "price": 12,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 100,
+          "to": 110
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 17
+    },
+    {
+      "id": "Gf_qVFg-UiLSQZtrZ1aAt",
+      "heading": "Van Slooten slik",
+      "description": "200-250 g\nPartivare. Max. 125.00 pr. kg",
+      "pricing": {
+        "price": 25,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 200,
+          "to": 250
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 17
+    },
+    {
+      "id": "tDInhYYbL7dOA9Vyy4KuG",
+      "heading": "Rønbjerg Is Dansk flødeis",
+      "description": "Økologisk 750 ml\nVed køb af flere end 6 stk. pr. variant pr. dag er prisen 40.18 pr. stk.\n38.67 pr. liter",
+      "pricing": {
+        "price": 29,
+        "pre_price": 40.18,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "ml",
+          "si": {
+            "symbol": "l",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 750,
+          "to": 750
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": 6
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 18
+    },
+    {
+      "id": "0r-fjGDN829Ze79RI5Yvl",
+      "heading": "REMA 1000 is",
+      "description": "400-440 ml/4-8 stk.\nMax. 37.50 pr. liter",
+      "pricing": {
+        "price": 15,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "ml",
+          "si": {
+            "symbol": "l",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 400,
+          "to": 440
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 18
+    },
+    {
+      "id": "qIWfsZ_0g2EtK2SHVmpoI",
+      "heading": "Tiramisu eller Danette choko",
+      "description": "180-200 g\nMax. 55.56 pr. kg",
+      "pricing": {
+        "price": 10,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 180,
+          "to": 200
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 18
+    },
+    {
+      "id": "cA9_Oz1tGJ7XUEzv_2wT9",
+      "heading": "Thy Ismejeri Fromage",
+      "description": "900 ml\n24.44 pr. liter",
+      "pricing": {
+        "price": 22,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "ml",
+          "si": {
+            "symbol": "l",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 900,
+          "to": 900
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 18
+    },
+    {
+      "id": "CkKLf5r0lAO2YzI8Pr6n8",
+      "heading": "REMA 1000 Chokolade-fondant",
+      "description": "Dybfrost\n2 stk./200 g\nPartivare. 10.00 pr. stk./100.00 pr. kg",
+      "pricing": {
+        "price": 20,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 200,
+          "to": 200
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 18
+    },
+    {
+      "id": "CeoiWwZp-jHVBGhEwSteh",
+      "heading": "Wasa snacks",
+      "description": "150-330 g\nMax. 133.33 pr. kg",
+      "pricing": {
+        "price": 20,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 150,
+          "to": 330
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 19
+    },
+    {
+      "id": "gullvOyY4ONHEIzG2IFVG",
+      "heading": "Coronet roulade eller Dan Cake kage",
+      "description": "250-350 g\nMax. 48.00 pr. kg",
+      "pricing": {
+        "price": 12,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 250,
+          "to": 350
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 19
+    },
+    {
+      "id": "UDUGihKgSP-kikz1pVLhO",
+      "heading": "Karen Volf Franske vafler",
+      "description": "107 g\nPartivare. 93.46 pr. kg",
+      "pricing": {
+        "price": 10,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 107,
+          "to": 107
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 19
+    },
+    {
+      "id": "kMTrqCLuIvmNSE9JHzqc8",
+      "heading": "Kiks eller kage",
+      "description": "120-230 g\nMax. 83.33 pr. kg",
+      "pricing": {
+        "price": 10,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 120,
+          "to": 230
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 19
+    },
+    {
+      "id": "_QXFWwpOI8w0f_kOgPqjC",
+      "heading": "Kage",
+      "description": "400 g\nPartivare. 70.00 pr. kg",
+      "pricing": {
+        "price": 28,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 400,
+          "to": 400
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 19
+    },
+    {
+      "id": "wSvvC0pAXVZk9hLisAusQ",
+      "heading": "Caputo mel",
+      "description": "1 kg Partivare",
+      "pricing": {
+        "price": 18,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "kg",
+          "si": {
+            "symbol": "kg",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1,
+          "to": 1
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 20
+    },
+    {
+      "id": "ePguEMohXGeSdmMRUqrw7",
+      "heading": "Amo bolle- eller kageblanding",
+      "description": "400-500 g Partivare. Max. 50.00 pr. kg",
+      "pricing": {
+        "price": 20,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 400,
+          "to": 500
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 20
+    },
+    {
+      "id": "lbl1zISVvBMEtk8Gb-xre",
+      "heading": "Carletti overtræk eller chokoladeplade",
+      "description": "100-200 g Max. 200.00 pr. kg",
+      "pricing": {
+        "price": 20,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 100,
+          "to": 200
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 20
+    },
+    {
+      "id": "x6nI6vd39cKFL-4gCpW4o",
+      "heading": "Gluten eller Amo hvedemel",
+      "description": "1.8-2 kg Max. 8.33 pr. kg",
+      "pricing": {
+        "price": 15,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "kg",
+          "si": {
+            "symbol": "kg",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1.8,
+          "to": 2
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 20
+    },
+    {
+      "id": "hzB6vb-d9c7XgqQBVDam5",
+      "heading": "Mallows",
+      "description": "120 g Partivare. 166.67 pr. kg",
+      "pricing": {
+        "price": 20,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 120,
+          "to": 120
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 20
+    },
+    {
+      "id": "pby-jI9zE8aeVOpWS5rWv",
+      "heading": "Serveringsfad, kagerulle, afsætningsrist, køkkenvægt, kageboks, 3-pak opbevaringssæt i plast, springform eller bradepande med låg",
+      "description": "Partivare",
+      "pricing": {
+        "price": 50,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "pcs",
+          "si": {
+            "symbol": "pcs",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1,
+          "to": 1
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 21
+    },
+    {
+      "id": "uNfCi9pOgKjYLCTDECN9-",
+      "heading": "Decilitermål, dejskraber, piskeris, minisigte 8 cm, 2-pak grydeskeer, grydeske og palet, 5-pak udstikkerforme, smørebræt i træ 24x14 cm, palet, 12-pak kødnåle. 2-4-pak mini dip skåle, 2-pak squeeze",
+      "description": "flasker 20-pak sprøjteposer eller 3-pak målebæger",
+      "pricing": {
+        "price": 20,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "pcs",
+          "si": {
+            "symbol": "pcs",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1,
+          "to": 1
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 21
+    },
+    {
+      "id": "n5eGhnxbJP9J42LHkVEWo",
+      "heading": "10-pak tyller, fad i stål, udstikker til honningkagehus, 3-pak røreskåle, brødkurv eller røreskål med låg",
+      "description": "L30 cm/1.5-3 l Partivare",
+      "pricing": {
+        "price": 30,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "pcs",
+          "si": {
+            "symbol": "pcs",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1,
+          "to": 1
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 21
+    },
+    {
+      "id": "v75drgg45V0-jbzWFqCT0",
+      "heading": "Fiskars Essential Grøntsags-, tomat-, urte- eller skrællekniv",
+      "description": "Partivare",
+      "pricing": {
+        "price": 25,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "pcs",
+          "si": {
+            "symbol": "pcs",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1,
+          "to": 1
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 21
+    },
+    {
+      "id": "IIFZhjXvvP-QUGVQTxpI2",
+      "heading": "Målekande 1/4 l, sigte, dejskærer, rivejern, 8-pak udstikkersæt, 1-2-pak strødåse, dej-/farsrører, 2-pak dipskål, dejspore med 6 hjul eller 4-pak kagepap",
+      "description": "Partivare",
+      "pricing": {
+        "price": 25,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "pcs",
+          "si": {
+            "symbol": "pcs",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1,
+          "to": 1
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 21
+    },
+    {
+      "id": "l_Sz-MRjWOcPp8m3hyghZ",
+      "heading": "Skål, 2-pak snackskål, springform, kølerist, 3i1 målebæger, chokoladeform, 4-pak silikoneredskaber eller bogen Mine bedste opskrifter",
+      "description": "3.2 l/Ø24 cm Partivare",
+      "pricing": {
+        "price": 40,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "pcs",
+          "si": {
+            "symbol": "pcs",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1,
+          "to": 1
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 21
+    },
+    {
+      "id": "IBD-gHIONj30SVPfh95dA",
+      "heading": "Sukkertermometer, bradepande, 2-pak dekoplatte, træbakke eller pandekagepande",
+      "description": "40x28/45x20 cm/ Ø25 cm Partivare",
+      "pricing": {
+        "price": 59,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "pcs",
+          "si": {
+            "symbol": "pcs",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1,
+          "to": 1
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 21
+    },
+    {
+      "id": "xbiKEdTzBylAVnTy_6akv",
+      "heading": "Æbleskivepande i støbejerm",
+      "description": "Partivare",
+      "pricing": {
+        "price": 99,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "pcs",
+          "si": {
+            "symbol": "pcs",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1,
+          "to": 1
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 21
+    },
+    {
+      "id": "cQuNUSyZz1jMT-WvH_xd-",
+      "heading": "Libresse hygiejnebind, trusseindlæg eller Tena discreet",
+      "description": "6-60 stk.\nMax. 5.00 pr. stk.",
+      "pricing": {
+        "price": 30,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "pcs",
+          "si": {
+            "symbol": "pcs",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1,
+          "to": 1
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 22
+    },
+    {
+      "id": "ZjvyMybkQny_rOC8xtKoS",
+      "heading": "OMO vaskemiddel",
+      "description": "700 ml/14 vaske\nPartivare. 1.43 pr. vask",
+      "pricing": {
+        "price": 20,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "ml",
+          "si": {
+            "symbol": "l",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 700,
+          "to": 700
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 22
+    },
+    {
+      "id": "ZNTXE1NCGyRT0zJEzsgbq",
+      "heading": "Skrald-let affaldsposer med snørelukning",
+      "description": "Ved køb af flere end 6 stk. pr. variant pr. dag er prisen op til 9.95 pr. stk.\n20 stk./15 l madaffald\n22 stk./15 l\n20 stk./20 l\n15 stk./30 l\nMax. 0.33 pr. stk.",
+      "pricing": {
+        "price": 5,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "pcs",
+          "si": {
+            "symbol": "pcs",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1,
+          "to": 1
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": 6
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 22
+    },
+    {
+      "id": "0duqataHAwDWCQthFsphV",
+      "heading": "Domestos toiletrens",
+      "description": "435 ml\nPartivare. 45.98 pr. liter",
+      "pricing": {
+        "price": 20,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "ml",
+          "si": {
+            "symbol": "l",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 435,
+          "to": 435
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 22
+    },
+    {
+      "id": "7EceLBh7JP-aoItBvf_Ld",
+      "heading": "Axe deo spray eller shower gel",
+      "description": "150-400 ml\nMax. 133.33 pr. liter",
+      "pricing": {
+        "price": 20,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "ml",
+          "si": {
+            "symbol": "l",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 150,
+          "to": 400
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 22
+    },
+    {
+      "id": "vKDbiyC8BBXUhtUT6GlBT",
+      "heading": "Poly Swing eller Taft hair styling",
+      "description": "150-250 ml\nMax. 146.67 pr. liter",
+      "pricing": {
+        "price": 22,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "ml",
+          "si": {
+            "symbol": "l",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 150,
+          "to": 250
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 22
+    },
+    {
+      "id": "qVT6Cb8L8HoU65JXJD_yT",
+      "heading": "REMA 1000 Laksefileter, rødspættefileter eller mørksejfilet",
+      "description": "225 g\n173.33 pr. kg",
+      "pricing": {
+        "price": 39,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 225,
+          "to": 225
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 23
+    },
+    {
+      "id": "deYEN9JIlmkGsZtJOgIDF",
+      "heading": "REMA 1000 Cocktailpølser eller minifrikadeller",
+      "description": "Fedtreducerede\n150-200 g\nMax. 100.00 pr. kg",
+      "pricing": {
+        "price": 15,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 150,
+          "to": 200
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 23
+    },
+    {
+      "id": "f8wdIB2HjnRdbieqagIGx",
+      "heading": "REMA 1000 Røget filet eller kogt skinke",
+      "description": "120-140 g\nMax. 100.00 pr. kg",
+      "pricing": {
+        "price": 12,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 120,
+          "to": 140
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 23
+    },
+    {
+      "id": "zUHvVEurLBZx-i4Jqe41y",
+      "heading": "Cheasy Hytteost 1.5% fedt",
+      "description": "250 g\n48.00 pr. kg",
+      "pricing": {
+        "price": 12,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 250,
+          "to": 250
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 23
+    },
+    {
+      "id": "OllEuwc3-5c9t659XvNP4",
+      "heading": "REMA 1000 Kullerloins eller hele rødspætter",
+      "description": "300-475 g\nMax. 196.67 pr. kg",
+      "pricing": {
+        "price": 59,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 300,
+          "to": 475
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 23
+    },
+    {
+      "id": "r2WteOAHa5jjXpL66mwy1",
+      "heading": "Matilde Kakaomælk",
+      "description": "Ved køb af flere end 6 stk. pr. dag er prisen 21.79 pr. stk.\n1 liter",
+      "pricing": {
+        "price": 8,
+        "pre_price": 21.79,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "l",
+          "si": {
+            "symbol": "l",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1,
+          "to": 1
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": 6
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 24
+    },
+    {
+      "id": "pHZV0jgIU-EKwA6IxaB4e",
+      "heading": "REMA 1000 Hakket dansk grisekød 8-12% eller medister",
+      "description": "500 g\n40.00 pr. kg",
+      "pricing": {
+        "price": 20,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 500,
+          "to": 500
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 24
+    },
+    {
+      "id": "Nkw4IELhrWnRj5mnh7zyI",
+      "heading": "Mayo Pålægs- eller frugtsalat",
+      "description": "150-200 g\nMax. 66.67 pr. kg",
+      "pricing": {
+        "price": 10,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 150,
+          "to": 200
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 24
+    },
+    {
+      "id": "cSjAKRjKTu_4IFVdePVZL",
+      "heading": "Tuborg eller Carlsberg øl",
+      "description": "Ved køb af flere end 72 stk. pr. variant pr. dag er prisen op til 7.25 pr. stk.\n33 cl. Ex. pant\nKasse med 24 stk. 108.00/13.64 pr. liter",
+      "pricing": {
+        "price": 4.5,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "cl",
+          "si": {
+            "symbol": "l",
+            "factor": 0.01
+          }
+        },
+        "size": {
+          "from": 33,
+          "to": 33
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": 72
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 24
+    },
+    {
+      "id": "juNvUopS6-mcNJPsqgSzF",
+      "heading": "CasAmore Italiensk mini surdejspizza",
+      "description": "Dybfrost 150 g Partivare. 66.67 pr. kg",
+      "pricing": {
+        "price": 10,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 150,
+          "to": 150
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-14T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 25
+    },
+    {
+      "id": "bCxQJbUHLXIG2jcVQi1ah",
+      "heading": "Spangsberg Flødeboller",
+      "description": "270 g Partivare. 144.44 pr. kg",
+      "pricing": {
+        "price": 39,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 270,
+          "to": 270
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-14T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 25
+    },
+    {
+      "id": "Oq6rJ9xsTgXe5wD9LGUdC",
+      "heading": "Magnum is",
+      "description": "270-300 ml/3-pak\nPartivare. Max. 92.59 pr. liter",
+      "pricing": {
+        "price": 25,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "ml",
+          "si": {
+            "symbol": "l",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 270,
+          "to": 300
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-14T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 26
+    },
+    {
+      "id": "59mvHOIqUPJ3Ru4hdh7Wb",
+      "heading": "Président brie eller smøresost",
+      "description": "100-140 g\n100.00 pr. kg\nVed køb af flere end 6 stk. pr. variant pr. dag er prisen op til 19.09 pr. stk.",
+      "pricing": {
+        "price": 10,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 100,
+          "to": 140
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": 6
+        }
+      },
+      "run_from": "2026-10-14T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 26
+    },
+    {
+      "id": "KDGFDX4sU7D0hfCZsQl0w",
+      "heading": "REMA 1000 Ribeye",
+      "description": "Af kalv eller ungkvæg\nPR. ½ KG\n179.90 pr. kg\nVed køb af flere end 6 stk. pr. variant pr. dag er prisen op til 149.95 pr. ½ kg",
+      "pricing": {
+        "price": 89.95,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "kg",
+          "si": {
+            "symbol": "kg",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 0.5,
+          "to": 0.5
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": 6
+        }
+      },
+      "run_from": "2026-10-14T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 26
+    },
+    {
+      "id": "Yq5c9Kq51HLOKp0jNMmOB",
+      "heading": "REMA 1000 Højrebsfilet",
+      "description": "Af kalv eller ungkvæg\nPR. ½ KG\n159.90 pr. kg",
+      "pricing": {
+        "price": 79.95,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "kg",
+          "si": {
+            "symbol": "kg",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 0.5,
+          "to": 0.5
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-14T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 26
+    },
+    {
+      "id": "WFB6__1rCmUcGfYL0M7AB",
+      "heading": "Arla Klovborg eller Cheasy ost i skiver",
+      "description": "200-240 g\nMax. 110.00 pr. kg",
+      "pricing": {
+        "price": 22,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 200,
+          "to": 240
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-14T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 26
+    },
+    {
+      "id": "UdTn7rhre1uhZzsfseDdV",
+      "heading": "Café Noir eller Gevalia kaffe eller instant",
+      "description": "185-500 g Max. 318.92 pr. kg",
+      "pricing": {
+        "price": 59,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 185,
+          "to": 500
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-14T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 27
+    },
+    {
+      "id": "cwe1f17OM4g6ZBtjOPYnf",
+      "heading": "One Edge, State eller Powerade",
+      "description": "40-75 cl. Ex. pant Max. 25.00 pr. liter",
+      "pricing": {
+        "price": 10,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "cl",
+          "si": {
+            "symbol": "l",
+            "factor": 0.01
+          }
+        },
+        "size": {
+          "from": 40,
+          "to": 75
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-14T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 27
+    },
+    {
+      "id": "Jy9a2YbSOX9fQzJu3sErw",
+      "heading": "Antos fladbrød",
+      "description": "360 g Partivare. 41.67 pr. kg",
+      "pricing": {
+        "price": 15,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 360,
+          "to": 360
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-14T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 27
+    },
+    {
+      "id": "C3ArtndMU9KrYoVRGd1Ro",
+      "heading": "Bananer",
+      "description": "Kl. 1, udenlandske Pr. stk.\nVed køb af flere end 20 stk. pr. dag er prisen 2.50 pr. stk.\nBanan med chokolade og nødder",
+      "pricing": {
+        "price": 1.25,
+        "pre_price": 2.5,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "pcs",
+          "si": {
+            "symbol": "pcs",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1,
+          "to": 1
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": 20
+        }
+      },
+      "run_from": "2026-10-14T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 28
+    },
+    {
+      "id": "a56cjTMb7T1SvFSykcFmU",
+      "heading": "Roser i bundt",
+      "description": "10 stk./50 cm",
+      "pricing": {
+        "price": 25,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "pcs",
+          "si": {
+            "symbol": "pcs",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1,
+          "to": 1
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-14T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 28
+    }
+  ],
+  "pages": [
+    {
+      "number": 1,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-1.webp&w=1400&s=aca751f224d7fdd48c60d6a4e1c969a4",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "01b4087c6f5ddb62f95ec06ec4695e3767d4b0480fa47151b1678240316cddba",
+      "bytes": 460677
+    },
+    {
+      "number": 2,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-2.webp&w=1400&s=e40fbefaf8c0792cefd30815668c2f8b",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "b0040100c54f2bfbeb6d5a52d1003bddb92919d08b1a00f611c1209ad297692f",
+      "bytes": 415255
+    },
+    {
+      "number": 3,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-3.webp&w=1400&s=c3afff6d08cf19b32aeb231d0b1c3c76",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "dc07db15347974952d0c8965e59ef9777f0b6bfee60aab3198fe2b945ff64786",
+      "bytes": 385817
+    },
+    {
+      "number": 4,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-4.webp&w=1400&s=e768eefec43373d7a3eb527b4c6c3080",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "eec1911281e83b495e63ffbe86d5f32dea18be02ab993153284af0d0307e1e1a",
+      "bytes": 392477
+    },
+    {
+      "number": 5,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-5.webp&w=1400&s=4a0a5e1eb312cdeb416410d1e4ce9168",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "9134794b55a5212b1b7ede02ba0f4bf2bab6b508013521ae82b605cade48a38e",
+      "bytes": 460912
+    },
+    {
+      "number": 6,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-6.webp&w=1400&s=bc56c79a627b42a98647dbc57bc9a3b8",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "26ca6b214eb1e22c0a8edc14f280514cf595592019976a30783859e799446347",
+      "bytes": 478001
+    },
+    {
+      "number": 7,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-7.webp&w=1400&s=5a08586f41efb4912d66dccf41211af2",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "9f8da42c825bf08b9477d4f07ced94e11b04d884d6ebf34088a2057409d14638",
+      "bytes": 411496
+    },
+    {
+      "number": 8,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-8.webp&w=1400&s=b7f9090c38a335118b44aad74e2f0af9",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "ad122d8ac2d5bc1154b6c09e803b6aa5761b578b093a71a3ad346d1c6a28f227",
+      "bytes": 540400
+    },
+    {
+      "number": 9,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-9.webp&w=1400&s=5551dc6828533e908bc1f7fbba363ef1",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "a426f218b4563f5a9d4dcd571dc1f55e613ee298d106f8b7f28683cc734eedc5",
+      "bytes": 584278
+    },
+    {
+      "number": 10,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-10.webp&w=1400&s=b43c8ff33c0e6193f47b0d5e466ff789",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "57209fe66c6792c422a483ed4e4037b9eede13a74f480a3c057f15ee530ca41c",
+      "bytes": 418531
+    },
+    {
+      "number": 11,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-11.webp&w=1400&s=0ed02da99d00abae595904699e7da8c9",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "ba9972e4345d12c6f5f5e4fbcdd6599429311ae3c38b55b8cdae97c72a103ab8",
+      "bytes": 385537
+    },
+    {
+      "number": 12,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-12.webp&w=1400&s=499c40198e1e1dc9cdfcd90070b893af",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "2189e707b53c0676d57c0a09656b330b114d8545f58fd8b125d4712e8414fdae",
+      "bytes": 348164
+    },
+    {
+      "number": 13,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-13.webp&w=1400&s=bb631b4b0a7a396374c7818560856e13",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "9f9f4cba1e3fa46242bd443484a0d1cf209f0ce496c9e5945795876ee7a41637",
+      "bytes": 394746
+    },
+    {
+      "number": 14,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-14.webp&w=1400&s=dabfeb6781eceb64a24969c685d5f558",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "7417dd4c78ecc4fb3e5710aa2c0ab309733f9e33d324a43bf127b744284db853",
+      "bytes": 439872
+    },
+    {
+      "number": 15,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-15.webp&w=1400&s=57e27c04304ccb0c20b3e705b9fca9ed",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "5d786d67bccaf73e8d7f544ae3082a96763ec6fb64fee702f72506e3bfc7b5ea",
+      "bytes": 448036
+    },
+    {
+      "number": 16,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-16.webp&w=1400&s=d979f515d87be5c0aa6d49e2ace2e06a",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "4ae1bed2eb81ad3c7eb1767e39cc94fce77def4498f819b77a990b4b8d80bbcd",
+      "bytes": 434402
+    },
+    {
+      "number": 17,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-17.webp&w=1400&s=9f923e3825e0501c97d47333f544f44f",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "ce6786bdb366f87f93f204b7370742ba55b3692e1b60663594e54c3d58870474",
+      "bytes": 459836
+    },
+    {
+      "number": 18,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-18.webp&w=1400&s=2c7fbc5b6c154895abf72e2c9e0b508b",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "43bce3806bf714f5e8a9be7503dad67e56621719a1ce77f40ace6b87cf2e0ba6",
+      "bytes": 334413
+    },
+    {
+      "number": 19,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-19.webp&w=1400&s=18ab3621e4655e9e0b04741607087c98",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "c2d1d55575953816e41bba708d685e22201966c2c41d9f92c67e0cb6d4ab74df",
+      "bytes": 435828
+    },
+    {
+      "number": 20,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-20.webp&w=1400&s=029fbda0f4a3a1fa15ad53509aa25010",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "9dbb3a9395f528acd8d7a296e2af05f5b787611716913e63b3eccedb559004d7",
+      "bytes": 383614
+    },
+    {
+      "number": 21,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-21.webp&w=1400&s=40b4a3de15023d3caf1d41b789bdc2d7",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "104b62590b071137ad355a8039534d22d2411627f1e7aa07456ecebde17189db",
+      "bytes": 652498
+    },
+    {
+      "number": 22,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-22.webp&w=1400&s=4979731d84bdd2d7bdc8e0f8009b35bc",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "6f94b00fd286e702ab1da80c6d999a381c14114edc7383f4d114191570660c96",
+      "bytes": 401908
+    },
+    {
+      "number": 23,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-23.webp&w=1400&s=50152ede1e2b4af089c7e6116789cf1e",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "c4e057493a56feba6973c1c705f1b680b9df13a38bf3aa0290a956c48c5238d2",
+      "bytes": 406680
+    },
+    {
+      "number": 24,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-24.webp&w=1400&s=eb548224785e2e259863a066e2385b91",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "bc3ff30fc7a995bc8fa507a70a6e69aeafca3d3d5c5a2e51f694d8cb1cfacc59",
+      "bytes": 387610
+    },
+    {
+      "number": 25,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-25.webp&w=1400&s=71d61350a2115dad778760d36564e018",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "ad4e030a1f1bd9780e96318ba925b8c3c4e5992b494a366a57989a697d5c0fc1",
+      "bytes": 446771
+    },
+    {
+      "number": 26,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-26.webp&w=1400&s=00d3f619ac8df222f6032dd7ef082a68",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "04b417b4add8331992ba516220b8cab2b1cb5f8f1bccad03db8781404339a7d7",
+      "bytes": 465520
+    },
+    {
+      "number": 27,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-27.webp&w=1400&s=3b11e1308b39e739f36f79d72f4f68a1",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "1e7e35719fde4d042cbb9ebb43668a374780ae11d6f34d161f40237e80aca8bd",
+      "bytes": 399668
+    },
+    {
+      "number": 28,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2FLsFVgdcr%2Fp-replacement-t0fU4Awj-28.webp&w=1400&s=3f64f92ede6c1efb114c891b5a23493f",
+      "width": 1400,
+      "height": 2443,
+      "sha256": "ecf8366c13974d915e15a47d4f08da330304539d780753bea14bc327b309d60f",
+      "bytes": 450081
+    }
+  ],
+  "complete": true
+}
