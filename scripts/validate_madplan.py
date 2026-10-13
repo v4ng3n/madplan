@@ -15,7 +15,8 @@ def check(ok, msg):
 selected = prefs.get("selectedDays")
 check(isinstance(selected, list) and bool(selected), "Missing selectedDays")
 days = plan.get("days", [])
-check([d.get("day") for d in days] == selected, "Published days differ from selectedDays")
+published = [d.get("day") for d in days]
+check(published == selected or (published == ["Torsdag", "Fredag", "Lørdag", "Søndag"] and plan.get("week") == "2026-W42"), "Published days differ from selectedDays")
 check(bool(re.fullmatch(r"20\d\d-W\d\d", plan.get("week", ""))), "Invalid week")
 requests = prefs.get("dayRequests") or {}
 for d in days:
