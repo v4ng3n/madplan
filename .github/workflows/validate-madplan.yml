@@ -31,8 +31,11 @@ jobs:
       - name: Validate plan
         run: python scripts/validate_madplan.py
 
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
       - name: Test image proxy and complete page manifest
-        run: node --test tests/flyers.test.mjs
+        run: node --test tests/*.test.mjs
       - name: Check frontend syntax
         run: node --check public/app.js
 
