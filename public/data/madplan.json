@@ -95,6 +95,18 @@
   ],
   "shopping": [
     {
+      "store": "SuperBrugsen",
+      "items": [
+        {
+          "id": "w42-test-7",
+          "name": "Xtra! kyllingebryst med lage",
+          "amount": "800 g (1 pakke)",
+          "category": "meat",
+          "note": "49 kr. SuperBrugsen, tilbudsavis 9.–22. oktober 2026. Produkt og pris verificeret; tilbudsbillede endnu ikke verificeret."
+        }
+      ]
+    },
+    {
       "store": "Valgfri butik",
       "items": [
         {
@@ -137,13 +149,6 @@
           "name": "Gulerødder",
           "amount": "500 g",
           "category": "produce",
-          "note": "Torsdag–søndag; tilbudsbillede ikke verificeret"
-        },
-        {
-          "id": "w42-test-7",
-          "name": "Kyllingebryst",
-          "amount": "800 g",
-          "category": "meat",
           "note": "Torsdag–søndag; tilbudsbillede ikke verificeret"
         },
         {
