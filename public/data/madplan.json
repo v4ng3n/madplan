@@ -102,7 +102,10 @@
           "name": "Xtra! kyllingebryst med lage",
           "amount": "800 g (1 pakke)",
           "category": "meat",
-          "note": "49 kr. SuperBrugsen, tilbudsavis 9.–22. oktober 2026. Produkt og pris verificeret; tilbudsbillede endnu ikke verificeret."
+          "note": "49 kr. pr. pakke, 800 g. SuperBrugsen 9.–22. oktober 2026. Verificeret udsnit fra tilbudsavisen.",
+          "offerImage": "https://static.tilbudsugen.dk/1st-retail/2026/42/66466/SuperBrugsen412026-1_1_193x3721_1745x5536_zoom.jpg",
+          "offerImageType": "product",
+          "offerUrl": "https://www.tilbudsugen.dk/single/11351880"
         }
       ]
     },
