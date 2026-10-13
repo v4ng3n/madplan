@@ -97,9 +97,21 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--plan', type=pathlib.Path, default=ROOT / 'public/data/madplan.json')
     parser.add_argument('--preferences', type=pathlib.Path, default=ROOT / '.automation/preferences.json')
+    parser.add_argument('--fresh', action='store_true', help='Require a recent current/next-week proposal')
     args = parser.parse_args()
     try:
-        errors = validate(json.loads(args.plan.read_text()), json.loads(args.preferences.read_text()), json.loads((ROOT / 'public/data/flyers.json').read_text()))
+        plan = json.loads(args.plan.read_text())
+        errors = validate(plan, json.loads(args.preferences.read_text()), json.loads((ROOT / 'public/data/flyers.json').read_text()))
+        if args.fresh:
+            from zoneinfo import ZoneInfo
+            now = dt.datetime.now(ZoneInfo('Europe/Copenhagen'))
+            generated = dt.datetime.fromisoformat(plan['generated_at'])
+            if not dt.timedelta(minutes=-5) <= now - generated <= dt.timedelta(hours=48):
+                errors.append('Proposal is stale or dated in the future')
+            monday = now.date() - dt.timedelta(days=now.weekday())
+            allowed = {f'{d.isocalendar().year}-W{d.isocalendar().week:02d}' for d in (monday, monday + dt.timedelta(days=7))}
+            if plan['week'] not in allowed:
+                errors.append('Proposal must be for this week or next week')
     except Exception as error:
         sys.exit('VALIDATION FAILED: ' + str(error))
     if errors:

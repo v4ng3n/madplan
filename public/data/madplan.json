@@ -1,1 +1,489 @@
-{"week":"2026-W42","label":"Mandag 12. oktober – søndag 18. oktober","generated_at":"2026-10-13T20:31:52.495118+00:00","days":[{"day":"Mandag","dish":"Chili con carne med ris","type":"cook","offer":"Baseret på verificerede tilbud fra SuperBrugsen","recipe":{"servings":"Ca. 6 portioner til to aftener","childNote":"Server mildt, begræns salt, og skær maden i små passende stykker.","ingredients":["800 g hakket oksekød","2 løg","2 fed hvidløg","200 g gulerødder","1 peberfrugt","2 dåser hakkede tomater à 400 g","2 dåser kidneybønner à 400 g (drænes)","400 g ris (200 g til hver aften)","1 spsk olie","Mild paprika og spidskommen"],"steps":["Hak løg, hvidløg, gulerødder og peberfrugt. Steg i olie, og brun oksekødet.","Tilsæt tomater, drænede bønner og milde krydderier. Lad simre ca. 25 minutter.","Kog 200 g ris til i dag. Køl halvdelen af chilien hurtigt ned og gem i køleskabet til tirsdag."],"leftovers":"Gem halvdelen af chilien til tirsdag; kog friske ris næste dag."}},{"day":"Tirsdag","dish":"Chili con carne med ris","type":"leftovers","offer":"Rester fra mandag","recipe":{"servings":"2 voksne og 1 lille barn","childNote":"Varm grundigt og server mildt.","ingredients":["Rester af chili fra mandag","200 g ris"],"steps":["Kog ris efter anvisningen.","Varm chilien grundigt igennem under omrøring og server."],"useFromBefore":"Mandag"}},{"day":"Onsdag","dish":"Hønsekødssuppe med grønt og brød","type":"cook","offer":"Baseret på verificerede tilbud fra SuperBrugsen","recipe":{"servings":"2 voksne og 1 lille barn","childNote":"Server mildt, begræns salt, og skær maden i små passende stykker.","ingredients":["500 g kyllingebryst","300 g gulerødder","1 løg","1 porre","1 liter mild bouillon","1 spsk olie","1 brød"],"steps":["Skær kylling og grøntsager i små stykker. Svits grøntsagerne kort i olie.","Hæld bouillon ved, tilsæt kyllingen, og lad simre ca. 20 minutter til kødet er gennemkogt.","Server med brød. Frys de resterende 300 g rå kylling fra den ekstra pakke samme dag."]}},{"day":"Torsdag","dish":"Cremet pasta med kylling og spinat","type":"cook","offer":"Xtra! kyllingebryst med lage, 800 g til 49 kr. – SuperBrugsen, side 1","recipe":{"servings":"Ca. 6 portioner, torsdag og fredag","childNote":"Skær kyllingen i små stykker, begræns salt.","ingredients":["800 g kyllingebryst","600 g pasta","300 g spinat","5 dl madlavningsfløde","1 løg","2 fed hvidløg"],"steps":["Brun kylling i tern sammen med løg og hvidløg.","Tilsæt pasta, fløde, spinat og vand efter behov; kog til pastaen er mør og kyllingen gennemstegt.","Gem halvdelen i køleskabet til fredag."],"leftovers":"Gem halvdelen til fredag."}},{"day":"Fredag","dish":"Cremet pasta med kylling og spinat","type":"leftovers","offer":"Rester fra torsdag","recipe":{"servings":"2 voksne og 1 barn","childNote":"Varm grundigt og lad køle før servering.","ingredients":["Rester fra torsdag"],"steps":["Varm torsdagens pasta grundigt igennem med lidt vand."],"useFromBefore":"Torsdag"}},{"day":"Lørdag","dish":"Paprikagryde med svinestrimler og ris","type":"cook","offer":"Svinestrimler købes til almindelig pris; grønt og fløde deles med ugens øvrige retter.","recipe":{"servings":"2 voksne og 1 barn","childNote":"Server mildt, og skær kødet småt.","ingredients":["500 g svinestrimler","250 g champignon","1 løg","1 peberfrugt","2,5 dl madlavningsfløde","200 g ris","Paprika","Bouillon"],"steps":["Brun svinestrimlerne.","Steg løg, champignon og peberfrugt, tilsæt kød, fløde, paprika og bouillon.","Lad simre til kødet er mørt, og server med kogte ris."]}},{"day":"Søndag","dish":"Karbonader med kartofler og grønt","type":"cook","offer":"Coop hakket grisekød 8–12%, 1 kg til 49 kr., og kartofler, 2 kg til 12 kr. – SuperBrugsen","recipe":{"servings":"2 voksne og 1 barn","childNote":"Steg gennem, skær i små stykker og begræns salt.","ingredients":["600 g hakket svinekød","900 g kartofler","500 g gulerødder","300 g ærter","1 æg","75 g rasp"],"steps":["Form karbonader og vend dem i æg og rasp.","Steg karbonaderne gennemstegte.","Kog kartofler og gulerødder og varm ærterne."]}}],"shopping":[{"store":"SuperBrugsen","items":[{"id":"w42-test-5","name":"Coop kartofler fra Storøhage","amount":"1 pose à 2 kg","category":"produce","note":"12 kr. pr. pose. Brug 900 g og gem resten til senere. 9.–22. oktober, side 13.","offer":{"catalogId":"A8q3ykvH","productId":"I3Fnk64F_-C_unT762mb7","heading":"Coop kartofler fra Storøhage","variant":"Coop kartofler fra Storøhage","price":12,"quantity":{"unit":{"symbol":"kg","si":{"symbol":"kg","factor":1}},"size":{"from":2,"to":2},"pieces":{"from":1,"to":1,"min":null,"max":null}},"validFrom":"2026-10-08T22:00:00+0000","validTo":"2026-10-22T21:59:59+0000","page":13}},{"id":"w42-test-7","name":"Xtra! kyllingebryst med lage","amount":"2 pakker à 800 g","category":"meat","note":"49 kr. pr. pakke, 98 kr. i alt. 800 g til pasta, 500 g til suppe; frys de sidste 300 g. 9.–22. oktober, side 1.","offer":{"catalogId":"A8q3ykvH","productId":"3JIYEsvMZ82UvOSMA0vOq","heading":"Xtra! kyllingebryst med lage eller -lårfilet","variant":"Xtra! kyllingebryst med lage","price":49,"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":800,"to":800},"pieces":{"from":1,"to":1,"min":null,"max":null}},"validFrom":"2026-10-08T22:00:00+0000","validTo":"2026-10-22T21:59:59+0000","page":1}},{"id":"w42-test-9","name":"Coop hakket grisekød 8-12%","amount":"1 pakke à 1 kg","category":"meat","note":"49 kr. pr. pakke. Brug 600 g til karbonader og frys 400 g. 9.–22. oktober, side 16.","offer":{"catalogId":"A8q3ykvH","productId":"Hifjp6sOZNMdq8KcVEzG0","heading":"Coop hakket grisekød 8-12% eller medister","variant":"Coop hakket grisekød 8-12%","price":49,"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":1000,"to":1000},"pieces":{"from":1,"to":1,"min":null,"max":null}},"validFrom":"2026-10-08T22:00:00+0000","validTo":"2026-10-22T21:59:59+0000","page":16}},{"id":"w42-oksekoed","name":"Coop hakket oksekød 14-18%","amount":"1 pakke à 800 g","category":"meat","note":"75 kr. pr. pakke. Til chili mandag og tirsdag. 9.–22. oktober, side 17.","offer":{"catalogId":"A8q3ykvH","productId":"aIzWo7i2Ih-bz8DFEF5y4","heading":"Coop hakket oksekød 14-18%","variant":"Coop hakket oksekød 14-18%","price":75,"quantity":{"unit":{"symbol":"g","si":{"symbol":"kg","factor":0.001}},"size":{"from":800,"to":800},"pieces":{"from":1,"to":1,"min":null,"max":null}},"validFrom":"2026-10-08T22:00:00+0000","validTo":"2026-10-22T21:59:59+0000","page":17}}]},{"store":"Valgfri butik","items":[{"id":"w42-test-1","name":"Løg","amount":"5 stk.","category":"produce","note":"Torsdag–søndag; tilbudsbillede ikke verificeret"},{"id":"w42-test-2","name":"Hvidløg","amount":"1 stk.","category":"produce","note":"Torsdag–søndag; tilbudsbillede ikke verificeret"},{"id":"w42-test-3","name":"Champignon","amount":"250 g","category":"produce","note":"Torsdag–søndag; tilbudsbillede ikke verificeret"},{"id":"w42-test-4","name":"Peberfrugt","amount":"2 stk.","category":"produce","note":"Torsdag–søndag; tilbudsbillede ikke verificeret"},{"id":"w42-test-6","name":"Gulerødder","amount":"1 kg","category":"produce","note":"Torsdag–søndag; tilbudsbillede ikke verificeret"},{"id":"w42-porre","name":"Porre","amount":"1 stk.","category":"produce","note":"Til ugens retter; ingen verificeret tilbudspris."},{"id":"w42-brød","name":"Brød","amount":"1 stk.","category":"bread","note":"Til ugens retter; ingen verificeret tilbudspris."},{"id":"w42-test-8","name":"Svinestrimler","amount":"500 g","category":"meat","note":"Torsdag–søndag; tilbudsbillede ikke verificeret"},{"id":"w42-test-10","name":"Pasta","amount":"600 g","category":"pantry","note":"Torsdag–søndag; tilbudsbillede ikke verificeret"},{"id":"w42-test-11","name":"Ris","amount":"600 g","category":"pantry","note":"Torsdag–søndag; tilbudsbillede ikke verificeret"},{"id":"w42-test-12","name":"Rasp","amount":"75 g","category":"pantry","note":"Torsdag–søndag; tilbudsbillede ikke verificeret"},{"id":"w42-test-13","name":"Paprika","amount":"Efter behov","category":"pantry","note":"Torsdag–søndag; tilbudsbillede ikke verificeret"},{"id":"w42-test-14","name":"Bouillon","amount":"Efter behov","category":"pantry","note":"Torsdag–søndag; tilbudsbillede ikke verificeret"},{"id":"w42-hakkede-tomater","name":"Hakkede tomater","amount":"2 dåser à 400 g","category":"pantry","note":"Til ugens retter; ingen verificeret tilbudspris."},{"id":"w42-kidneybønner","name":"Kidneybønner","amount":"2 dåser à 400 g","category":"pantry","note":"Til ugens retter; ingen verificeret tilbudspris."},{"id":"w42-spidskommen","name":"Spidskommen","amount":"Efter behov","category":"pantry","note":"Til ugens retter; ingen verificeret tilbudspris."},{"id":"w42-olie","name":"Olie","amount":"Efter behov","category":"pantry","note":"Til ugens retter; ingen verificeret tilbudspris."},{"id":"w42-test-15","name":"Madlavningsfløde","amount":"7,5 dl","category":"dairy","note":"Torsdag–søndag; tilbudsbillede ikke verificeret"},{"id":"w42-test-16","name":"Æg","amount":"1 stk.","category":"dairy","note":"Torsdag–søndag; tilbudsbillede ikke verificeret"},{"id":"w42-test-17","name":"Spinat","amount":"300 g","category":"frozen","note":"Torsdag–søndag; tilbudsbillede ikke verificeret"},{"id":"w42-test-18","name":"Ærter","amount":"300 g","category":"frozen","note":"Torsdag–søndag; tilbudsbillede ikke verificeret"}]}],"offers":[{"store":"REMA 1000","url":"https://rema1000.dk/avis/"},{"store":"Netto","url":"https://netto.dk/netto-avisen/"},{"store":"365discount","url":"https://365discount.coop.dk/365avisen-pdf/"},{"store":"SuperBrugsen","url":"https://superbrugsen.coop.dk/avis-pdf/"}],"purchaseAt":"2026-10-13T20:31:52.495118+00:00"}
+{
+  "week": "2026-W42",
+  "label": "Mandag 12. oktober – søndag 18. oktober",
+  "generated_at": "2026-10-13T20:31:52.495118+00:00",
+  "days": [
+    {
+      "day": "Mandag",
+      "dish": "Chili con carne med ris",
+      "type": "cook",
+      "offer": "Baseret på verificerede tilbud fra SuperBrugsen",
+      "recipe": {
+        "servings": "Ca. 6 portioner til to aftener",
+        "childNote": "Server mildt, begræns salt, og skær maden i små passende stykker.",
+        "ingredients": [
+          "800 g hakket oksekød",
+          "2 løg",
+          "2 fed hvidløg",
+          "200 g gulerødder",
+          "1 peberfrugt",
+          "2 dåser hakkede tomater à 400 g",
+          "2 dåser kidneybønner à 400 g (drænes)",
+          "400 g ris (200 g til hver aften)",
+          "1 spsk olie",
+          "Mild paprika og spidskommen"
+        ],
+        "steps": [
+          "Hak løg, hvidløg, gulerødder og peberfrugt. Steg i olie, og brun oksekødet.",
+          "Tilsæt tomater, drænede bønner og milde krydderier. Lad simre ca. 25 minutter.",
+          "Kog 200 g ris til i dag. Køl halvdelen af chilien hurtigt ned og gem i køleskabet til tirsdag."
+        ],
+        "leftovers": "Gem halvdelen af chilien til tirsdag; kog friske ris næste dag."
+      }
+    },
+    {
+      "day": "Tirsdag",
+      "dish": "Chili con carne med ris",
+      "type": "leftovers",
+      "offer": "Rester fra mandag",
+      "recipe": {
+        "servings": "2 voksne og 1 lille barn",
+        "childNote": "Varm grundigt og server mildt.",
+        "ingredients": [
+          "Rester af chili fra mandag",
+          "200 g ris"
+        ],
+        "steps": [
+          "Kog ris efter anvisningen.",
+          "Varm chilien grundigt igennem under omrøring og server."
+        ],
+        "useFromBefore": "Mandag"
+      }
+    },
+    {
+      "day": "Onsdag",
+      "dish": "Hønsekødssuppe med grønt og brød",
+      "type": "cook",
+      "offer": "Baseret på verificerede tilbud fra SuperBrugsen",
+      "recipe": {
+        "servings": "2 voksne og 1 lille barn",
+        "childNote": "Server mildt, begræns salt, og skær maden i små passende stykker.",
+        "ingredients": [
+          "500 g kyllingebryst",
+          "300 g gulerødder",
+          "1 løg",
+          "1 porre",
+          "1 liter mild bouillon",
+          "1 spsk olie",
+          "1 brød"
+        ],
+        "steps": [
+          "Skær kylling og grøntsager i små stykker. Svits grøntsagerne kort i olie.",
+          "Hæld bouillon ved, tilsæt kyllingen, og lad simre ca. 20 minutter til kødet er gennemkogt.",
+          "Server med brød. Frys de resterende 300 g rå kylling fra den ekstra pakke samme dag."
+        ]
+      }
+    },
+    {
+      "day": "Torsdag",
+      "dish": "Cremet pasta med kylling og spinat",
+      "type": "cook",
+      "offer": "Xtra! kyllingebryst med lage, 800 g til 49 kr. – SuperBrugsen, side 1",
+      "recipe": {
+        "servings": "Ca. 6 portioner, torsdag og fredag",
+        "childNote": "Skær kyllingen i små stykker, begræns salt.",
+        "ingredients": [
+          "800 g kyllingebryst",
+          "600 g pasta",
+          "300 g spinat",
+          "5 dl madlavningsfløde",
+          "1 løg",
+          "2 fed hvidløg"
+        ],
+        "steps": [
+          "Brun kylling i tern sammen med løg og hvidløg.",
+          "Tilsæt pasta, fløde, spinat og vand efter behov; kog til pastaen er mør og kyllingen gennemstegt.",
+          "Gem halvdelen i køleskabet til fredag."
+        ],
+        "leftovers": "Gem halvdelen til fredag."
+      }
+    },
+    {
+      "day": "Fredag",
+      "dish": "Cremet pasta med kylling og spinat",
+      "type": "leftovers",
+      "offer": "Rester fra torsdag",
+      "recipe": {
+        "servings": "2 voksne og 1 barn",
+        "childNote": "Varm grundigt og lad køle før servering.",
+        "ingredients": [
+          "Rester fra torsdag"
+        ],
+        "steps": [
+          "Varm torsdagens pasta grundigt igennem med lidt vand."
+        ],
+        "useFromBefore": "Torsdag"
+      }
+    },
+    {
+      "day": "Lørdag",
+      "dish": "Paprikagryde med svinestrimler og ris",
+      "type": "cook",
+      "offer": "Svinestrimler købes til almindelig pris; grønt og fløde deles med ugens øvrige retter.",
+      "recipe": {
+        "servings": "2 voksne og 1 barn",
+        "childNote": "Server mildt, og skær kødet småt.",
+        "ingredients": [
+          "500 g svinestrimler",
+          "250 g champignon",
+          "1 løg",
+          "1 peberfrugt",
+          "2,5 dl madlavningsfløde",
+          "200 g ris",
+          "Paprika",
+          "Bouillon"
+        ],
+        "steps": [
+          "Brun svinestrimlerne.",
+          "Steg løg, champignon og peberfrugt, tilsæt kød, fløde, paprika og bouillon.",
+          "Lad simre til kødet er mørt, og server med kogte ris."
+        ]
+      }
+    },
+    {
+      "day": "Søndag",
+      "dish": "Karbonader med kartofler og grønt",
+      "type": "cook",
+      "offer": "Coop hakket grisekød 8–12%, 1 kg til 49 kr., og kartofler, 2 kg til 12 kr. – SuperBrugsen",
+      "recipe": {
+        "servings": "2 voksne og 1 barn",
+        "childNote": "Steg gennem, skær i små stykker og begræns salt.",
+        "ingredients": [
+          "600 g hakket svinekød",
+          "900 g kartofler",
+          "500 g gulerødder",
+          "300 g ærter",
+          "1 æg",
+          "75 g rasp"
+        ],
+        "steps": [
+          "Form karbonader og vend dem i æg og rasp.",
+          "Steg karbonaderne gennemstegte.",
+          "Kog kartofler og gulerødder og varm ærterne."
+        ]
+      }
+    }
+  ],
+  "shopping": [
+    {
+      "store": "SuperBrugsen",
+      "items": [
+        {
+          "id": "w42-test-5",
+          "name": "Coop kartofler fra Storøhage",
+          "amount": "1 pose à 2 kg",
+          "category": "produce",
+          "note": "12 kr. pr. pose. Brug 900 g og gem resten til senere. 9.–22. oktober, side 13.",
+          "offer": {
+            "catalogId": "A8q3ykvH",
+            "productId": "I3Fnk64F_-C_unT762mb7",
+            "heading": "Coop kartofler fra Storøhage",
+            "variant": "Coop kartofler fra Storøhage",
+            "price": 12,
+            "quantity": {
+              "unit": {
+                "symbol": "kg",
+                "si": {
+                  "symbol": "kg",
+                  "factor": 1
+                }
+              },
+              "size": {
+                "from": 2,
+                "to": 2
+              },
+              "pieces": {
+                "from": 1,
+                "to": 1,
+                "min": null,
+                "max": null
+              }
+            },
+            "validFrom": "2026-10-08T22:00:00+0000",
+            "validTo": "2026-10-22T21:59:59+0000",
+            "page": 13
+          }
+        },
+        {
+          "id": "w42-test-7",
+          "name": "Xtra! kyllingebryst med lage",
+          "amount": "2 pakker à 800 g",
+          "category": "meat",
+          "note": "49 kr. pr. pakke, 98 kr. i alt. 800 g til pasta, 500 g til suppe; frys de sidste 300 g. 9.–22. oktober, side 1.",
+          "offer": {
+            "catalogId": "A8q3ykvH",
+            "productId": "3JIYEsvMZ82UvOSMA0vOq",
+            "heading": "Xtra! kyllingebryst med lage eller -lårfilet",
+            "variant": "Xtra! kyllingebryst med lage",
+            "price": 49,
+            "quantity": {
+              "unit": {
+                "symbol": "g",
+                "si": {
+                  "symbol": "kg",
+                  "factor": 0.001
+                }
+              },
+              "size": {
+                "from": 800,
+                "to": 800
+              },
+              "pieces": {
+                "from": 1,
+                "to": 1,
+                "min": null,
+                "max": null
+              }
+            },
+            "validFrom": "2026-10-08T22:00:00+0000",
+            "validTo": "2026-10-22T21:59:59+0000",
+            "page": 1
+          }
+        },
+        {
+          "id": "w42-test-9",
+          "name": "Coop hakket grisekød 8-12%",
+          "amount": "1 pakke à 1 kg",
+          "category": "meat",
+          "note": "49 kr. pr. pakke. Brug 600 g til karbonader og frys 400 g. 9.–22. oktober, side 16.",
+          "offer": {
+            "catalogId": "A8q3ykvH",
+            "productId": "Hifjp6sOZNMdq8KcVEzG0",
+            "heading": "Coop hakket grisekød 8-12% eller medister",
+            "variant": "Coop hakket grisekød 8-12%",
+            "price": 49,
+            "quantity": {
+              "unit": {
+                "symbol": "g",
+                "si": {
+                  "symbol": "kg",
+                  "factor": 0.001
+                }
+              },
+              "size": {
+                "from": 1000,
+                "to": 1000
+              },
+              "pieces": {
+                "from": 1,
+                "to": 1,
+                "min": null,
+                "max": null
+              }
+            },
+            "validFrom": "2026-10-08T22:00:00+0000",
+            "validTo": "2026-10-22T21:59:59+0000",
+            "page": 16
+          }
+        },
+        {
+          "id": "w42-oksekoed",
+          "name": "Coop hakket oksekød 14-18%",
+          "amount": "1 pakke à 800 g",
+          "category": "meat",
+          "note": "75 kr. pr. pakke. Til chili mandag og tirsdag. 9.–22. oktober, side 17.",
+          "offer": {
+            "catalogId": "A8q3ykvH",
+            "productId": "aIzWo7i2Ih-bz8DFEF5y4",
+            "heading": "Coop hakket oksekød 14-18%",
+            "variant": "Coop hakket oksekød 14-18%",
+            "price": 75,
+            "quantity": {
+              "unit": {
+                "symbol": "g",
+                "si": {
+                  "symbol": "kg",
+                  "factor": 0.001
+                }
+              },
+              "size": {
+                "from": 800,
+                "to": 800
+              },
+              "pieces": {
+                "from": 1,
+                "to": 1,
+                "min": null,
+                "max": null
+              }
+            },
+            "validFrom": "2026-10-08T22:00:00+0000",
+            "validTo": "2026-10-22T21:59:59+0000",
+            "page": 17
+          }
+        }
+      ]
+    },
+    {
+      "store": "Valgfri butik",
+      "items": [
+        {
+          "id": "w42-test-1",
+          "name": "Løg",
+          "amount": "5 stk.",
+          "category": "produce",
+          "note": "Til ugens retter; ingen verificeret tilbudspris."
+        },
+        {
+          "id": "w42-test-2",
+          "name": "Hvidløg",
+          "amount": "1 stk.",
+          "category": "produce",
+          "note": "Til ugens retter; ingen verificeret tilbudspris."
+        },
+        {
+          "id": "w42-test-3",
+          "name": "Champignon",
+          "amount": "250 g",
+          "category": "produce",
+          "note": "Til ugens retter; ingen verificeret tilbudspris."
+        },
+        {
+          "id": "w42-test-4",
+          "name": "Peberfrugt",
+          "amount": "2 stk.",
+          "category": "produce",
+          "note": "Til ugens retter; ingen verificeret tilbudspris."
+        },
+        {
+          "id": "w42-test-6",
+          "name": "Gulerødder",
+          "amount": "1 kg",
+          "category": "produce",
+          "note": "Til ugens retter; ingen verificeret tilbudspris."
+        },
+        {
+          "id": "w42-porre",
+          "name": "Porre",
+          "amount": "1 stk.",
+          "category": "produce",
+          "note": "Til ugens retter; ingen verificeret tilbudspris."
+        },
+        {
+          "id": "w42-brød",
+          "name": "Brød",
+          "amount": "1 stk.",
+          "category": "bread",
+          "note": "Til ugens retter; ingen verificeret tilbudspris."
+        },
+        {
+          "id": "w42-test-8",
+          "name": "Svinestrimler",
+          "amount": "500 g",
+          "category": "meat",
+          "note": "Til ugens retter; ingen verificeret tilbudspris."
+        },
+        {
+          "id": "w42-test-10",
+          "name": "Pasta",
+          "amount": "600 g",
+          "category": "pantry",
+          "note": "Til ugens retter; ingen verificeret tilbudspris."
+        },
+        {
+          "id": "w42-test-11",
+          "name": "Ris",
+          "amount": "600 g",
+          "category": "pantry",
+          "note": "Til ugens retter; ingen verificeret tilbudspris."
+        },
+        {
+          "id": "w42-test-12",
+          "name": "Rasp",
+          "amount": "75 g",
+          "category": "pantry",
+          "note": "Til ugens retter; ingen verificeret tilbudspris."
+        },
+        {
+          "id": "w42-test-13",
+          "name": "Paprika",
+          "amount": "Efter behov",
+          "category": "pantry",
+          "note": "Til ugens retter; ingen verificeret tilbudspris."
+        },
+        {
+          "id": "w42-test-14",
+          "name": "Bouillon",
+          "amount": "Efter behov",
+          "category": "pantry",
+          "note": "Til ugens retter; ingen verificeret tilbudspris."
+        },
+        {
+          "id": "w42-hakkede-tomater",
+          "name": "Hakkede tomater",
+          "amount": "2 dåser à 400 g",
+          "category": "pantry",
+          "note": "Til ugens retter; ingen verificeret tilbudspris."
+        },
+        {
+          "id": "w42-kidneybønner",
+          "name": "Kidneybønner",
+          "amount": "2 dåser à 400 g",
+          "category": "pantry",
+          "note": "Til ugens retter; ingen verificeret tilbudspris."
+        },
+        {
+          "id": "w42-spidskommen",
+          "name": "Spidskommen",
+          "amount": "Efter behov",
+          "category": "pantry",
+          "note": "Til ugens retter; ingen verificeret tilbudspris."
+        },
+        {
+          "id": "w42-olie",
+          "name": "Olie",
+          "amount": "Efter behov",
+          "category": "pantry",
+          "note": "Til ugens retter; ingen verificeret tilbudspris."
+        },
+        {
+          "id": "w42-test-15",
+          "name": "Madlavningsfløde",
+          "amount": "7,5 dl",
+          "category": "dairy",
+          "note": "Til ugens retter; ingen verificeret tilbudspris."
+        },
+        {
+          "id": "w42-test-16",
+          "name": "Æg",
+          "amount": "1 stk.",
+          "category": "dairy",
+          "note": "Til ugens retter; ingen verificeret tilbudspris."
+        },
+        {
+          "id": "w42-test-17",
+          "name": "Spinat",
+          "amount": "300 g",
+          "category": "frozen",
+          "note": "Til ugens retter; ingen verificeret tilbudspris."
+        },
+        {
+          "id": "w42-test-18",
+          "name": "Ærter",
+          "amount": "300 g",
+          "category": "frozen",
+          "note": "Til ugens retter; ingen verificeret tilbudspris."
+        }
+      ]
+    }
+  ],
+  "offers": [
+    {
+      "store": "REMA 1000",
+      "url": "https://rema1000.dk/avis/"
+    },
+    {
+      "store": "Netto",
+      "url": "https://netto.dk/netto-avisen/"
+    },
+    {
+      "store": "365discount",
+      "url": "https://365discount.coop.dk/365avisen-pdf/"
+    },
+    {
+      "store": "SuperBrugsen",
+      "url": "https://superbrugsen.coop.dk/avis-pdf/"
+    }
+  ],
+  "purchaseAt": "2026-10-13T20:31:52.495118+00:00"
+}

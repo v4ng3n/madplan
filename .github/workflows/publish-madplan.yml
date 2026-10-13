@@ -21,8 +21,15 @@ jobs:
       - name: Read live planning preferences
         run: curl --fail --silent --show-error --retry 3 https://madplan.v4ng3n.workers.dev/api/preferences -o /tmp/preferences.json
       - name: Validate candidate against live preferences and official offers
-        run: python scripts/validate_madplan.py --plan .automation/proposed-plan.json --preferences /tmp/preferences.json
+        id: validate
+        run: |
+          python scripts/validate_madplan.py --plan .automation/proposed-plan.json --preferences /tmp/preferences.json --fresh
+          python -c 'import json,os; p=json.load(open(".automation/proposed-plan.json")); open(os.environ["GITHUB_OUTPUT"],"a").write("test_only="+str(p.get("testOnly",False)).lower()+"\n")'
+      - name: Confirm successful dry run
+        if: steps.validate.outputs.test_only == 'true'
+        run: echo 'TEST PASSED; production meal plan preserved.' 
       - name: Publish validated plan
+        if: steps.validate.outputs.test_only != 'true'
         run: |
           cp .automation/proposed-plan.json public/data/madplan.json
           cp /tmp/preferences.json .automation/preferences.json

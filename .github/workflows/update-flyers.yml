@@ -2,6 +2,10 @@ name: Update and verify complete flyers
 on:
   schedule:
     - cron: '10 4,10,16,22 * * *'
+  push:
+    paths:
+      - 'scripts/fetch_flyers.py'
+      - '.github/workflows/update-flyers.yml'
   workflow_dispatch:
 permissions:
   contents: write
