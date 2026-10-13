@@ -5,12 +5,20 @@ on:
       - 'public/data/madplan.json'
       - '.automation/preferences.json'
       - 'scripts/validate_madplan.py'
+      - 'public/app.js'
+      - 'src/worker.js'
+      - 'public/data/flyers.json'
+      - 'tests/**'
       - '.github/workflows/validate-madplan.yml'
   pull_request:
     paths:
       - 'public/data/madplan.json'
       - '.automation/preferences.json'
       - 'scripts/validate_madplan.py'
+      - 'public/app.js'
+      - 'src/worker.js'
+      - 'public/data/flyers.json'
+      - 'tests/**'
   workflow_dispatch:
 jobs:
   validate:
@@ -22,3 +30,11 @@ jobs:
           python-version: '3.12'
       - name: Validate plan
         run: python scripts/validate_madplan.py
+
+      - name: Test image proxy and complete page manifest
+        run: node --test tests/flyers.test.mjs
+      - name: Check frontend syntax
+        run: node --check public/app.js
+
+      - name: Verify rejection of incorrect offers and missing days
+        run: python -m unittest discover -s tests -p "test_*.py"

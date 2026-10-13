@@ -17,7 +17,7 @@ jobs:
         run: |
           mkdir -p .automation
           curl --fail --silent --show-error --retry 3 \
-            https://madplan.v4ng3n.xyz/api/preferences \
+            https://madplan.v4ng3n.workers.dev/api/preferences \
             -o .automation/preferences.json
           node -e 'const fs=require("fs"); const d=JSON.parse(fs.readFileSync(".automation/preferences.json","utf8")); if(!d.configured || !Array.isArray(d.selectedDays) || !d.selectedDays.length) process.exit(1)'
       - name: Commit changed preferences

@@ -1,9 +1,0 @@
-name: Weekly meal plan generation (handled by ChatGPT)
-on:
-  workflow_dispatch:
-jobs:
-  information:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Explain
-        run: echo 'Weekly plan generation is handled by the scheduled ChatGPT task.'

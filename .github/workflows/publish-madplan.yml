@@ -1,0 +1,36 @@
+name: Validate and publish proposed meal plan
+on:
+  push:
+    paths:
+      - '.automation/proposed-plan.json'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: madplan-publication
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Read live planning preferences
+        run: curl --fail --silent --show-error --retry 3 https://madplan.v4ng3n.workers.dev/api/preferences -o /tmp/preferences.json
+      - name: Validate candidate against live preferences and official offers
+        run: python scripts/validate_madplan.py --plan .automation/proposed-plan.json --preferences /tmp/preferences.json
+      - name: Publish validated plan
+        run: |
+          cp .automation/proposed-plan.json public/data/madplan.json
+          cp /tmp/preferences.json .automation/preferences.json
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/madplan.json .automation/preferences.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Publish validated weekly family meal plan"
+          git pull --rebase origin main
+          python scripts/validate_madplan.py
+          git push origin HEAD:main

@@ -19,6 +19,25 @@ export default{async fetch(request,env){if(!env.DB)return request.method==="GET"
  if(u.pathname==="/api/checklist"){if(request.method==="GET")return checklistGet(request,env);if(request.method==="POST")return checklistPost(request,env);if(request.method==="DELETE")return checklistDelete(request,env);}
  if(u.pathname==="/api/preferences"){if(request.method==="GET")return preferencesGet(env);if(request.method==="POST")return preferencesPost(request,env);}
  if(u.pathname==="/api/manual-items"){if(request.method==="GET")return manualGet(env);if(request.method==="POST")return manualPost(request,env);if(request.method==="PATCH")return manualPatch(request,env);if(request.method==="DELETE")return manualDelete(request,env);}
- if(u.pathname==="/proxy/flyer-page"&&request.method==="GET"){const asset=(u.searchParams.get("asset")||"").replace(/[^A-Za-z0-9_-]/g,""),page=Math.max(1,parseInt(u.searchParams.get("page")||"1",10));if(!asset||!Number.isFinite(page))return new Response("Bad request",{status:400});const source="s3://sgn-prd-assets/uploads/"+asset+"/p-"+page+".webp";const target="https://image-transformer-api.tjek.com/?u="+encodeURIComponent(source)+"&w=1200";const r=await fetch(target,{headers:{"user-agent":"Mozilla/5.0","accept":"image/avif,image/webp,image/*,*/*;q=0.8"}});if(!r.ok)return new Response("Flyer page unavailable",{status:r.status});return new Response(r.body,{headers:{"content-type":r.headers.get("content-type")||"image/webp","cache-control":"public, max-age=86400"}});}
- if(u.pathname==="/proxy/coop-flyer"&&request.method==="GET"){const store=u.searchParams.get("store");const target=store==="365discount"?"https://365discount.coop.dk/365avis/":store==="SuperBrugsen"?"https://superbrugsen.coop.dk/avis/":null;if(!target)return new Response("Unknown store",{status:400});const upstream=await fetch(target,{headers:{"user-agent":"Mozilla/5.0"}});let html=await upstream.text();const origin=new URL(target).origin;html=html.replace(/<meta[^>]+http-equiv=["'](?:content-security-policy|x-frame-options)["'][^>]*>/gi,"");html=html.replace(/<head([^>]*)>/i,'<head$1><base href="'+origin+'/"><meta name="referrer" content="no-referrer">');html=html.replace(/(["'(=])\/(?!\/)/g,'$1'+origin+'/');return new Response(html,{status:upstream.status,headers:{"content-type":"text/html; charset=utf-8","cache-control":"no-store","content-security-policy":"frame-ancestors 'self'"}})}
+ if(u.pathname==="/proxy/flyer-page"&&request.method==="GET"){
+  const catalog=u.searchParams.get("catalog"),page=Number(u.searchParams.get("page"));
+  if(!catalog||!Number.isInteger(page)||page<1)return json({error:"invalid flyer page"},400);
+  const manifestResponse=await env.ASSETS.fetch(new Request(new URL("/data/flyers.json",request.url)));
+  if(!manifestResponse.ok)return json({error:"flyer manifest unavailable"},503);
+  const manifest=await manifestResponse.json();let flyer=manifest.flyers?.find(f=>f.catalogId===catalog&&f.complete);
+  if(!flyer&&/^[A-Za-z0-9_-]{1,32}$/.test(catalog)){const archive=await env.ASSETS.fetch(new Request(new URL("/data/flyer-editions/"+catalog+".json",request.url)));if(archive.ok){try{const data=await archive.json();if(data.catalogId===catalog&&data.complete)flyer=data}catch{}}}
+  const entry=flyer?.pages?.find(p=>p.number===page);
+  if(!entry)return json({error:"flyer edition or page unavailable"},404);
+  const source=new URL(entry.url);
+  if(source.protocol!=="https:"||source.hostname!=="image-transformer-api.tjek.com")return json({error:"invalid publisher image source"},502);
+  const cache=globalThis.caches?.default;
+  const cacheUrl=new URL(request.url);cacheUrl.searchParams.set("revision",entry.sha256);
+  const cacheKey=new Request(cacheUrl.toString());const cached=await cache?.match(cacheKey);if(cached)return cached;
+  try{
+   const upstream=await fetch(source.toString(),{headers:{accept:"image/*"}});
+   if(!upstream.ok||!upstream.headers.get("content-type")?.startsWith("image/"))return json({error:"publisher image unavailable",store:flyer.store,page},502);
+   const response=new Response(upstream.body,{headers:{"content-type":upstream.headers.get("content-type"),"cache-control":"public, max-age=3600","x-content-type-options":"nosniff"}});
+   if(cache)await cache.put(cacheKey,response.clone());return response;
+  }catch{return json({error:"publisher image request failed",store:flyer.store,page},502)}
+ }
  if(u.pathname.startsWith("/api/"))return json({error:"method not allowed"},405);return env.ASSETS.fetch(request);}};
