@@ -3400,11 +3400,11 @@
       "catalog_page": 21
     },
     {
-      "id": "uNfCi9pOgKjYLCTDECN9-",
-      "heading": "Decilitermål, dejskraber, piskeris, minisigte 8 cm, 2-pak grydeskeer, grydeske og palet, 5-pak udstikkerforme, smørebræt i træ 24x14 cm, palet, 12-pak kødnåle. 2-4-pak mini dip skåle, 2-pak squeeze",
-      "description": "flasker 20-pak sprøjteposer eller 3-pak målebæger",
+      "id": "n5eGhnxbJP9J42LHkVEWo",
+      "heading": "10-pak tyller, fad i stål, udstikker til honningkagehus, 3-pak røreskåle, brødkurv eller røreskål med låg",
+      "description": "L30 cm/1.5-3 l Partivare",
       "pricing": {
-        "price": 20,
+        "price": 30,
         "pre_price": null,
         "currency": "DKK"
       },
@@ -3432,11 +3432,11 @@
       "catalog_page": 21
     },
     {
-      "id": "n5eGhnxbJP9J42LHkVEWo",
-      "heading": "10-pak tyller, fad i stål, udstikker til honningkagehus, 3-pak røreskåle, brødkurv eller røreskål med låg",
-      "description": "L30 cm/1.5-3 l Partivare",
+      "id": "uNfCi9pOgKjYLCTDECN9-",
+      "heading": "Decilitermål, dejskraber, piskeris, minisigte 8 cm, 2-pak grydeskeer, grydeske og palet, 5-pak udstikkerforme, smørebræt i træ 24x14 cm, palet, 12-pak kødnåle. 2-4-pak mini dip skåle, 2-pak squeeze",
+      "description": "flasker 20-pak sprøjteposer eller 3-pak målebæger",
       "pricing": {
-        "price": 30,
+        "price": 20,
         "pre_price": null,
         "currency": "DKK"
       },
@@ -4264,38 +4264,6 @@
       "catalog_page": 26
     },
     {
-      "id": "Yq5c9Kq51HLOKp0jNMmOB",
-      "heading": "REMA 1000 Højrebsfilet",
-      "description": "Af kalv eller ungkvæg\nPR. ½ KG\n159.90 pr. kg",
-      "pricing": {
-        "price": 79.95,
-        "pre_price": null,
-        "currency": "DKK"
-      },
-      "quantity": {
-        "unit": {
-          "symbol": "kg",
-          "si": {
-            "symbol": "kg",
-            "factor": 1
-          }
-        },
-        "size": {
-          "from": 0.5,
-          "to": 0.5
-        },
-        "pieces": {
-          "from": 1,
-          "to": 1,
-          "min": null,
-          "max": null
-        }
-      },
-      "run_from": "2026-10-14T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000",
-      "catalog_page": 26
-    },
-    {
       "id": "WFB6__1rCmUcGfYL0M7AB",
       "heading": "Arla Klovborg eller Cheasy ost i skiver",
       "description": "200-240 g\nMax. 110.00 pr. kg",
@@ -4315,6 +4283,38 @@
         "size": {
           "from": 200,
           "to": 240
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-14T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 26
+    },
+    {
+      "id": "Yq5c9Kq51HLOKp0jNMmOB",
+      "heading": "REMA 1000 Højrebsfilet",
+      "description": "Af kalv eller ungkvæg\nPR. ½ KG\n159.90 pr. kg",
+      "pricing": {
+        "price": 79.95,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "kg",
+          "si": {
+            "symbol": "kg",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 0.5,
+          "to": 0.5
         },
         "pieces": {
           "from": 1,

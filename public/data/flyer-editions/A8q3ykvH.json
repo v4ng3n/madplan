@@ -264,38 +264,6 @@
       "catalog_page": 3
     },
     {
-      "id": "LcpjZT7-UwuROQnqnqGLL",
-      "heading": "Danonino eller Actimel",
-      "description": "300-400 g. Kg-pris maks. 33,33. 1 stk.",
-      "pricing": {
-        "price": 10,
-        "pre_price": null,
-        "currency": "DKK"
-      },
-      "quantity": {
-        "unit": {
-          "symbol": "g",
-          "si": {
-            "symbol": "kg",
-            "factor": 0.001
-          }
-        },
-        "size": {
-          "from": 300,
-          "to": 400
-        },
-        "pieces": {
-          "from": 1,
-          "to": 1,
-          "min": null,
-          "max": null
-        }
-      },
-      "run_from": "2026-10-08T22:00:00+0000",
-      "run_till": "2026-10-22T21:59:59+0000",
-      "catalog_page": 3
-    },
-    {
       "id": "t7XbrucoWTHUK5gxiYOpv",
       "heading": "Kleenex lommeletter",
       "description": "Flere varianter. 56-72 stk. Stk.-pris maks. 0,18. 1 pakke.",
@@ -315,6 +283,38 @@
         "size": {
           "from": 1,
           "to": 1
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-08T22:00:00+0000",
+      "run_till": "2026-10-22T21:59:59+0000",
+      "catalog_page": 3
+    },
+    {
+      "id": "LcpjZT7-UwuROQnqnqGLL",
+      "heading": "Danonino eller Actimel",
+      "description": "300-400 g. Kg-pris maks. 33,33. 1 stk.",
+      "pricing": {
+        "price": 10,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 300,
+          "to": 400
         },
         "pieces": {
           "from": 1,
@@ -424,38 +424,6 @@
       "catalog_page": 4
     },
     {
-      "id": "cA6jUt0-r8ZZ9LOmiW_2O",
-      "heading": "OMO vaskemiddel eller Bamseline skyllemiddel",
-      "description": "Flydende 700 ml, pulver 700 g eller skyllemiddel 925 ml. Flere varianter. 10-14 vaske/ 925 ml. Pris pr. vask maks. 2,00/Literpris 21,62. 1 stk.",
-      "pricing": {
-        "price": 20,
-        "pre_price": null,
-        "currency": "DKK"
-      },
-      "quantity": {
-        "unit": {
-          "symbol": "pcs",
-          "si": {
-            "symbol": "pcs",
-            "factor": 1
-          }
-        },
-        "size": {
-          "from": 1,
-          "to": 1
-        },
-        "pieces": {
-          "from": 1,
-          "to": 1,
-          "min": null,
-          "max": null
-        }
-      },
-      "run_from": "2026-10-08T22:00:00+0000",
-      "run_till": "2026-10-22T21:59:59+0000",
-      "catalog_page": 4
-    },
-    {
       "id": "zd3UvHcxnFBWikZwSt0Hm",
       "heading": "Langelænder pølser",
       "description": "325-350 g. Kg-pris maks. 61,54. 1 pakke.",
@@ -475,6 +443,38 @@
         "size": {
           "from": 325,
           "to": 350
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-08T22:00:00+0000",
+      "run_till": "2026-10-22T21:59:59+0000",
+      "catalog_page": 4
+    },
+    {
+      "id": "cA6jUt0-r8ZZ9LOmiW_2O",
+      "heading": "OMO vaskemiddel eller Bamseline skyllemiddel",
+      "description": "Flydende 700 ml, pulver 700 g eller skyllemiddel 925 ml. Flere varianter. 10-14 vaske/ 925 ml. Pris pr. vask maks. 2,00/Literpris 21,62. 1 stk.",
+      "pricing": {
+        "price": 20,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "pcs",
+          "si": {
+            "symbol": "pcs",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1,
+          "to": 1
         },
         "pieces": {
           "from": 1,
@@ -1800,38 +1800,6 @@
       "catalog_page": 15
     },
     {
-      "id": "dW3gkrHKEvVdupBHztEkW",
-      "heading": "Änglamark vådservietter",
-      "description": "100 stk. Stk.-pris 0,10. 1 pakke.",
-      "pricing": {
-        "price": 10,
-        "pre_price": null,
-        "currency": "DKK"
-      },
-      "quantity": {
-        "unit": {
-          "symbol": "pcs",
-          "si": {
-            "symbol": "pcs",
-            "factor": 1
-          }
-        },
-        "size": {
-          "from": 1,
-          "to": 1
-        },
-        "pieces": {
-          "from": 1,
-          "to": 1,
-          "min": null,
-          "max": null
-        }
-      },
-      "run_from": "2026-10-08T22:00:00+0000",
-      "run_till": "2026-10-22T21:59:59+0000",
-      "catalog_page": 15
-    },
-    {
       "id": "llWhsQSWmAhkKVeA57uzr",
       "heading": "Semper to go grød",
       "description": "Flere varianter. 120 g. Kg-pris 83,33. 1 stk.",
@@ -1851,6 +1819,38 @@
         "size": {
           "from": 120,
           "to": 120
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-08T22:00:00+0000",
+      "run_till": "2026-10-22T21:59:59+0000",
+      "catalog_page": 15
+    },
+    {
+      "id": "dW3gkrHKEvVdupBHztEkW",
+      "heading": "Änglamark vådservietter",
+      "description": "100 stk. Stk.-pris 0,10. 1 pakke.",
+      "pricing": {
+        "price": 10,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "pcs",
+          "si": {
+            "symbol": "pcs",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1,
+          "to": 1
         },
         "pieces": {
           "from": 1,
@@ -2888,9 +2888,9 @@
       "catalog_page": 20
     },
     {
-      "id": "WgDqguKnRL2_XtqlIN3SE",
-      "heading": "Hans Baer Riesling",
-      "description": "Tyskland. 75 cl. Literpris 60,00.\nRiesling kan frembringe nogle ret fine vine, og det er lidt synd at tyske vine ikke får den rette respekt. En frisk riesling med toner af både citrus og æble, og en meget fin balance mellem syre og en let og indsmigrende sødme. Nyd den alene eller til salater.",
+      "id": "HX--vqGLNJZV6-jx8vjsF",
+      "heading": "Alfredo Primitivo",
+      "description": "Apulien, Italien. 75 cl. Literpris 60,00.\nDuft af brombær, modne kirsebær og blomme. Smagen er fyldig og solmoden med noter af mørke bær og flot afrundet. Anbefales let afkølet til pastaretter, pizza, rødt kød og mellemlagrede oste.",
       "pricing": {
         "price": 45,
         "pre_price": null,
@@ -2920,9 +2920,9 @@
       "catalog_page": 21
     },
     {
-      "id": "HX--vqGLNJZV6-jx8vjsF",
-      "heading": "Alfredo Primitivo",
-      "description": "Apulien, Italien. 75 cl. Literpris 60,00.\nDuft af brombær, modne kirsebær og blomme. Smagen er fyldig og solmoden med noter af mørke bær og flot afrundet. Anbefales let afkølet til pastaretter, pizza, rødt kød og mellemlagrede oste.",
+      "id": "WgDqguKnRL2_XtqlIN3SE",
+      "heading": "Hans Baer Riesling",
+      "description": "Tyskland. 75 cl. Literpris 60,00.\nRiesling kan frembringe nogle ret fine vine, og det er lidt synd at tyske vine ikke får den rette respekt. En frisk riesling med toner af både citrus og æble, og en meget fin balance mellem syre og en let og indsmigrende sødme. Nyd den alene eller til salater.",
       "pricing": {
         "price": 45,
         "pre_price": null,
@@ -2957,38 +2957,6 @@
       "description": "Frankrig. 75 cl. Literpris 65,33.\nDet er ikke kun i Bourgogne at de kan lave dejlige vine på chardonnay. Det kan de så sandelig også i andre områder af Frankrig. Det er La Collection Chardonnay et fint bevis på. Stilen er ukompliceret men vinen formår på fin vis at fremstå både med en dejlig frugtighed, kombineret med et mineralsk præg.",
       "pricing": {
         "price": 49,
-        "pre_price": null,
-        "currency": "DKK"
-      },
-      "quantity": {
-        "unit": {
-          "symbol": "cl",
-          "si": {
-            "symbol": "l",
-            "factor": 0.01
-          }
-        },
-        "size": {
-          "from": 75,
-          "to": 75
-        },
-        "pieces": {
-          "from": 1,
-          "to": 1,
-          "min": null,
-          "max": null
-        }
-      },
-      "run_from": "2026-10-08T22:00:00+0000",
-      "run_till": "2026-10-22T21:59:59+0000",
-      "catalog_page": 21
-    },
-    {
-      "id": "S3W4zqra5_RF1HRbODamk",
-      "heading": "Bagatella Zinfandel",
-      "description": "Apulien, Italien. 75 cl. Literpris 78,67.\n100% zinfandel. Lagret 6 måneder på træfade. Intens violet farve, som med alderen vil blive ravfarvet. Duften og smagen er frugtig med toner af svesker, modne kirsebær med en krydret eftersmag. Velegnet til grillede og stegte kødretter, vildt og hårde modne oste.",
-      "pricing": {
-        "price": 59,
         "pre_price": null,
         "currency": "DKK"
       },
@@ -3054,6 +3022,38 @@
       "pricing": {
         "price": 59,
         "pre_price": 89.95,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "cl",
+          "si": {
+            "symbol": "l",
+            "factor": 0.01
+          }
+        },
+        "size": {
+          "from": 75,
+          "to": 75
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-08T22:00:00+0000",
+      "run_till": "2026-10-22T21:59:59+0000",
+      "catalog_page": 21
+    },
+    {
+      "id": "S3W4zqra5_RF1HRbODamk",
+      "heading": "Bagatella Zinfandel",
+      "description": "Apulien, Italien. 75 cl. Literpris 78,67.\n100% zinfandel. Lagret 6 måneder på træfade. Intens violet farve, som med alderen vil blive ravfarvet. Duften og smagen er frugtig med toner af svesker, modne kirsebær med en krydret eftersmag. Velegnet til grillede og stegte kødretter, vildt og hårde modne oste.",
+      "pricing": {
+        "price": 59,
+        "pre_price": null,
         "currency": "DKK"
       },
       "quantity": {
@@ -3208,12 +3208,12 @@
       "catalog_page": 24
     },
     {
-      "id": "y7jNSyws7of95f7ny_rgC",
-      "heading": "Diablo",
-      "description": "Chile. 75 cl. Literpris 78,67. Før-pris 169,00. Crystal Sauvignon Blanc Lysegul farve. Frisk og delikat med et strejf af hvid fersken. Efter et par sekunder kommer der omsluttende søde og cremede noter, der giver en lang og behagelig eftersmag. Alsidig vin, ideel til at ledsage frisk og grillet fisk, skaldyr og forskellige typer ost. Golden Chardonnay Lagret på ståltank tilføjet en smule eg. Duft af passionsfrugt, papaya, mango og egetræ. Frisk frugtsmag med smøragtige noter. Oplagt at nyde afkølet til fisk, kylling, skaldyr og pasta med flødesovs. Black Cabernet Sauvignon Duft af mørk frugt, mørk chokolade, tobak og søde krydderier. Smagen er et skønt mix af rød moden frugt og krydderier. En intens men elegant smag hvor de fyldige tanniner er pakket blødt ind. Anbefales til de fleste retter med rødt kød – gerne med krydderier. Dark Red Intens, dyb rød farve der forfører dig med sine attraktive strejf af mørk frugt, delikate noter af mokka og cremet vanilje. En behagelig vin der omslutter og fanger fra begyndelsen. Den er alsidigt og anbefales specielt til rødt kød og krydret mad.",
+      "id": "6M2Je6i8kXa4dXhdca1Dj",
+      "heading": "Carmel Mingot, Poeme Vineyards eller Grant Burge Reserve",
+      "description": "Frankrig eller Australien. Flere varianter. 75 cl. Literpris 78,67.",
       "pricing": {
         "price": 59,
-        "pre_price": 169,
+        "pre_price": null,
         "currency": "DKK"
       },
       "quantity": {
@@ -3240,12 +3240,12 @@
       "catalog_page": 25
     },
     {
-      "id": "6M2Je6i8kXa4dXhdca1Dj",
-      "heading": "Carmel Mingot, Poeme Vineyards eller Grant Burge Reserve",
-      "description": "Frankrig eller Australien. Flere varianter. 75 cl. Literpris 78,67.",
+      "id": "y7jNSyws7of95f7ny_rgC",
+      "heading": "Diablo",
+      "description": "Chile. 75 cl. Literpris 78,67. Før-pris 169,00. Crystal Sauvignon Blanc Lysegul farve. Frisk og delikat med et strejf af hvid fersken. Efter et par sekunder kommer der omsluttende søde og cremede noter, der giver en lang og behagelig eftersmag. Alsidig vin, ideel til at ledsage frisk og grillet fisk, skaldyr og forskellige typer ost. Golden Chardonnay Lagret på ståltank tilføjet en smule eg. Duft af passionsfrugt, papaya, mango og egetræ. Frisk frugtsmag med smøragtige noter. Oplagt at nyde afkølet til fisk, kylling, skaldyr og pasta med flødesovs. Black Cabernet Sauvignon Duft af mørk frugt, mørk chokolade, tobak og søde krydderier. Smagen er et skønt mix af rød moden frugt og krydderier. En intens men elegant smag hvor de fyldige tanniner er pakket blødt ind. Anbefales til de fleste retter med rødt kød – gerne med krydderier. Dark Red Intens, dyb rød farve der forfører dig med sine attraktive strejf af mørk frugt, delikate noter af mokka og cremet vanilje. En behagelig vin der omslutter og fanger fra begyndelsen. Den er alsidigt og anbefales specielt til rødt kød og krydret mad.",
       "pricing": {
         "price": 59,
-        "pre_price": null,
+        "pre_price": 169,
         "currency": "DKK"
       },
       "quantity": {

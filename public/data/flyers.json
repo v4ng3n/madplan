@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-10-14T01:11:18.880184+00:00",
+  "verifiedAt": "2026-10-14T15:04:34.584619+00:00",
   "flyers": [
     {
       "store": "REMA 1000",
@@ -3404,11 +3404,11 @@
           "catalog_page": 21
         },
         {
-          "id": "uNfCi9pOgKjYLCTDECN9-",
-          "heading": "Decilitermål, dejskraber, piskeris, minisigte 8 cm, 2-pak grydeskeer, grydeske og palet, 5-pak udstikkerforme, smørebræt i træ 24x14 cm, palet, 12-pak kødnåle. 2-4-pak mini dip skåle, 2-pak squeeze",
-          "description": "flasker 20-pak sprøjteposer eller 3-pak målebæger",
+          "id": "n5eGhnxbJP9J42LHkVEWo",
+          "heading": "10-pak tyller, fad i stål, udstikker til honningkagehus, 3-pak røreskåle, brødkurv eller røreskål med låg",
+          "description": "L30 cm/1.5-3 l Partivare",
           "pricing": {
-            "price": 20,
+            "price": 30,
             "pre_price": null,
             "currency": "DKK"
           },
@@ -3436,11 +3436,11 @@
           "catalog_page": 21
         },
         {
-          "id": "n5eGhnxbJP9J42LHkVEWo",
-          "heading": "10-pak tyller, fad i stål, udstikker til honningkagehus, 3-pak røreskåle, brødkurv eller røreskål med låg",
-          "description": "L30 cm/1.5-3 l Partivare",
+          "id": "uNfCi9pOgKjYLCTDECN9-",
+          "heading": "Decilitermål, dejskraber, piskeris, minisigte 8 cm, 2-pak grydeskeer, grydeske og palet, 5-pak udstikkerforme, smørebræt i træ 24x14 cm, palet, 12-pak kødnåle. 2-4-pak mini dip skåle, 2-pak squeeze",
+          "description": "flasker 20-pak sprøjteposer eller 3-pak målebæger",
           "pricing": {
-            "price": 30,
+            "price": 20,
             "pre_price": null,
             "currency": "DKK"
           },
@@ -4268,38 +4268,6 @@
           "catalog_page": 26
         },
         {
-          "id": "Yq5c9Kq51HLOKp0jNMmOB",
-          "heading": "REMA 1000 Højrebsfilet",
-          "description": "Af kalv eller ungkvæg\nPR. ½ KG\n159.90 pr. kg",
-          "pricing": {
-            "price": 79.95,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "kg",
-              "si": {
-                "symbol": "kg",
-                "factor": 1
-              }
-            },
-            "size": {
-              "from": 0.5,
-              "to": 0.5
-            },
-            "pieces": {
-              "from": 1,
-              "to": 1,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-14T22:00:00+0000",
-          "run_till": "2026-10-17T21:59:59+0000",
-          "catalog_page": 26
-        },
-        {
           "id": "WFB6__1rCmUcGfYL0M7AB",
           "heading": "Arla Klovborg eller Cheasy ost i skiver",
           "description": "200-240 g\nMax. 110.00 pr. kg",
@@ -4319,6 +4287,38 @@
             "size": {
               "from": 200,
               "to": 240
+            },
+            "pieces": {
+              "from": 1,
+              "to": 1,
+              "min": null,
+              "max": null
+            }
+          },
+          "run_from": "2026-10-14T22:00:00+0000",
+          "run_till": "2026-10-17T21:59:59+0000",
+          "catalog_page": 26
+        },
+        {
+          "id": "Yq5c9Kq51HLOKp0jNMmOB",
+          "heading": "REMA 1000 Højrebsfilet",
+          "description": "Af kalv eller ungkvæg\nPR. ½ KG\n159.90 pr. kg",
+          "pricing": {
+            "price": 79.95,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "kg",
+              "si": {
+                "symbol": "kg",
+                "factor": 1
+              }
+            },
+            "size": {
+              "from": 0.5,
+              "to": 0.5
             },
             "pieces": {
               "from": 1,
@@ -5151,6 +5151,38 @@
           "catalog_page": 1
         },
         {
+          "id": "8fMr6oNNmQyG0j3wHw-Fa",
+          "heading": "Carlsberg eller Tuborg øl",
+          "description": "15-18 x 33 cl. Literpris maks. 13,94 + pant. 1 pakke.",
+          "pricing": {
+            "price": 69,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "cl",
+              "si": {
+                "symbol": "l",
+                "factor": 0.01
+              }
+            },
+            "size": {
+              "from": 33,
+              "to": 33
+            },
+            "pieces": {
+              "from": 15,
+              "to": 18,
+              "min": null,
+              "max": null
+            }
+          },
+          "run_from": "2026-10-07T22:00:00+0000",
+          "run_till": "2026-10-14T21:59:59+0000",
+          "catalog_page": 2
+        },
+        {
           "id": "TUcBxQ1XqL-fWzrd81DFA",
           "heading": "Merrild eller Gevalia formalet kaffe",
           "description": "400 g. Kg-pris 97,50. 1 pose.",
@@ -5206,38 +5238,6 @@
             "pieces": {
               "from": 1,
               "to": 1,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-07T22:00:00+0000",
-          "run_till": "2026-10-14T21:59:59+0000",
-          "catalog_page": 2
-        },
-        {
-          "id": "8fMr6oNNmQyG0j3wHw-Fa",
-          "heading": "Carlsberg eller Tuborg øl",
-          "description": "15-18 x 33 cl. Literpris maks. 13,94 + pant. 1 pakke.",
-          "pricing": {
-            "price": 69,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "cl",
-              "si": {
-                "symbol": "l",
-                "factor": 0.01
-              }
-            },
-            "size": {
-              "from": 33,
-              "to": 33
-            },
-            "pieces": {
-              "from": 15,
-              "to": 18,
               "min": null,
               "max": null
             }
@@ -5439,38 +5439,6 @@
           "catalog_page": 4
         },
         {
-          "id": "V_7MSXFmUg2oFBeCmIdXo",
-          "heading": "Xtra! kyllingefilet",
-          "description": "350 g. Kg-pris 82,86. 1 pakke.",
-          "pricing": {
-            "price": 29,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "g",
-              "si": {
-                "symbol": "kg",
-                "factor": 0.001
-              }
-            },
-            "size": {
-              "from": 350,
-              "to": 350
-            },
-            "pieces": {
-              "from": 1,
-              "to": 1,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-07T22:00:00+0000",
-          "run_till": "2026-10-14T21:59:59+0000",
-          "catalog_page": 5
-        },
-        {
           "id": "xnZakp6uKjOv603vViXMB",
           "heading": "Coop cevapcici, frikadeller eller hakket gris & kalv 8-12%",
           "description": "300-500 g. Kg-pris maks. 96,67. 1 pakke.",
@@ -5490,6 +5458,38 @@
             "size": {
               "from": 300,
               "to": 500
+            },
+            "pieces": {
+              "from": 1,
+              "to": 1,
+              "min": null,
+              "max": null
+            }
+          },
+          "run_from": "2026-10-07T22:00:00+0000",
+          "run_till": "2026-10-14T21:59:59+0000",
+          "catalog_page": 5
+        },
+        {
+          "id": "V_7MSXFmUg2oFBeCmIdXo",
+          "heading": "Xtra! kyllingefilet",
+          "description": "350 g. Kg-pris 82,86. 1 pakke.",
+          "pricing": {
+            "price": 29,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "g",
+              "si": {
+                "symbol": "kg",
+                "factor": 0.001
+              }
+            },
+            "size": {
+              "from": 350,
+              "to": 350
             },
             "pieces": {
               "from": 1,
@@ -5599,38 +5599,6 @@
           "catalog_page": 6
         },
         {
-          "id": "scUn4ty1nxKV1bnA6wgAd",
-          "heading": "Mammen skiveost",
-          "description": "140 g. Kg-pris 107,14. 1 stk.",
-          "pricing": {
-            "price": 15,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "g",
-              "si": {
-                "symbol": "kg",
-                "factor": 0.001
-              }
-            },
-            "size": {
-              "from": 140,
-              "to": 140
-            },
-            "pieces": {
-              "from": 1,
-              "to": 1,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-07T22:00:00+0000",
-          "run_till": "2026-10-14T21:59:59+0000",
-          "catalog_page": 6
-        },
-        {
           "id": "UWvQG0M7dcsh-FGr2cSu9",
           "heading": "Coop creme fraiche eller fraiche",
           "description": "500 g. Kg-pris 30,00. 1 stk.",
@@ -5650,6 +5618,38 @@
             "size": {
               "from": 500,
               "to": 500
+            },
+            "pieces": {
+              "from": 1,
+              "to": 1,
+              "min": null,
+              "max": null
+            }
+          },
+          "run_from": "2026-10-07T22:00:00+0000",
+          "run_till": "2026-10-14T21:59:59+0000",
+          "catalog_page": 6
+        },
+        {
+          "id": "scUn4ty1nxKV1bnA6wgAd",
+          "heading": "Mammen skiveost",
+          "description": "140 g. Kg-pris 107,14. 1 stk.",
+          "pricing": {
+            "price": 15,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "g",
+              "si": {
+                "symbol": "kg",
+                "factor": 0.001
+              }
+            },
+            "size": {
+              "from": 140,
+              "to": 140
             },
             "pieces": {
               "from": 1,
@@ -7455,6 +7455,38 @@
           "catalog_page": 17
         },
         {
+          "id": "3rdEAgKFwCT-6hJ-EFZ6x",
+          "heading": "Sukker eller sirup",
+          "description": "400-2000 g. Kg-pris maks. 45,00. 1 stk.",
+          "pricing": {
+            "price": 18,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "g",
+              "si": {
+                "symbol": "kg",
+                "factor": 0.001
+              }
+            },
+            "size": {
+              "from": 400,
+              "to": 2000
+            },
+            "pieces": {
+              "from": 1,
+              "to": 1,
+              "min": null,
+              "max": null
+            }
+          },
+          "run_from": "2026-10-07T22:00:00+0000",
+          "run_till": "2026-10-14T21:59:59+0000",
+          "catalog_page": 17
+        },
+        {
           "id": "fS6yv48zy55oLyqWCC-Ps",
           "heading": "Coop bær eller frugt",
           "description": "Dybfrost. 250-300 g. Kg-pris maks. 56,00. 1 pose.",
@@ -7506,38 +7538,6 @@
             "size": {
               "from": 350,
               "to": 500
-            },
-            "pieces": {
-              "from": 1,
-              "to": 1,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-07T22:00:00+0000",
-          "run_till": "2026-10-14T21:59:59+0000",
-          "catalog_page": 17
-        },
-        {
-          "id": "3rdEAgKFwCT-6hJ-EFZ6x",
-          "heading": "Sukker eller sirup",
-          "description": "400-2000 g. Kg-pris maks. 45,00. 1 stk.",
-          "pricing": {
-            "price": 18,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "g",
-              "si": {
-                "symbol": "kg",
-                "factor": 0.001
-              }
-            },
-            "size": {
-              "from": 400,
-              "to": 2000
             },
             "pieces": {
               "from": 1,
@@ -8223,38 +8223,6 @@
           "catalog_page": 21
         },
         {
-          "id": "qR0ux2k2jHq6Y-peB8FMc",
-          "heading": "Coop topping",
-          "description": "Flere varianter. 150-200 g. Kg-pris maks. 93,33. 1 pakke.",
-          "pricing": {
-            "price": 14,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "g",
-              "si": {
-                "symbol": "kg",
-                "factor": 0.001
-              }
-            },
-            "size": {
-              "from": 150,
-              "to": 200
-            },
-            "pieces": {
-              "from": 1,
-              "to": 1,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-07T22:00:00+0000",
-          "run_till": "2026-10-14T21:59:59+0000",
-          "catalog_page": 21
-        },
-        {
           "id": "aayrtvwjyHzVtfvctNvrR",
           "heading": "Xtra! pølsehornspølser",
           "description": "240 g. Kg-pris 58,33. 1 pakke.",
@@ -8274,6 +8242,38 @@
             "size": {
               "from": 240,
               "to": 240
+            },
+            "pieces": {
+              "from": 1,
+              "to": 1,
+              "min": null,
+              "max": null
+            }
+          },
+          "run_from": "2026-10-07T22:00:00+0000",
+          "run_till": "2026-10-14T21:59:59+0000",
+          "catalog_page": 21
+        },
+        {
+          "id": "qR0ux2k2jHq6Y-peB8FMc",
+          "heading": "Coop topping",
+          "description": "Flere varianter. 150-200 g. Kg-pris maks. 93,33. 1 pakke.",
+          "pricing": {
+            "price": 14,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "g",
+              "si": {
+                "symbol": "kg",
+                "factor": 0.001
+              }
+            },
+            "size": {
+              "from": 150,
+              "to": 200
             },
             "pieces": {
               "from": 1,
@@ -9343,6 +9343,38 @@
           "catalog_page": 27
         },
         {
+          "id": "jSsjpOmp04mWItBJizIvL",
+          "heading": "Badesæt",
+          "description": "Opbevaring. Indeholder bruseforhæng med kroge 180 x 180 cm og bademåtte 40 x 60 cm. Flere farver. 1 sæt.",
+          "pricing": {
+            "price": 50,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "pcs",
+              "si": {
+                "symbol": "pcs",
+                "factor": 1
+              }
+            },
+            "size": {
+              "from": 1,
+              "to": 1
+            },
+            "pieces": {
+              "from": 1,
+              "to": 1,
+              "min": null,
+              "max": null
+            }
+          },
+          "run_from": "2026-10-07T22:00:00+0000",
+          "run_till": "2026-10-14T21:59:59+0000",
+          "catalog_page": 28
+        },
+        {
           "id": "fiSthXchf0LBinlcy95AH",
           "heading": "Imiteret lammeskind eller siddehynder",
           "description": "Lammeskind 60 x 90 cm eller siddehynder Ø 34 cm 2-pak. Flere farver. 1 stk./2-pak.",
@@ -9407,11 +9439,11 @@
           "catalog_page": 28
         },
         {
-          "id": "jSsjpOmp04mWItBJizIvL",
-          "heading": "Badesæt",
-          "description": "Opbevaring. Indeholder bruseforhæng med kroge 180 x 180 cm og bademåtte 40 x 60 cm. Flere farver. 1 sæt.",
+          "id": "uh59IewCDz2SrmsD0nKN4",
+          "heading": "Sengetøj med digital print",
+          "description": "100% mikrofiber. 140 x 200 cm. Vendbart. Flere design. 1 sæt.",
           "pricing": {
-            "price": 50,
+            "price": 69,
             "pre_price": null,
             "currency": "DKK"
           },
@@ -9442,38 +9474,6 @@
           "id": "xDD6b2Kod1So1Ri4PevL1",
           "heading": "Kunstig orkidé i potte",
           "description": "Hvid eller lyserød. 1 stk.",
-          "pricing": {
-            "price": 69,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "pcs",
-              "si": {
-                "symbol": "pcs",
-                "factor": 1
-              }
-            },
-            "size": {
-              "from": 1,
-              "to": 1
-            },
-            "pieces": {
-              "from": 1,
-              "to": 1,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-07T22:00:00+0000",
-          "run_till": "2026-10-14T21:59:59+0000",
-          "catalog_page": 28
-        },
-        {
-          "id": "uh59IewCDz2SrmsD0nKN4",
-          "heading": "Sengetøj med digital print",
-          "description": "100% mikrofiber. 140 x 200 cm. Vendbart. Flere design. 1 sæt.",
           "pricing": {
             "price": 69,
             "pre_price": null,
@@ -9567,38 +9567,6 @@
           "catalog_page": 29
         },
         {
-          "id": "cKNarGKc9_ZZgLflPcB71",
-          "heading": "Actimel kids 4-pak*",
-          "description": "4x100 g. Kg-pris 30,00. 1 pakke.",
-          "pricing": {
-            "price": 12,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "g",
-              "si": {
-                "symbol": "kg",
-                "factor": 0.001
-              }
-            },
-            "size": {
-              "from": 100,
-              "to": 100
-            },
-            "pieces": {
-              "from": 4,
-              "to": 4,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-10T22:00:00+0000",
-          "run_till": "2026-10-14T21:59:59+0000",
-          "catalog_page": 29
-        },
-        {
           "id": "TN2KvMiWbjEz2FQtQfjhV",
           "heading": "Coop mandariner",
           "description": "Udenlandske, kl. I. 1 kg. Kg-pris 12,00. 1 net.",
@@ -9622,6 +9590,38 @@
             "pieces": {
               "from": 1,
               "to": 1,
+              "min": null,
+              "max": null
+            }
+          },
+          "run_from": "2026-10-10T22:00:00+0000",
+          "run_till": "2026-10-14T21:59:59+0000",
+          "catalog_page": 29
+        },
+        {
+          "id": "cKNarGKc9_ZZgLflPcB71",
+          "heading": "Actimel kids 4-pak*",
+          "description": "4x100 g. Kg-pris 30,00. 1 pakke.",
+          "pricing": {
+            "price": 12,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "g",
+              "si": {
+                "symbol": "kg",
+                "factor": 0.001
+              }
+            },
+            "size": {
+              "from": 100,
+              "to": 100
+            },
+            "pieces": {
+              "from": 4,
+              "to": 4,
               "min": null,
               "max": null
             }
@@ -10197,38 +10197,6 @@
           "catalog_page": 3
         },
         {
-          "id": "LcpjZT7-UwuROQnqnqGLL",
-          "heading": "Danonino eller Actimel",
-          "description": "300-400 g. Kg-pris maks. 33,33. 1 stk.",
-          "pricing": {
-            "price": 10,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "g",
-              "si": {
-                "symbol": "kg",
-                "factor": 0.001
-              }
-            },
-            "size": {
-              "from": 300,
-              "to": 400
-            },
-            "pieces": {
-              "from": 1,
-              "to": 1,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-08T22:00:00+0000",
-          "run_till": "2026-10-22T21:59:59+0000",
-          "catalog_page": 3
-        },
-        {
           "id": "t7XbrucoWTHUK5gxiYOpv",
           "heading": "Kleenex lommeletter",
           "description": "Flere varianter. 56-72 stk. Stk.-pris maks. 0,18. 1 pakke.",
@@ -10248,6 +10216,38 @@
             "size": {
               "from": 1,
               "to": 1
+            },
+            "pieces": {
+              "from": 1,
+              "to": 1,
+              "min": null,
+              "max": null
+            }
+          },
+          "run_from": "2026-10-08T22:00:00+0000",
+          "run_till": "2026-10-22T21:59:59+0000",
+          "catalog_page": 3
+        },
+        {
+          "id": "LcpjZT7-UwuROQnqnqGLL",
+          "heading": "Danonino eller Actimel",
+          "description": "300-400 g. Kg-pris maks. 33,33. 1 stk.",
+          "pricing": {
+            "price": 10,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "g",
+              "si": {
+                "symbol": "kg",
+                "factor": 0.001
+              }
+            },
+            "size": {
+              "from": 300,
+              "to": 400
             },
             "pieces": {
               "from": 1,
@@ -10357,38 +10357,6 @@
           "catalog_page": 4
         },
         {
-          "id": "cA6jUt0-r8ZZ9LOmiW_2O",
-          "heading": "OMO vaskemiddel eller Bamseline skyllemiddel",
-          "description": "Flydende 700 ml, pulver 700 g eller skyllemiddel 925 ml. Flere varianter. 10-14 vaske/ 925 ml. Pris pr. vask maks. 2,00/Literpris 21,62. 1 stk.",
-          "pricing": {
-            "price": 20,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "pcs",
-              "si": {
-                "symbol": "pcs",
-                "factor": 1
-              }
-            },
-            "size": {
-              "from": 1,
-              "to": 1
-            },
-            "pieces": {
-              "from": 1,
-              "to": 1,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-08T22:00:00+0000",
-          "run_till": "2026-10-22T21:59:59+0000",
-          "catalog_page": 4
-        },
-        {
           "id": "zd3UvHcxnFBWikZwSt0Hm",
           "heading": "Langelænder pølser",
           "description": "325-350 g. Kg-pris maks. 61,54. 1 pakke.",
@@ -10408,6 +10376,38 @@
             "size": {
               "from": 325,
               "to": 350
+            },
+            "pieces": {
+              "from": 1,
+              "to": 1,
+              "min": null,
+              "max": null
+            }
+          },
+          "run_from": "2026-10-08T22:00:00+0000",
+          "run_till": "2026-10-22T21:59:59+0000",
+          "catalog_page": 4
+        },
+        {
+          "id": "cA6jUt0-r8ZZ9LOmiW_2O",
+          "heading": "OMO vaskemiddel eller Bamseline skyllemiddel",
+          "description": "Flydende 700 ml, pulver 700 g eller skyllemiddel 925 ml. Flere varianter. 10-14 vaske/ 925 ml. Pris pr. vask maks. 2,00/Literpris 21,62. 1 stk.",
+          "pricing": {
+            "price": 20,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "pcs",
+              "si": {
+                "symbol": "pcs",
+                "factor": 1
+              }
+            },
+            "size": {
+              "from": 1,
+              "to": 1
             },
             "pieces": {
               "from": 1,
@@ -11733,38 +11733,6 @@
           "catalog_page": 15
         },
         {
-          "id": "dW3gkrHKEvVdupBHztEkW",
-          "heading": "Änglamark vådservietter",
-          "description": "100 stk. Stk.-pris 0,10. 1 pakke.",
-          "pricing": {
-            "price": 10,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "pcs",
-              "si": {
-                "symbol": "pcs",
-                "factor": 1
-              }
-            },
-            "size": {
-              "from": 1,
-              "to": 1
-            },
-            "pieces": {
-              "from": 1,
-              "to": 1,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-08T22:00:00+0000",
-          "run_till": "2026-10-22T21:59:59+0000",
-          "catalog_page": 15
-        },
-        {
           "id": "llWhsQSWmAhkKVeA57uzr",
           "heading": "Semper to go grød",
           "description": "Flere varianter. 120 g. Kg-pris 83,33. 1 stk.",
@@ -11784,6 +11752,38 @@
             "size": {
               "from": 120,
               "to": 120
+            },
+            "pieces": {
+              "from": 1,
+              "to": 1,
+              "min": null,
+              "max": null
+            }
+          },
+          "run_from": "2026-10-08T22:00:00+0000",
+          "run_till": "2026-10-22T21:59:59+0000",
+          "catalog_page": 15
+        },
+        {
+          "id": "dW3gkrHKEvVdupBHztEkW",
+          "heading": "Änglamark vådservietter",
+          "description": "100 stk. Stk.-pris 0,10. 1 pakke.",
+          "pricing": {
+            "price": 10,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "pcs",
+              "si": {
+                "symbol": "pcs",
+                "factor": 1
+              }
+            },
+            "size": {
+              "from": 1,
+              "to": 1
             },
             "pieces": {
               "from": 1,
@@ -12821,9 +12821,9 @@
           "catalog_page": 20
         },
         {
-          "id": "WgDqguKnRL2_XtqlIN3SE",
-          "heading": "Hans Baer Riesling",
-          "description": "Tyskland. 75 cl. Literpris 60,00.\nRiesling kan frembringe nogle ret fine vine, og det er lidt synd at tyske vine ikke får den rette respekt. En frisk riesling med toner af både citrus og æble, og en meget fin balance mellem syre og en let og indsmigrende sødme. Nyd den alene eller til salater.",
+          "id": "HX--vqGLNJZV6-jx8vjsF",
+          "heading": "Alfredo Primitivo",
+          "description": "Apulien, Italien. 75 cl. Literpris 60,00.\nDuft af brombær, modne kirsebær og blomme. Smagen er fyldig og solmoden med noter af mørke bær og flot afrundet. Anbefales let afkølet til pastaretter, pizza, rødt kød og mellemlagrede oste.",
           "pricing": {
             "price": 45,
             "pre_price": null,
@@ -12853,9 +12853,9 @@
           "catalog_page": 21
         },
         {
-          "id": "HX--vqGLNJZV6-jx8vjsF",
-          "heading": "Alfredo Primitivo",
-          "description": "Apulien, Italien. 75 cl. Literpris 60,00.\nDuft af brombær, modne kirsebær og blomme. Smagen er fyldig og solmoden med noter af mørke bær og flot afrundet. Anbefales let afkølet til pastaretter, pizza, rødt kød og mellemlagrede oste.",
+          "id": "WgDqguKnRL2_XtqlIN3SE",
+          "heading": "Hans Baer Riesling",
+          "description": "Tyskland. 75 cl. Literpris 60,00.\nRiesling kan frembringe nogle ret fine vine, og det er lidt synd at tyske vine ikke får den rette respekt. En frisk riesling med toner af både citrus og æble, og en meget fin balance mellem syre og en let og indsmigrende sødme. Nyd den alene eller til salater.",
           "pricing": {
             "price": 45,
             "pre_price": null,
@@ -12890,38 +12890,6 @@
           "description": "Frankrig. 75 cl. Literpris 65,33.\nDet er ikke kun i Bourgogne at de kan lave dejlige vine på chardonnay. Det kan de så sandelig også i andre områder af Frankrig. Det er La Collection Chardonnay et fint bevis på. Stilen er ukompliceret men vinen formår på fin vis at fremstå både med en dejlig frugtighed, kombineret med et mineralsk præg.",
           "pricing": {
             "price": 49,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "cl",
-              "si": {
-                "symbol": "l",
-                "factor": 0.01
-              }
-            },
-            "size": {
-              "from": 75,
-              "to": 75
-            },
-            "pieces": {
-              "from": 1,
-              "to": 1,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-08T22:00:00+0000",
-          "run_till": "2026-10-22T21:59:59+0000",
-          "catalog_page": 21
-        },
-        {
-          "id": "S3W4zqra5_RF1HRbODamk",
-          "heading": "Bagatella Zinfandel",
-          "description": "Apulien, Italien. 75 cl. Literpris 78,67.\n100% zinfandel. Lagret 6 måneder på træfade. Intens violet farve, som med alderen vil blive ravfarvet. Duften og smagen er frugtig med toner af svesker, modne kirsebær med en krydret eftersmag. Velegnet til grillede og stegte kødretter, vildt og hårde modne oste.",
-          "pricing": {
-            "price": 59,
             "pre_price": null,
             "currency": "DKK"
           },
@@ -12987,6 +12955,38 @@
           "pricing": {
             "price": 59,
             "pre_price": 89.95,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "cl",
+              "si": {
+                "symbol": "l",
+                "factor": 0.01
+              }
+            },
+            "size": {
+              "from": 75,
+              "to": 75
+            },
+            "pieces": {
+              "from": 1,
+              "to": 1,
+              "min": null,
+              "max": null
+            }
+          },
+          "run_from": "2026-10-08T22:00:00+0000",
+          "run_till": "2026-10-22T21:59:59+0000",
+          "catalog_page": 21
+        },
+        {
+          "id": "S3W4zqra5_RF1HRbODamk",
+          "heading": "Bagatella Zinfandel",
+          "description": "Apulien, Italien. 75 cl. Literpris 78,67.\n100% zinfandel. Lagret 6 måneder på træfade. Intens violet farve, som med alderen vil blive ravfarvet. Duften og smagen er frugtig med toner af svesker, modne kirsebær med en krydret eftersmag. Velegnet til grillede og stegte kødretter, vildt og hårde modne oste.",
+          "pricing": {
+            "price": 59,
+            "pre_price": null,
             "currency": "DKK"
           },
           "quantity": {
@@ -13141,12 +13141,12 @@
           "catalog_page": 24
         },
         {
-          "id": "y7jNSyws7of95f7ny_rgC",
-          "heading": "Diablo",
-          "description": "Chile. 75 cl. Literpris 78,67. Før-pris 169,00. Crystal Sauvignon Blanc Lysegul farve. Frisk og delikat med et strejf af hvid fersken. Efter et par sekunder kommer der omsluttende søde og cremede noter, der giver en lang og behagelig eftersmag. Alsidig vin, ideel til at ledsage frisk og grillet fisk, skaldyr og forskellige typer ost. Golden Chardonnay Lagret på ståltank tilføjet en smule eg. Duft af passionsfrugt, papaya, mango og egetræ. Frisk frugtsmag med smøragtige noter. Oplagt at nyde afkølet til fisk, kylling, skaldyr og pasta med flødesovs. Black Cabernet Sauvignon Duft af mørk frugt, mørk chokolade, tobak og søde krydderier. Smagen er et skønt mix af rød moden frugt og krydderier. En intens men elegant smag hvor de fyldige tanniner er pakket blødt ind. Anbefales til de fleste retter med rødt kød – gerne med krydderier. Dark Red Intens, dyb rød farve der forfører dig med sine attraktive strejf af mørk frugt, delikate noter af mokka og cremet vanilje. En behagelig vin der omslutter og fanger fra begyndelsen. Den er alsidigt og anbefales specielt til rødt kød og krydret mad.",
+          "id": "6M2Je6i8kXa4dXhdca1Dj",
+          "heading": "Carmel Mingot, Poeme Vineyards eller Grant Burge Reserve",
+          "description": "Frankrig eller Australien. Flere varianter. 75 cl. Literpris 78,67.",
           "pricing": {
             "price": 59,
-            "pre_price": 169,
+            "pre_price": null,
             "currency": "DKK"
           },
           "quantity": {
@@ -13173,12 +13173,12 @@
           "catalog_page": 25
         },
         {
-          "id": "6M2Je6i8kXa4dXhdca1Dj",
-          "heading": "Carmel Mingot, Poeme Vineyards eller Grant Burge Reserve",
-          "description": "Frankrig eller Australien. Flere varianter. 75 cl. Literpris 78,67.",
+          "id": "y7jNSyws7of95f7ny_rgC",
+          "heading": "Diablo",
+          "description": "Chile. 75 cl. Literpris 78,67. Før-pris 169,00. Crystal Sauvignon Blanc Lysegul farve. Frisk og delikat med et strejf af hvid fersken. Efter et par sekunder kommer der omsluttende søde og cremede noter, der giver en lang og behagelig eftersmag. Alsidig vin, ideel til at ledsage frisk og grillet fisk, skaldyr og forskellige typer ost. Golden Chardonnay Lagret på ståltank tilføjet en smule eg. Duft af passionsfrugt, papaya, mango og egetræ. Frisk frugtsmag med smøragtige noter. Oplagt at nyde afkølet til fisk, kylling, skaldyr og pasta med flødesovs. Black Cabernet Sauvignon Duft af mørk frugt, mørk chokolade, tobak og søde krydderier. Smagen er et skønt mix af rød moden frugt og krydderier. En intens men elegant smag hvor de fyldige tanniner er pakket blødt ind. Anbefales til de fleste retter med rødt kød – gerne med krydderier. Dark Red Intens, dyb rød farve der forfører dig med sine attraktive strejf af mørk frugt, delikate noter af mokka og cremet vanilje. En behagelig vin der omslutter og fanger fra begyndelsen. Den er alsidigt og anbefales specielt til rødt kød og krydret mad.",
           "pricing": {
             "price": 59,
-            "pre_price": null,
+            "pre_price": 169,
             "currency": "DKK"
           },
           "quantity": {

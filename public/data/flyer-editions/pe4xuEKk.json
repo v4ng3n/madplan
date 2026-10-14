@@ -168,6 +168,38 @@
       "catalog_page": 1
     },
     {
+      "id": "8fMr6oNNmQyG0j3wHw-Fa",
+      "heading": "Carlsberg eller Tuborg øl",
+      "description": "15-18 x 33 cl. Literpris maks. 13,94 + pant. 1 pakke.",
+      "pricing": {
+        "price": 69,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "cl",
+          "si": {
+            "symbol": "l",
+            "factor": 0.01
+          }
+        },
+        "size": {
+          "from": 33,
+          "to": 33
+        },
+        "pieces": {
+          "from": 15,
+          "to": 18,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-07T22:00:00+0000",
+      "run_till": "2026-10-14T21:59:59+0000",
+      "catalog_page": 2
+    },
+    {
       "id": "TUcBxQ1XqL-fWzrd81DFA",
       "heading": "Merrild eller Gevalia formalet kaffe",
       "description": "400 g. Kg-pris 97,50. 1 pose.",
@@ -223,38 +255,6 @@
         "pieces": {
           "from": 1,
           "to": 1,
-          "min": null,
-          "max": null
-        }
-      },
-      "run_from": "2026-10-07T22:00:00+0000",
-      "run_till": "2026-10-14T21:59:59+0000",
-      "catalog_page": 2
-    },
-    {
-      "id": "8fMr6oNNmQyG0j3wHw-Fa",
-      "heading": "Carlsberg eller Tuborg øl",
-      "description": "15-18 x 33 cl. Literpris maks. 13,94 + pant. 1 pakke.",
-      "pricing": {
-        "price": 69,
-        "pre_price": null,
-        "currency": "DKK"
-      },
-      "quantity": {
-        "unit": {
-          "symbol": "cl",
-          "si": {
-            "symbol": "l",
-            "factor": 0.01
-          }
-        },
-        "size": {
-          "from": 33,
-          "to": 33
-        },
-        "pieces": {
-          "from": 15,
-          "to": 18,
           "min": null,
           "max": null
         }
@@ -456,38 +456,6 @@
       "catalog_page": 4
     },
     {
-      "id": "V_7MSXFmUg2oFBeCmIdXo",
-      "heading": "Xtra! kyllingefilet",
-      "description": "350 g. Kg-pris 82,86. 1 pakke.",
-      "pricing": {
-        "price": 29,
-        "pre_price": null,
-        "currency": "DKK"
-      },
-      "quantity": {
-        "unit": {
-          "symbol": "g",
-          "si": {
-            "symbol": "kg",
-            "factor": 0.001
-          }
-        },
-        "size": {
-          "from": 350,
-          "to": 350
-        },
-        "pieces": {
-          "from": 1,
-          "to": 1,
-          "min": null,
-          "max": null
-        }
-      },
-      "run_from": "2026-10-07T22:00:00+0000",
-      "run_till": "2026-10-14T21:59:59+0000",
-      "catalog_page": 5
-    },
-    {
       "id": "xnZakp6uKjOv603vViXMB",
       "heading": "Coop cevapcici, frikadeller eller hakket gris & kalv 8-12%",
       "description": "300-500 g. Kg-pris maks. 96,67. 1 pakke.",
@@ -507,6 +475,38 @@
         "size": {
           "from": 300,
           "to": 500
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-07T22:00:00+0000",
+      "run_till": "2026-10-14T21:59:59+0000",
+      "catalog_page": 5
+    },
+    {
+      "id": "V_7MSXFmUg2oFBeCmIdXo",
+      "heading": "Xtra! kyllingefilet",
+      "description": "350 g. Kg-pris 82,86. 1 pakke.",
+      "pricing": {
+        "price": 29,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 350,
+          "to": 350
         },
         "pieces": {
           "from": 1,
@@ -616,38 +616,6 @@
       "catalog_page": 6
     },
     {
-      "id": "scUn4ty1nxKV1bnA6wgAd",
-      "heading": "Mammen skiveost",
-      "description": "140 g. Kg-pris 107,14. 1 stk.",
-      "pricing": {
-        "price": 15,
-        "pre_price": null,
-        "currency": "DKK"
-      },
-      "quantity": {
-        "unit": {
-          "symbol": "g",
-          "si": {
-            "symbol": "kg",
-            "factor": 0.001
-          }
-        },
-        "size": {
-          "from": 140,
-          "to": 140
-        },
-        "pieces": {
-          "from": 1,
-          "to": 1,
-          "min": null,
-          "max": null
-        }
-      },
-      "run_from": "2026-10-07T22:00:00+0000",
-      "run_till": "2026-10-14T21:59:59+0000",
-      "catalog_page": 6
-    },
-    {
       "id": "UWvQG0M7dcsh-FGr2cSu9",
       "heading": "Coop creme fraiche eller fraiche",
       "description": "500 g. Kg-pris 30,00. 1 stk.",
@@ -667,6 +635,38 @@
         "size": {
           "from": 500,
           "to": 500
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-07T22:00:00+0000",
+      "run_till": "2026-10-14T21:59:59+0000",
+      "catalog_page": 6
+    },
+    {
+      "id": "scUn4ty1nxKV1bnA6wgAd",
+      "heading": "Mammen skiveost",
+      "description": "140 g. Kg-pris 107,14. 1 stk.",
+      "pricing": {
+        "price": 15,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 140,
+          "to": 140
         },
         "pieces": {
           "from": 1,
@@ -2472,6 +2472,38 @@
       "catalog_page": 17
     },
     {
+      "id": "3rdEAgKFwCT-6hJ-EFZ6x",
+      "heading": "Sukker eller sirup",
+      "description": "400-2000 g. Kg-pris maks. 45,00. 1 stk.",
+      "pricing": {
+        "price": 18,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 400,
+          "to": 2000
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-07T22:00:00+0000",
+      "run_till": "2026-10-14T21:59:59+0000",
+      "catalog_page": 17
+    },
+    {
       "id": "fS6yv48zy55oLyqWCC-Ps",
       "heading": "Coop bær eller frugt",
       "description": "Dybfrost. 250-300 g. Kg-pris maks. 56,00. 1 pose.",
@@ -2523,38 +2555,6 @@
         "size": {
           "from": 350,
           "to": 500
-        },
-        "pieces": {
-          "from": 1,
-          "to": 1,
-          "min": null,
-          "max": null
-        }
-      },
-      "run_from": "2026-10-07T22:00:00+0000",
-      "run_till": "2026-10-14T21:59:59+0000",
-      "catalog_page": 17
-    },
-    {
-      "id": "3rdEAgKFwCT-6hJ-EFZ6x",
-      "heading": "Sukker eller sirup",
-      "description": "400-2000 g. Kg-pris maks. 45,00. 1 stk.",
-      "pricing": {
-        "price": 18,
-        "pre_price": null,
-        "currency": "DKK"
-      },
-      "quantity": {
-        "unit": {
-          "symbol": "g",
-          "si": {
-            "symbol": "kg",
-            "factor": 0.001
-          }
-        },
-        "size": {
-          "from": 400,
-          "to": 2000
         },
         "pieces": {
           "from": 1,
@@ -3240,38 +3240,6 @@
       "catalog_page": 21
     },
     {
-      "id": "qR0ux2k2jHq6Y-peB8FMc",
-      "heading": "Coop topping",
-      "description": "Flere varianter. 150-200 g. Kg-pris maks. 93,33. 1 pakke.",
-      "pricing": {
-        "price": 14,
-        "pre_price": null,
-        "currency": "DKK"
-      },
-      "quantity": {
-        "unit": {
-          "symbol": "g",
-          "si": {
-            "symbol": "kg",
-            "factor": 0.001
-          }
-        },
-        "size": {
-          "from": 150,
-          "to": 200
-        },
-        "pieces": {
-          "from": 1,
-          "to": 1,
-          "min": null,
-          "max": null
-        }
-      },
-      "run_from": "2026-10-07T22:00:00+0000",
-      "run_till": "2026-10-14T21:59:59+0000",
-      "catalog_page": 21
-    },
-    {
       "id": "aayrtvwjyHzVtfvctNvrR",
       "heading": "Xtra! pølsehornspølser",
       "description": "240 g. Kg-pris 58,33. 1 pakke.",
@@ -3291,6 +3259,38 @@
         "size": {
           "from": 240,
           "to": 240
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-07T22:00:00+0000",
+      "run_till": "2026-10-14T21:59:59+0000",
+      "catalog_page": 21
+    },
+    {
+      "id": "qR0ux2k2jHq6Y-peB8FMc",
+      "heading": "Coop topping",
+      "description": "Flere varianter. 150-200 g. Kg-pris maks. 93,33. 1 pakke.",
+      "pricing": {
+        "price": 14,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 150,
+          "to": 200
         },
         "pieces": {
           "from": 1,
@@ -4360,6 +4360,38 @@
       "catalog_page": 27
     },
     {
+      "id": "jSsjpOmp04mWItBJizIvL",
+      "heading": "Badesæt",
+      "description": "Opbevaring. Indeholder bruseforhæng med kroge 180 x 180 cm og bademåtte 40 x 60 cm. Flere farver. 1 sæt.",
+      "pricing": {
+        "price": 50,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "pcs",
+          "si": {
+            "symbol": "pcs",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 1,
+          "to": 1
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-07T22:00:00+0000",
+      "run_till": "2026-10-14T21:59:59+0000",
+      "catalog_page": 28
+    },
+    {
       "id": "fiSthXchf0LBinlcy95AH",
       "heading": "Imiteret lammeskind eller siddehynder",
       "description": "Lammeskind 60 x 90 cm eller siddehynder Ø 34 cm 2-pak. Flere farver. 1 stk./2-pak.",
@@ -4424,11 +4456,11 @@
       "catalog_page": 28
     },
     {
-      "id": "jSsjpOmp04mWItBJizIvL",
-      "heading": "Badesæt",
-      "description": "Opbevaring. Indeholder bruseforhæng med kroge 180 x 180 cm og bademåtte 40 x 60 cm. Flere farver. 1 sæt.",
+      "id": "uh59IewCDz2SrmsD0nKN4",
+      "heading": "Sengetøj med digital print",
+      "description": "100% mikrofiber. 140 x 200 cm. Vendbart. Flere design. 1 sæt.",
       "pricing": {
-        "price": 50,
+        "price": 69,
         "pre_price": null,
         "currency": "DKK"
       },
@@ -4459,38 +4491,6 @@
       "id": "xDD6b2Kod1So1Ri4PevL1",
       "heading": "Kunstig orkidé i potte",
       "description": "Hvid eller lyserød. 1 stk.",
-      "pricing": {
-        "price": 69,
-        "pre_price": null,
-        "currency": "DKK"
-      },
-      "quantity": {
-        "unit": {
-          "symbol": "pcs",
-          "si": {
-            "symbol": "pcs",
-            "factor": 1
-          }
-        },
-        "size": {
-          "from": 1,
-          "to": 1
-        },
-        "pieces": {
-          "from": 1,
-          "to": 1,
-          "min": null,
-          "max": null
-        }
-      },
-      "run_from": "2026-10-07T22:00:00+0000",
-      "run_till": "2026-10-14T21:59:59+0000",
-      "catalog_page": 28
-    },
-    {
-      "id": "uh59IewCDz2SrmsD0nKN4",
-      "heading": "Sengetøj med digital print",
-      "description": "100% mikrofiber. 140 x 200 cm. Vendbart. Flere design. 1 sæt.",
       "pricing": {
         "price": 69,
         "pre_price": null,
@@ -4584,38 +4584,6 @@
       "catalog_page": 29
     },
     {
-      "id": "cKNarGKc9_ZZgLflPcB71",
-      "heading": "Actimel kids 4-pak*",
-      "description": "4x100 g. Kg-pris 30,00. 1 pakke.",
-      "pricing": {
-        "price": 12,
-        "pre_price": null,
-        "currency": "DKK"
-      },
-      "quantity": {
-        "unit": {
-          "symbol": "g",
-          "si": {
-            "symbol": "kg",
-            "factor": 0.001
-          }
-        },
-        "size": {
-          "from": 100,
-          "to": 100
-        },
-        "pieces": {
-          "from": 4,
-          "to": 4,
-          "min": null,
-          "max": null
-        }
-      },
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-14T21:59:59+0000",
-      "catalog_page": 29
-    },
-    {
       "id": "TN2KvMiWbjEz2FQtQfjhV",
       "heading": "Coop mandariner",
       "description": "Udenlandske, kl. I. 1 kg. Kg-pris 12,00. 1 net.",
@@ -4639,6 +4607,38 @@
         "pieces": {
           "from": 1,
           "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-14T21:59:59+0000",
+      "catalog_page": 29
+    },
+    {
+      "id": "cKNarGKc9_ZZgLflPcB71",
+      "heading": "Actimel kids 4-pak*",
+      "description": "4x100 g. Kg-pris 30,00. 1 pakke.",
+      "pricing": {
+        "price": 12,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 100,
+          "to": 100
+        },
+        "pieces": {
+          "from": 4,
+          "to": 4,
           "min": null,
           "max": null
         }
