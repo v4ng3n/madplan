@@ -232,38 +232,6 @@
       "catalog_page": 2
     },
     {
-      "id": "LcpjZT7-UwuROQnqnqGLL",
-      "heading": "Danonino eller Actimel",
-      "description": "300-400 g. Kg-pris maks. 33,33. 1 stk.",
-      "pricing": {
-        "price": 10,
-        "pre_price": null,
-        "currency": "DKK"
-      },
-      "quantity": {
-        "unit": {
-          "symbol": "g",
-          "si": {
-            "symbol": "kg",
-            "factor": 0.001
-          }
-        },
-        "size": {
-          "from": 300,
-          "to": 400
-        },
-        "pieces": {
-          "from": 1,
-          "to": 1,
-          "min": null,
-          "max": null
-        }
-      },
-      "run_from": "2026-10-08T22:00:00+0000",
-      "run_till": "2026-10-22T21:59:59+0000",
-      "catalog_page": 3
-    },
-    {
       "id": "gZdnQdWo8w2nkXM7AZveD",
       "heading": "Coop pålæg",
       "description": "Flere varianter. 80-120 g. Kg-pris maks. 125,00. 1 pakke.",
@@ -283,6 +251,38 @@
         "size": {
           "from": 80,
           "to": 120
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
+        }
+      },
+      "run_from": "2026-10-08T22:00:00+0000",
+      "run_till": "2026-10-22T21:59:59+0000",
+      "catalog_page": 3
+    },
+    {
+      "id": "LcpjZT7-UwuROQnqnqGLL",
+      "heading": "Danonino eller Actimel",
+      "description": "300-400 g. Kg-pris maks. 33,33. 1 stk.",
+      "pricing": {
+        "price": 10,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "g",
+          "si": {
+            "symbol": "kg",
+            "factor": 0.001
+          }
+        },
+        "size": {
+          "from": 300,
+          "to": 400
         },
         "pieces": {
           "from": 1,
