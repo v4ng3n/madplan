@@ -48,8 +48,25 @@ def api(path, key):
     return json.loads(get('https://squid-api.tjek.com' + path, key))
 
 
-def active(catalog):
-    return dt.datetime.fromisoformat(catalog['run_from']) <= NOW <= dt.datetime.fromisoformat(catalog['run_till'])
+def active(catalog, now=None):
+    now = NOW if now is None else now
+    return dt.datetime.fromisoformat(catalog['run_from']) <= now <= dt.datetime.fromisoformat(catalog['run_till'])
+
+
+def weekly_catalog(catalog):
+    # Supplements (e.g. "Uge 42 Indstik") and seasonal catalogues are
+    # separate publications, not replacements for the main weekly flyer.
+    return bool(re.fullmatch(r'(?:Netto\s+)?Uge\s+\d{1,2}(?:\s*[-–]\s*\d{1,2})?',
+                             catalog.get('label', '').strip(), re.IGNORECASE))
+
+
+def select_primary_catalog(catalogs, store, now=None):
+    current = [c for c in catalogs if active(c, now) and c.get('offer_count', 0)]
+    primary = [c for c in current if weekly_catalog(c)]
+    if len(primary) != 1:
+        candidates = ', '.join(f"{c.get('label')} ({c.get('id')})" for c in current) or 'none'
+        raise ValueError(f'{store}: expected one current main weekly flyer, found {len(primary)}; current publications: {candidates}')
+    return primary[0]
 
 
 def netto_leaflets(source):
@@ -64,25 +81,21 @@ def discover(store, url):
     key = os.environ.get('TJEK_API_KEY')
     source = get(url).decode('utf-8')
     if store == 'Netto':
-        candidates = [x for x in netto_leaflets(source) if active(x['catalog']) and x['catalog'].get('offer_count', 0)]
-        if len(candidates) != 1:
-            raise ValueError('Netto: expected exactly one current grocery flyer')
-        c, pages = candidates[0]['catalog'], candidates[0]['pages']
+        leaflets = netto_leaflets(source)
+        c = select_primary_catalog([x['catalog'] for x in leaflets], store)
+        pages = next(x['pages'] for x in leaflets if x['catalog']['id'] == c['id'])
         offers = []  # Netto currently exposes pages without structured offer evidence.
     else:
         if store == 'REMA 1000':
             key = key or re.search(r'tjek:\{api_key:"([^"]+)"', source)[1]
             dealer = re.search(r'tjek:\{[^}]*business_id:"([^"]+)"', source)[1]
-            candidates = [c for c in api('/v2/catalogs?' + urllib.parse.urlencode({'dealer_id': dealer}), key) if active(c) and c.get('offer_count', 0)]
-            if len(candidates) != 1:
-                raise ValueError('REMA: expected exactly one current grocery flyer')
-            c = candidates[0]
+            c = select_primary_catalog(api('/v2/catalogs?' + urllib.parse.urlencode({'dealer_id': dealer}), key), store)
         else:
             key = key or re.search(r"_shopgunApiKey='([^']+)'", source)[1]
             catalog_id = re.search(r'data-publication-id=["\']?([^ >"\']+)', source)[1]
             c = api('/v2/catalogs/' + catalog_id, key)
-            if not active(c):
-                raise ValueError(store + ': official PDF flyer is not current')
+            if not active(c) or not weekly_catalog(c):
+                c = select_primary_catalog(api('/v2/catalogs?' + urllib.parse.urlencode({'dealer_id': c['dealer_id']}), key), store)
         pages = api('/v2/catalogs/' + c['id'] + '/pages', key)
         offers = []
         for offset in range(0, c['offer_count'], 100):

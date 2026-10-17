@@ -6,6 +6,7 @@ on:
     paths:
       - 'scripts/fetch_flyers.py'
       - '.github/workflows/update-flyers.yml'
+      - 'tests/test_flyer_selection.py'
   workflow_dispatch:
 permissions:
   contents: write
@@ -24,6 +25,8 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install 'Pillow>=11,<13'
+      - name: Test weekly flyer selection and edition change
+        run: python -m unittest discover -s tests -p "test_flyer_selection.py"
       - name: Fetch and decode every publisher page
         run: python scripts/fetch_flyers.py
       - name: Test complete manifest and image proxy
