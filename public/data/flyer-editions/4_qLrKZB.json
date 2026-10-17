@@ -1,0 +1,275 @@
+{
+  "store": "Netto",
+  "catalogId": "4_qLrKZB",
+  "label": "Netto uge 43",
+  "sourceUrl": "https://netto.dk/netto-avisen/",
+  "validFrom": "2026-10-16T22:00:00+0000",
+  "validTo": "2026-10-23T21:59:59+0000",
+  "pageCount": 32,
+  "products": [],
+  "productData": {
+    "status": "unavailable",
+    "declaredCount": 188,
+    "receivedCount": 0,
+    "indexedCount": 0
+  },
+  "pages": [
+    {
+      "number": 1,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-1.webp&w=1400&s=a67f5c592fd6e5cbe8256e0a72a9cb55",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "516313551d833f449aa271da958f0fd615e276b47156e59ff40f63cbf8f304bd",
+      "bytes": 349031
+    },
+    {
+      "number": 2,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-2.webp&w=1400&s=1c94cbbd99a8eb5d55cda4424d4c5dc0",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "29710f8ea84f0217d1e3682915ad8a4ac6d809b6288c6974cf04588b29fc49fa",
+      "bytes": 340495
+    },
+    {
+      "number": 3,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-3.webp&w=1400&s=654836507a7be0573ab4b38b5c136928",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "ce51557e35aec33301fb0a424a17d1087c0586fddd3af84bd9a57500e723fd7b",
+      "bytes": 302973
+    },
+    {
+      "number": 4,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-4.webp&w=1400&s=a144767726b053075abf3bfa3efe02fb",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "260c0818e6d63a7d98915a8e403fbce0980f4c58e531eedfc6113f625778c492",
+      "bytes": 363017
+    },
+    {
+      "number": 5,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-5.webp&w=1400&s=2eb13d0c8c83939de6e6b99bd9c4930c",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "870d00dd298476302a529dff1068fda6d3ff3262466fe156b0d781f616d609c8",
+      "bytes": 343322
+    },
+    {
+      "number": 6,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-6.webp&w=1400&s=bb44052f770458481b1a86a251acd7f2",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "6ab1f635cc256f7d520b1a3eb3d6369c8ec0171a61a33a72c6d424fe9fc6868b",
+      "bytes": 335297
+    },
+    {
+      "number": 7,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-7.webp&w=1400&s=8e18789025b2f23242905e64eb4f582c",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "3ea46e3cbb6e9f4cb1d9bef22aeb561144a162cf98b29122b3a786bab28d6852",
+      "bytes": 337298
+    },
+    {
+      "number": 8,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-8.webp&w=1400&s=68cab462525ba3f21148f658fa7de909",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "4100ba426256ba06ceae501193780750c4cbf0c1a7bbe42b03c9b092cfe791ad",
+      "bytes": 351682
+    },
+    {
+      "number": 9,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-9.webp&w=1400&s=5d8652989fd043225750d14cc73edd30",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "1eca58fb68b5f332bce0d5178a2f3fd3741248f38a2708bc8d24305cf2376ea6",
+      "bytes": 354433
+    },
+    {
+      "number": 10,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-10.webp&w=1400&s=b1a44df37fa8735f7d6b294a62a8c793",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "5f55705001888c82f2d3eb72f1bd67532e9d0351500b13cfbfa20ed107d52478",
+      "bytes": 369445
+    },
+    {
+      "number": 11,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-11.webp&w=1400&s=058844d70f3034fc6d6ca3fb58881e09",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "ff2b4817df1f2a4857a9f0bcff31a4d95a5070e2acb727de9aafd999decbbe5b",
+      "bytes": 369426
+    },
+    {
+      "number": 12,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-12.webp&w=1400&s=d8ea194f2b971c6e70cd191fd48eb36e",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "7336295fe798e71d5a8a693e816207bc090536357e2f4b42ab70b64fb91df5c8",
+      "bytes": 441456
+    },
+    {
+      "number": 13,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-13.webp&w=1400&s=26e41efd54a4e9a6b9cd498c04b09ad3",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "ea18bb4ddba046b8441745cb71d1b95d5d4838ea4be2f007a70431003dff548f",
+      "bytes": 323409
+    },
+    {
+      "number": 14,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-14.webp&w=1400&s=78a6adcc82cc67b1407d658aac5aff7a",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "1acd67ab10d581debf8bd0759bddcf241766e22c56961971c9f140117ed9a37e",
+      "bytes": 322587
+    },
+    {
+      "number": 15,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-15.webp&w=1400&s=a89b039542884d162474fa8b3fcb822e",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "799cd2ef2f9a9af34ec176136a9ba57f51f2460854e5044738a492238b752b9e",
+      "bytes": 330106
+    },
+    {
+      "number": 16,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-16.webp&w=1400&s=7434fde84ef97ad482876112a48def3c",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "39f71b1e409e1c79f79961c0ff9412e1fafa6424c934caafdf74d5a7766c7dd2",
+      "bytes": 341822
+    },
+    {
+      "number": 17,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-17.webp&w=1400&s=ed0a9c39c3d064ec6a6be87ca6c2a211",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "5975b10c3608e24c5297d9ba00b752167aef8b2a88ff50d5bec68058a5d9159f",
+      "bytes": 419752
+    },
+    {
+      "number": 18,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-18.webp&w=1400&s=c6e391b1330eff3686c155d6d9e1bac5",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "d4c0f0c8e89d8c5db3aebb29d77ec67544d3f3d8f6c5b9bd4d6e8b93dbf000f9",
+      "bytes": 390555
+    },
+    {
+      "number": 19,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-19.webp&w=1400&s=047b06c16785ae4ba08d291d23a19f68",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "cfcdd268f7866328ff6589b9de9739d741454db0bdbc4bb45a9ec54741633d2a",
+      "bytes": 357373
+    },
+    {
+      "number": 20,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-20.webp&w=1400&s=4fa64d22f134ab099e7bda88d6adcbf3",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "7e2e36ed727f0d02abcc2d7c782a0f9117651205d9a99c6330abbad302297c7b",
+      "bytes": 303340
+    },
+    {
+      "number": 21,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-21.webp&w=1400&s=430a457ab957c722722d40bc8283f47e",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "5dc39f0f0b741043b99593fe8f5d511098ad021e4d28d4c7605588dd86d31309",
+      "bytes": 408263
+    },
+    {
+      "number": 22,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-22.webp&w=1400&s=8aef3252ed6fa0063453bfc1f818321c",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "8b6a46245203df443be5a2b2d33d34ebc641ba497e632cf0a7810aff91c89510",
+      "bytes": 395206
+    },
+    {
+      "number": 23,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-23.webp&w=1400&s=d22a5b0655e154fb0898c35ea942dac6",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "b42f7efdb1451ee87956b4d21544036e97ec8a907873242cc358830178c02055",
+      "bytes": 313422
+    },
+    {
+      "number": 24,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-24.webp&w=1400&s=278c06a58bf68fc84694266d05cdd3c8",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "a62e56c04de7430d7726ab96eb975cdee2fb87fb19f6287cc4854aab20d6c72a",
+      "bytes": 295037
+    },
+    {
+      "number": 25,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-25.webp&w=1400&s=cc0cc792e0bad46e7cd4c0a7fe54f62c",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "f24e14959be66ff4d734644cf28500c808b884cd823a3444495edab34d9e63c8",
+      "bytes": 380576
+    },
+    {
+      "number": 26,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-26.webp&w=1400&s=42d0022974910299f12c350b4c78d6d7",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "cfc05956c52114503177ef3a87c523fb27773157dca8f1b9a0a974303184edb6",
+      "bytes": 340228
+    },
+    {
+      "number": 27,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-27.webp&w=1400&s=6a85bda8f44561013d1c8cc6db0c051d",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "aeb1a8082b4788a9d3277f2b9ffdaf6ba05ee5b55552c367b9940965561e77b3",
+      "bytes": 324824
+    },
+    {
+      "number": 28,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-28.webp&w=1400&s=0dec942db6e3c912225a40363c2561d2",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "b4c00a9a245990d2e1e6cd3cbf4713815b8830d7264aa8a2561b0575b539feea",
+      "bytes": 249190
+    },
+    {
+      "number": 29,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-29.webp&w=1400&s=e7a81a3d11d78373b3d8cfca3a0c0f42",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "e39a52e4910eececf5e1f141f77acc7041ef1327619f14c535c128d0266b28eb",
+      "bytes": 338091
+    },
+    {
+      "number": 30,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-30.webp&w=1400&s=4ebaf646534ceca061c808635333a152",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "6e0905a771a36c81e83ef34059d75e8ca2cbfbc6ecbfc9540b828b350283d1de",
+      "bytes": 298081
+    },
+    {
+      "number": 31,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-31.webp&w=1400&s=9fa7b35ae03f052c004a96af514bcbdf",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "b1b74ff72abce2d0490bd8df4da527c1db0b36354c2818cdc4b775a2dfa3e543",
+      "bytes": 272272
+    },
+    {
+      "number": 32,
+      "url": "https://image-transformer-api.tjek.com/?u=s3%3A%2F%2Fsgn-prd-assets%2Fuploads%2F4_qLrKZB%2Fp-32.webp&w=1400&s=42148986307686690e57be8d2a0216b2",
+      "width": 1400,
+      "height": 1975,
+      "sha256": "f8a241be374a24c2c3f5e3947118b164a7521bcef2b882c7a1c3423a2d85ebf4",
+      "bytes": 200082
+    }
+  ],
+  "complete": true
+}
