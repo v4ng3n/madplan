@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-10-17T13:41:38.676309+00:00",
+  "verifiedAt": "2026-10-17T18:26:37.687682+00:00",
   "flyers": [
     {
       "store": "REMA 1000",
@@ -1580,38 +1580,6 @@
           "catalog_page": 9
         },
         {
-          "id": "fmX45Bg3hjxYVLaoq42mS",
-          "heading": "Diamond Hill Australsk rød-, hvid- eller rosévin",
-          "description": "Shiraz Merlot, 13.5%\nChardonnay, 13%\nShiraz Rosé, 13%\n3 LITER 33.00 pr. liter\nVed køb af flere end 6 stk. pr. variant pr. dag er prisen op til 125.00 pr. stk.",
-          "pricing": {
-            "price": 99,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "l",
-              "si": {
-                "symbol": "l",
-                "factor": 1
-              }
-            },
-            "size": {
-              "from": 3,
-              "to": 3
-            },
-            "pieces": {
-              "from": 1,
-              "to": 1,
-              "min": null,
-              "max": 6
-            }
-          },
-          "run_from": "2026-10-10T22:00:00+0000",
-          "run_till": "2026-10-17T21:59:59+0000",
-          "catalog_page": 10
-        },
-        {
           "id": "vMHjIvbHC-KDTZBtFGLpg",
           "heading": "Maynard’s 10 Years Old Tawny",
           "description": "Portugal, 75 cl, 20%\nPartivare. Max. 198.00 pr. liter",
@@ -1637,6 +1605,38 @@
               "to": 1,
               "min": null,
               "max": null
+            }
+          },
+          "run_from": "2026-10-10T22:00:00+0000",
+          "run_till": "2026-10-17T21:59:59+0000",
+          "catalog_page": 10
+        },
+        {
+          "id": "fmX45Bg3hjxYVLaoq42mS",
+          "heading": "Diamond Hill Australsk rød-, hvid- eller rosévin",
+          "description": "Shiraz Merlot, 13.5%\nChardonnay, 13%\nShiraz Rosé, 13%\n3 LITER 33.00 pr. liter\nVed køb af flere end 6 stk. pr. variant pr. dag er prisen op til 125.00 pr. stk.",
+          "pricing": {
+            "price": 99,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "l",
+              "si": {
+                "symbol": "l",
+                "factor": 1
+              }
+            },
+            "size": {
+              "from": 3,
+              "to": 3
+            },
+            "pieces": {
+              "from": 1,
+              "to": 1,
+              "min": null,
+              "max": 6
             }
           },
           "run_from": "2026-10-10T22:00:00+0000",
@@ -5075,38 +5075,6 @@
           "catalog_page": 1
         },
         {
-          "id": "RtpyGqwYq6GRcdp2azjuc",
-          "heading": "Mokai, Shaker, Royal Club eller Willemoes øl",
-          "description": "Flere varianter. 27,5-50 cl. Literpris maks. 36,36 + pant. 1 flaske/dåse.",
-          "pricing": {
-            "price": 10,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "cl",
-              "si": {
-                "symbol": "l",
-                "factor": 0.01
-              }
-            },
-            "size": {
-              "from": 27.5,
-              "to": 50
-            },
-            "pieces": {
-              "from": 1,
-              "to": 1,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-14T22:00:00+0000",
-          "run_till": "2026-10-21T21:59:59+0000",
-          "catalog_page": 1
-        },
-        {
           "id": "TOJGV_g48AK8I89JOVtHF",
           "heading": "Coop eller Änglamark økologiske grøntsager",
           "description": "Dybfrost. Flere varianter. 400-750 g. Kg-pris maks. 25,00. 1 pose.",
@@ -5126,6 +5094,38 @@
             "size": {
               "from": 400,
               "to": 750
+            },
+            "pieces": {
+              "from": 1,
+              "to": 1,
+              "min": null,
+              "max": null
+            }
+          },
+          "run_from": "2026-10-14T22:00:00+0000",
+          "run_till": "2026-10-21T21:59:59+0000",
+          "catalog_page": 1
+        },
+        {
+          "id": "RtpyGqwYq6GRcdp2azjuc",
+          "heading": "Mokai, Shaker, Royal Club eller Willemoes øl",
+          "description": "Flere varianter. 27,5-50 cl. Literpris maks. 36,36 + pant. 1 flaske/dåse.",
+          "pricing": {
+            "price": 10,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "cl",
+              "si": {
+                "symbol": "l",
+                "factor": 0.01
+              }
+            },
+            "size": {
+              "from": 27.5,
+              "to": 50
             },
             "pieces": {
               "from": 1,
@@ -5491,38 +5491,6 @@
           "catalog_page": 4
         },
         {
-          "id": "MO1gPoF4maXGf5X-YRdqm",
-          "heading": "Xtra! kyllingebryst med lage eller middagskalkun med ost",
-          "description": "450 g. Kg-pris 75,56. 1 pakke.",
-          "pricing": {
-            "price": 34,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "g",
-              "si": {
-                "symbol": "kg",
-                "factor": 0.001
-              }
-            },
-            "size": {
-              "from": 450,
-              "to": 450
-            },
-            "pieces": {
-              "from": 1,
-              "to": 1,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-14T22:00:00+0000",
-          "run_till": "2026-10-21T21:59:59+0000",
-          "catalog_page": 5
-        },
-        {
           "id": "uvsExLZLn1vpHVJLdQASJ",
           "heading": "Fiskefars",
           "description": "400 g. Kg-pris 85,00. 1 pakke.",
@@ -5542,6 +5510,38 @@
             "size": {
               "from": 400,
               "to": 400
+            },
+            "pieces": {
+              "from": 1,
+              "to": 1,
+              "min": null,
+              "max": null
+            }
+          },
+          "run_from": "2026-10-14T22:00:00+0000",
+          "run_till": "2026-10-21T21:59:59+0000",
+          "catalog_page": 5
+        },
+        {
+          "id": "MO1gPoF4maXGf5X-YRdqm",
+          "heading": "Xtra! kyllingebryst med lage eller middagskalkun med ost",
+          "description": "450 g. Kg-pris 75,56. 1 pakke.",
+          "pricing": {
+            "price": 34,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "g",
+              "si": {
+                "symbol": "kg",
+                "factor": 0.001
+              }
+            },
+            "size": {
+              "from": 450,
+              "to": 450
             },
             "pieces": {
               "from": 1,
@@ -5779,9 +5779,9 @@
           "catalog_page": 7
         },
         {
-          "id": "Vjr_4DHLh1fAFdywP1oQA",
-          "heading": "Coop nice & soft toiletpapir eller soft & strong køkkenrulle",
-          "description": "4-6 rl. 535-582 g Kg-pris maks. 22,43. 1 pakke.",
+          "id": "QpPIDyVUIcyqCZSfuB9TC",
+          "heading": "Toms Go´e stænger 4-pak",
+          "description": "100-104 g. Kg-pris maks. 120,00. 1 stk.",
           "pricing": {
             "price": 12,
             "pre_price": null,
@@ -5789,15 +5789,15 @@
           },
           "quantity": {
             "unit": {
-              "symbol": "pcs",
+              "symbol": "g",
               "si": {
-                "symbol": "pcs",
-                "factor": 1
+                "symbol": "kg",
+                "factor": 0.001
               }
             },
             "size": {
-              "from": 1,
-              "to": 1
+              "from": 100,
+              "to": 104
             },
             "pieces": {
               "from": 1,
@@ -5843,9 +5843,9 @@
           "catalog_page": 7
         },
         {
-          "id": "QpPIDyVUIcyqCZSfuB9TC",
-          "heading": "Toms Go´e stænger 4-pak",
-          "description": "100-104 g. Kg-pris maks. 120,00. 1 stk.",
+          "id": "Vjr_4DHLh1fAFdywP1oQA",
+          "heading": "Coop nice & soft toiletpapir eller soft & strong køkkenrulle",
+          "description": "4-6 rl. 535-582 g Kg-pris maks. 22,43. 1 pakke.",
           "pricing": {
             "price": 12,
             "pre_price": null,
@@ -5853,15 +5853,15 @@
           },
           "quantity": {
             "unit": {
-              "symbol": "g",
+              "symbol": "pcs",
               "si": {
-                "symbol": "kg",
-                "factor": 0.001
+                "symbol": "pcs",
+                "factor": 1
               }
             },
             "size": {
-              "from": 100,
-              "to": 104
+              "from": 1,
+              "to": 1
             },
             "pieces": {
               "from": 1,
@@ -6291,38 +6291,6 @@
           "catalog_page": 10
         },
         {
-          "id": "aTVGOn5v1PGPUVxocCvle",
-          "heading": "Højer spegepølse",
-          "description": "Flere varianter. 200-300 g. Kg-pris maks. 195,00. 1 stk.",
-          "pricing": {
-            "price": 39,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "g",
-              "si": {
-                "symbol": "kg",
-                "factor": 0.001
-              }
-            },
-            "size": {
-              "from": 200,
-              "to": 300
-            },
-            "pieces": {
-              "from": 1,
-              "to": 1,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-14T22:00:00+0000",
-          "run_till": "2026-10-21T21:59:59+0000",
-          "catalog_page": 10
-        },
-        {
           "id": "o6G5j3IOd8BYQ-VH__5KA",
           "heading": "Frijsenborg kyllingemarked",
           "description": "260-700 g. Kg-pris maks. 150,00. 1 pakke.",
@@ -6342,6 +6310,38 @@
             "size": {
               "from": 260,
               "to": 700
+            },
+            "pieces": {
+              "from": 1,
+              "to": 1,
+              "min": null,
+              "max": null
+            }
+          },
+          "run_from": "2026-10-14T22:00:00+0000",
+          "run_till": "2026-10-21T21:59:59+0000",
+          "catalog_page": 10
+        },
+        {
+          "id": "aTVGOn5v1PGPUVxocCvle",
+          "heading": "Højer spegepølse",
+          "description": "Flere varianter. 200-300 g. Kg-pris maks. 195,00. 1 stk.",
+          "pricing": {
+            "price": 39,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "g",
+              "si": {
+                "symbol": "kg",
+                "factor": 0.001
+              }
+            },
+            "size": {
+              "from": 200,
+              "to": 300
             },
             "pieces": {
               "from": 1,
@@ -6771,38 +6771,6 @@
           "catalog_page": 14
         },
         {
-          "id": "mqijJ043n8TNiXTrJXlBl",
-          "heading": "Mou specialsuppe",
-          "description": "Dybfrost. 1000 g. Kg-pris 30,00. 1 stk.",
-          "pricing": {
-            "price": 30,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "g",
-              "si": {
-                "symbol": "kg",
-                "factor": 0.001
-              }
-            },
-            "size": {
-              "from": 1000,
-              "to": 1000
-            },
-            "pieces": {
-              "from": 1,
-              "to": 1,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-14T22:00:00+0000",
-          "run_till": "2026-10-21T21:59:59+0000",
-          "catalog_page": 14
-        },
-        {
           "id": "-xcKf0PihkRlBwFYOEY3E",
           "heading": "Tulip minifrikadeller eller Coop middagsfrikadeller",
           "description": "Dybfrost. 420-480 g. Kg-pris maks. 71,43. 1 pose.",
@@ -6822,6 +6790,38 @@
             "size": {
               "from": 420,
               "to": 480
+            },
+            "pieces": {
+              "from": 1,
+              "to": 1,
+              "min": null,
+              "max": null
+            }
+          },
+          "run_from": "2026-10-14T22:00:00+0000",
+          "run_till": "2026-10-21T21:59:59+0000",
+          "catalog_page": 14
+        },
+        {
+          "id": "mqijJ043n8TNiXTrJXlBl",
+          "heading": "Mou specialsuppe",
+          "description": "Dybfrost. 1000 g. Kg-pris 30,00. 1 stk.",
+          "pricing": {
+            "price": 30,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "g",
+              "si": {
+                "symbol": "kg",
+                "factor": 0.001
+              }
+            },
+            "size": {
+              "from": 1000,
+              "to": 1000
             },
             "pieces": {
               "from": 1,
@@ -7955,38 +7955,6 @@
           "catalog_page": 20
         },
         {
-          "id": "l9jNrK0li63kiZpM2TaMA",
-          "heading": "Riskager med chokolade",
-          "description": "60-70 g. Kg-pris maks. 250,00. 1 stk.",
-          "pricing": {
-            "price": 15,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "g",
-              "si": {
-                "symbol": "kg",
-                "factor": 0.001
-              }
-            },
-            "size": {
-              "from": 60,
-              "to": 70
-            },
-            "pieces": {
-              "from": 1,
-              "to": 1,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-14T22:00:00+0000",
-          "run_till": "2026-10-21T21:59:59+0000",
-          "catalog_page": 21
-        },
-        {
           "id": "Zy2Aw6-cJQPj1VpVpouP9",
           "heading": "Dumle kiks eller Moomin kiks choco",
           "description": "120-175 g. Kg-pris maks. 125,00. 1 pakke.",
@@ -8019,11 +7987,11 @@
           "catalog_page": 21
         },
         {
-          "id": "WRrczdPFIvGSSHco8tpJ6",
-          "heading": "Corny müslibars multipak",
-          "description": "120-150 g. Kg-pris maks. 166,67. 1 pakke.",
+          "id": "l9jNrK0li63kiZpM2TaMA",
+          "heading": "Riskager med chokolade",
+          "description": "60-70 g. Kg-pris maks. 250,00. 1 stk.",
           "pricing": {
-            "price": 20,
+            "price": 15,
             "pre_price": null,
             "currency": "DKK"
           },
@@ -8036,8 +8004,8 @@
               }
             },
             "size": {
-              "from": 120,
-              "to": 150
+              "from": 60,
+              "to": 70
             },
             "pieces": {
               "from": 1,
@@ -8069,6 +8037,38 @@
             },
             "size": {
               "from": 140,
+              "to": 150
+            },
+            "pieces": {
+              "from": 1,
+              "to": 1,
+              "min": null,
+              "max": null
+            }
+          },
+          "run_from": "2026-10-14T22:00:00+0000",
+          "run_till": "2026-10-21T21:59:59+0000",
+          "catalog_page": 21
+        },
+        {
+          "id": "WRrczdPFIvGSSHco8tpJ6",
+          "heading": "Corny müslibars multipak",
+          "description": "120-150 g. Kg-pris maks. 166,67. 1 pakke.",
+          "pricing": {
+            "price": 20,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "g",
+              "si": {
+                "symbol": "kg",
+                "factor": 0.001
+              }
+            },
+            "size": {
+              "from": 120,
               "to": 150
             },
             "pieces": {
@@ -8499,38 +8499,6 @@
           "catalog_page": 25
         },
         {
-          "id": "a_sYy_sQ9xUCYshr0s9tr",
-          "heading": "Gullón Pick Crackers",
-          "description": "250 g. Kg-pris 48,00. 1 stk.",
-          "pricing": {
-            "price": 12,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "g",
-              "si": {
-                "symbol": "kg",
-                "factor": 0.001
-              }
-            },
-            "size": {
-              "from": 250,
-              "to": 250
-            },
-            "pieces": {
-              "from": 1,
-              "to": 1,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-14T22:00:00+0000",
-          "run_till": "2026-10-21T21:59:59+0000",
-          "catalog_page": 25
-        },
-        {
           "id": "C-EEopPB3nMCxGKXUQncE",
           "heading": "Bakkegårdens julekager",
           "description": "275-400 g. Kg-pris maks. 43,64. 1 pakke.",
@@ -8550,6 +8518,38 @@
             "size": {
               "from": 275,
               "to": 400
+            },
+            "pieces": {
+              "from": 1,
+              "to": 1,
+              "min": null,
+              "max": null
+            }
+          },
+          "run_from": "2026-10-14T22:00:00+0000",
+          "run_till": "2026-10-21T21:59:59+0000",
+          "catalog_page": 25
+        },
+        {
+          "id": "a_sYy_sQ9xUCYshr0s9tr",
+          "heading": "Gullón Pick Crackers",
+          "description": "250 g. Kg-pris 48,00. 1 stk.",
+          "pricing": {
+            "price": 12,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "g",
+              "si": {
+                "symbol": "kg",
+                "factor": 0.001
+              }
+            },
+            "size": {
+              "from": 250,
+              "to": 250
             },
             "pieces": {
               "from": 1,
@@ -9075,9 +9075,9 @@
           "catalog_page": 28
         },
         {
-          "id": "MidkzEgEMp3xlqwQianFF",
-          "heading": "Sansebold",
-          "description": "Vælg mellem 2 varianter. 1 stk.",
+          "id": "vVhfO5pBe7rR3GYps3WZm",
+          "heading": "T-shirt",
+          "description": "Bomuld. Str. 86/92-110/116. Pr. stk.",
           "pricing": {
             "price": 50,
             "pre_price": null,
@@ -9107,9 +9107,9 @@
           "catalog_page": 28
         },
         {
-          "id": "vVhfO5pBe7rR3GYps3WZm",
-          "heading": "T-shirt",
-          "description": "Bomuld. Str. 86/92-110/116. Pr. stk.",
+          "id": "MidkzEgEMp3xlqwQianFF",
+          "heading": "Sansebold",
+          "description": "Vælg mellem 2 varianter. 1 stk.",
           "pricing": {
             "price": 50,
             "pre_price": null,
@@ -9203,9 +9203,9 @@
           "catalog_page": 28
         },
         {
-          "id": "9cTrPu1KVdMB2x4nsMDo4",
-          "heading": "Bamse med babytæppe",
-          "description": "Vælge mellem 2 varianter. 100 x 75 cm. Flere varianter. 1 stk.",
+          "id": "_Q4oaz7yNuea407K8TVpt",
+          "heading": "Stabletårn",
+          "description": "Regnbuefarvet med 9 ringe. 1 stk.",
           "pricing": {
             "price": 75,
             "pre_price": null,
@@ -9235,9 +9235,9 @@
           "catalog_page": 28
         },
         {
-          "id": "_Q4oaz7yNuea407K8TVpt",
-          "heading": "Stabletårn",
-          "description": "Regnbuefarvet med 9 ringe. 1 stk.",
+          "id": "9cTrPu1KVdMB2x4nsMDo4",
+          "heading": "Bamse med babytæppe",
+          "description": "Vælge mellem 2 varianter. 100 x 75 cm. Flere varianter. 1 stk.",
           "pricing": {
             "price": 75,
             "pre_price": null,

@@ -1576,38 +1576,6 @@
       "catalog_page": 9
     },
     {
-      "id": "fmX45Bg3hjxYVLaoq42mS",
-      "heading": "Diamond Hill Australsk rød-, hvid- eller rosévin",
-      "description": "Shiraz Merlot, 13.5%\nChardonnay, 13%\nShiraz Rosé, 13%\n3 LITER 33.00 pr. liter\nVed køb af flere end 6 stk. pr. variant pr. dag er prisen op til 125.00 pr. stk.",
-      "pricing": {
-        "price": 99,
-        "pre_price": null,
-        "currency": "DKK"
-      },
-      "quantity": {
-        "unit": {
-          "symbol": "l",
-          "si": {
-            "symbol": "l",
-            "factor": 1
-          }
-        },
-        "size": {
-          "from": 3,
-          "to": 3
-        },
-        "pieces": {
-          "from": 1,
-          "to": 1,
-          "min": null,
-          "max": 6
-        }
-      },
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000",
-      "catalog_page": 10
-    },
-    {
       "id": "vMHjIvbHC-KDTZBtFGLpg",
       "heading": "Maynard’s 10 Years Old Tawny",
       "description": "Portugal, 75 cl, 20%\nPartivare. Max. 198.00 pr. liter",
@@ -1633,6 +1601,38 @@
           "to": 1,
           "min": null,
           "max": null
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 10
+    },
+    {
+      "id": "fmX45Bg3hjxYVLaoq42mS",
+      "heading": "Diamond Hill Australsk rød-, hvid- eller rosévin",
+      "description": "Shiraz Merlot, 13.5%\nChardonnay, 13%\nShiraz Rosé, 13%\n3 LITER 33.00 pr. liter\nVed køb af flere end 6 stk. pr. variant pr. dag er prisen op til 125.00 pr. stk.",
+      "pricing": {
+        "price": 99,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "l",
+          "si": {
+            "symbol": "l",
+            "factor": 1
+          }
+        },
+        "size": {
+          "from": 3,
+          "to": 3
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": 6
         }
       },
       "run_from": "2026-10-10T22:00:00+0000",
