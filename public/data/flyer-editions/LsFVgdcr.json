@@ -1576,38 +1576,6 @@
       "catalog_page": 9
     },
     {
-      "id": "vMHjIvbHC-KDTZBtFGLpg",
-      "heading": "Maynard’s 10 Years Old Tawny",
-      "description": "Portugal, 75 cl, 20%\nPartivare. Max. 198.00 pr. liter",
-      "pricing": {
-        "price": 99,
-        "pre_price": null,
-        "currency": "DKK"
-      },
-      "quantity": {
-        "unit": {
-          "symbol": "cl",
-          "si": {
-            "symbol": "l",
-            "factor": 0.01
-          }
-        },
-        "size": {
-          "from": 75,
-          "to": 75
-        },
-        "pieces": {
-          "from": 1,
-          "to": 1,
-          "min": null,
-          "max": null
-        }
-      },
-      "run_from": "2026-10-10T22:00:00+0000",
-      "run_till": "2026-10-17T21:59:59+0000",
-      "catalog_page": 10
-    },
-    {
       "id": "fmX45Bg3hjxYVLaoq42mS",
       "heading": "Diamond Hill Australsk rød-, hvid- eller rosévin",
       "description": "Shiraz Merlot, 13.5%\nChardonnay, 13%\nShiraz Rosé, 13%\n3 LITER 33.00 pr. liter\nVed køb af flere end 6 stk. pr. variant pr. dag er prisen op til 125.00 pr. stk.",
@@ -1633,6 +1601,38 @@
           "to": 1,
           "min": null,
           "max": 6
+        }
+      },
+      "run_from": "2026-10-10T22:00:00+0000",
+      "run_till": "2026-10-17T21:59:59+0000",
+      "catalog_page": 10
+    },
+    {
+      "id": "vMHjIvbHC-KDTZBtFGLpg",
+      "heading": "Maynard’s 10 Years Old Tawny",
+      "description": "Portugal, 75 cl, 20%\nPartivare. Max. 198.00 pr. liter",
+      "pricing": {
+        "price": 99,
+        "pre_price": null,
+        "currency": "DKK"
+      },
+      "quantity": {
+        "unit": {
+          "symbol": "cl",
+          "si": {
+            "symbol": "l",
+            "factor": 0.01
+          }
+        },
+        "size": {
+          "from": 75,
+          "to": 75
+        },
+        "pieces": {
+          "from": 1,
+          "to": 1,
+          "min": null,
+          "max": null
         }
       },
       "run_from": "2026-10-10T22:00:00+0000",
@@ -3496,11 +3496,11 @@
       "catalog_page": 21
     },
     {
-      "id": "IIFZhjXvvP-QUGVQTxpI2",
-      "heading": "Målekande 1/4 l, sigte, dejskærer, rivejern, 8-pak udstikkersæt, 1-2-pak strødåse, dej-/farsrører, 2-pak dipskål, dejspore med 6 hjul eller 4-pak kagepap",
-      "description": "Partivare",
+      "id": "l_Sz-MRjWOcPp8m3hyghZ",
+      "heading": "Skål, 2-pak snackskål, springform, kølerist, 3i1 målebæger, chokoladeform, 4-pak silikoneredskaber eller bogen Mine bedste opskrifter",
+      "description": "3.2 l/Ø24 cm Partivare",
       "pricing": {
-        "price": 25,
+        "price": 40,
         "pre_price": null,
         "currency": "DKK"
       },
@@ -3528,11 +3528,11 @@
       "catalog_page": 21
     },
     {
-      "id": "l_Sz-MRjWOcPp8m3hyghZ",
-      "heading": "Skål, 2-pak snackskål, springform, kølerist, 3i1 målebæger, chokoladeform, 4-pak silikoneredskaber eller bogen Mine bedste opskrifter",
-      "description": "3.2 l/Ø24 cm Partivare",
+      "id": "IIFZhjXvvP-QUGVQTxpI2",
+      "heading": "Målekande 1/4 l, sigte, dejskærer, rivejern, 8-pak udstikkersæt, 1-2-pak strødåse, dej-/farsrører, 2-pak dipskål, dejspore med 6 hjul eller 4-pak kagepap",
+      "description": "Partivare",
       "pricing": {
-        "price": 40,
+        "price": 25,
         "pre_price": null,
         "currency": "DKK"
       },

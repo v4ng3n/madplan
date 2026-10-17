@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "verifiedAt": "2026-10-17T12:10:40.745788+00:00",
+  "verifiedAt": "2026-10-17T13:41:38.676309+00:00",
   "flyers": [
     {
       "store": "REMA 1000",
@@ -1580,38 +1580,6 @@
           "catalog_page": 9
         },
         {
-          "id": "vMHjIvbHC-KDTZBtFGLpg",
-          "heading": "Maynard’s 10 Years Old Tawny",
-          "description": "Portugal, 75 cl, 20%\nPartivare. Max. 198.00 pr. liter",
-          "pricing": {
-            "price": 99,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "cl",
-              "si": {
-                "symbol": "l",
-                "factor": 0.01
-              }
-            },
-            "size": {
-              "from": 75,
-              "to": 75
-            },
-            "pieces": {
-              "from": 1,
-              "to": 1,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-10T22:00:00+0000",
-          "run_till": "2026-10-17T21:59:59+0000",
-          "catalog_page": 10
-        },
-        {
           "id": "fmX45Bg3hjxYVLaoq42mS",
           "heading": "Diamond Hill Australsk rød-, hvid- eller rosévin",
           "description": "Shiraz Merlot, 13.5%\nChardonnay, 13%\nShiraz Rosé, 13%\n3 LITER 33.00 pr. liter\nVed køb af flere end 6 stk. pr. variant pr. dag er prisen op til 125.00 pr. stk.",
@@ -1637,6 +1605,38 @@
               "to": 1,
               "min": null,
               "max": 6
+            }
+          },
+          "run_from": "2026-10-10T22:00:00+0000",
+          "run_till": "2026-10-17T21:59:59+0000",
+          "catalog_page": 10
+        },
+        {
+          "id": "vMHjIvbHC-KDTZBtFGLpg",
+          "heading": "Maynard’s 10 Years Old Tawny",
+          "description": "Portugal, 75 cl, 20%\nPartivare. Max. 198.00 pr. liter",
+          "pricing": {
+            "price": 99,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "cl",
+              "si": {
+                "symbol": "l",
+                "factor": 0.01
+              }
+            },
+            "size": {
+              "from": 75,
+              "to": 75
+            },
+            "pieces": {
+              "from": 1,
+              "to": 1,
+              "min": null,
+              "max": null
             }
           },
           "run_from": "2026-10-10T22:00:00+0000",
@@ -3500,11 +3500,11 @@
           "catalog_page": 21
         },
         {
-          "id": "IIFZhjXvvP-QUGVQTxpI2",
-          "heading": "Målekande 1/4 l, sigte, dejskærer, rivejern, 8-pak udstikkersæt, 1-2-pak strødåse, dej-/farsrører, 2-pak dipskål, dejspore med 6 hjul eller 4-pak kagepap",
-          "description": "Partivare",
+          "id": "l_Sz-MRjWOcPp8m3hyghZ",
+          "heading": "Skål, 2-pak snackskål, springform, kølerist, 3i1 målebæger, chokoladeform, 4-pak silikoneredskaber eller bogen Mine bedste opskrifter",
+          "description": "3.2 l/Ø24 cm Partivare",
           "pricing": {
-            "price": 25,
+            "price": 40,
             "pre_price": null,
             "currency": "DKK"
           },
@@ -3532,11 +3532,11 @@
           "catalog_page": 21
         },
         {
-          "id": "l_Sz-MRjWOcPp8m3hyghZ",
-          "heading": "Skål, 2-pak snackskål, springform, kølerist, 3i1 målebæger, chokoladeform, 4-pak silikoneredskaber eller bogen Mine bedste opskrifter",
-          "description": "3.2 l/Ø24 cm Partivare",
+          "id": "IIFZhjXvvP-QUGVQTxpI2",
+          "heading": "Målekande 1/4 l, sigte, dejskærer, rivejern, 8-pak udstikkersæt, 1-2-pak strødåse, dej-/farsrører, 2-pak dipskål, dejspore med 6 hjul eller 4-pak kagepap",
+          "description": "Partivare",
           "pricing": {
-            "price": 40,
+            "price": 25,
             "pre_price": null,
             "currency": "DKK"
           },
@@ -5171,6 +5171,38 @@
           "catalog_page": 1
         },
         {
+          "id": "YQ7VeKcoJO04iBVLdNCUg",
+          "heading": "Riberhus eller Castello Aged Havarti",
+          "description": "Min. 400 g. Kg-pris maks. 112,50. 1 stk.",
+          "pricing": {
+            "price": 45,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "g",
+              "si": {
+                "symbol": "kg",
+                "factor": 0.001
+              }
+            },
+            "size": {
+              "from": 400,
+              "to": 400
+            },
+            "pieces": {
+              "from": 1,
+              "to": 1,
+              "min": null,
+              "max": null
+            }
+          },
+          "run_from": "2026-10-14T22:00:00+0000",
+          "run_till": "2026-10-21T21:59:59+0000",
+          "catalog_page": 2
+        },
+        {
           "id": "JapZObI-VTIoJVw-Fmdp4",
           "heading": "Coop frisk pasta eller gnocchi",
           "description": "250-500 g. Kg-pris maks. 40,00. 1 pakke.",
@@ -5189,6 +5221,38 @@
             },
             "size": {
               "from": 250,
+              "to": 500
+            },
+            "pieces": {
+              "from": 1,
+              "to": 1,
+              "min": null,
+              "max": null
+            }
+          },
+          "run_from": "2026-10-14T22:00:00+0000",
+          "run_till": "2026-10-21T21:59:59+0000",
+          "catalog_page": 2
+        },
+        {
+          "id": "GE2pPY8R2yNJNynm1MBxh",
+          "heading": "Stay Strong skyr",
+          "description": "500 g. Kg-pris 24,00. 1 stk.",
+          "pricing": {
+            "price": 12,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "g",
+              "si": {
+                "symbol": "kg",
+                "factor": 0.001
+              }
+            },
+            "size": {
+              "from": 500,
               "to": 500
             },
             "pieces": {
@@ -5267,38 +5331,6 @@
           "catalog_page": 2
         },
         {
-          "id": "GE2pPY8R2yNJNynm1MBxh",
-          "heading": "Stay Strong skyr",
-          "description": "500 g. Kg-pris 24,00. 1 stk.",
-          "pricing": {
-            "price": 12,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "g",
-              "si": {
-                "symbol": "kg",
-                "factor": 0.001
-              }
-            },
-            "size": {
-              "from": 500,
-              "to": 500
-            },
-            "pieces": {
-              "from": 1,
-              "to": 1,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-14T22:00:00+0000",
-          "run_till": "2026-10-21T21:59:59+0000",
-          "catalog_page": 2
-        },
-        {
           "id": "2jGuOXSPhjkkR0ApTSF0C",
           "heading": "Tulipaner",
           "description": "Bundt med 7 stk. 35 cm. Bdt.-pris 25,00. Flere farver. 1 bundt.",
@@ -5318,38 +5350,6 @@
             "size": {
               "from": 1,
               "to": 1
-            },
-            "pieces": {
-              "from": 1,
-              "to": 1,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-14T22:00:00+0000",
-          "run_till": "2026-10-21T21:59:59+0000",
-          "catalog_page": 2
-        },
-        {
-          "id": "YQ7VeKcoJO04iBVLdNCUg",
-          "heading": "Riberhus eller Castello Aged Havarti",
-          "description": "Min. 400 g. Kg-pris maks. 112,50. 1 stk.",
-          "pricing": {
-            "price": 45,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "g",
-              "si": {
-                "symbol": "kg",
-                "factor": 0.001
-              }
-            },
-            "size": {
-              "from": 400,
-              "to": 400
             },
             "pieces": {
               "from": 1,
@@ -5779,38 +5779,6 @@
           "catalog_page": 7
         },
         {
-          "id": "bA5yAdiB2dg41x3xl6lpm",
-          "heading": "Pringles chips",
-          "description": "160-165 g. Kg-pris maks. 75,00. 1 rør.",
-          "pricing": {
-            "price": 12,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "g",
-              "si": {
-                "symbol": "kg",
-                "factor": 0.001
-              }
-            },
-            "size": {
-              "from": 160,
-              "to": 165
-            },
-            "pieces": {
-              "from": 1,
-              "to": 1,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-14T22:00:00+0000",
-          "run_till": "2026-10-21T21:59:59+0000",
-          "catalog_page": 7
-        },
-        {
           "id": "Vjr_4DHLh1fAFdywP1oQA",
           "heading": "Coop nice & soft toiletpapir eller soft & strong køkkenrulle",
           "description": "4-6 rl. 535-582 g Kg-pris maks. 22,43. 1 pakke.",
@@ -5830,6 +5798,38 @@
             "size": {
               "from": 1,
               "to": 1
+            },
+            "pieces": {
+              "from": 1,
+              "to": 1,
+              "min": null,
+              "max": null
+            }
+          },
+          "run_from": "2026-10-14T22:00:00+0000",
+          "run_till": "2026-10-21T21:59:59+0000",
+          "catalog_page": 7
+        },
+        {
+          "id": "bA5yAdiB2dg41x3xl6lpm",
+          "heading": "Pringles chips",
+          "description": "160-165 g. Kg-pris maks. 75,00. 1 rør.",
+          "pricing": {
+            "price": 12,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "g",
+              "si": {
+                "symbol": "kg",
+                "factor": 0.001
+              }
+            },
+            "size": {
+              "from": 160,
+              "to": 165
             },
             "pieces": {
               "from": 1,
@@ -7955,38 +7955,6 @@
           "catalog_page": 20
         },
         {
-          "id": "Zy2Aw6-cJQPj1VpVpouP9",
-          "heading": "Dumle kiks eller Moomin kiks choco",
-          "description": "120-175 g. Kg-pris maks. 125,00. 1 pakke.",
-          "pricing": {
-            "price": 15,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "g",
-              "si": {
-                "symbol": "kg",
-                "factor": 0.001
-              }
-            },
-            "size": {
-              "from": 120,
-              "to": 175
-            },
-            "pieces": {
-              "from": 1,
-              "to": 1,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-14T22:00:00+0000",
-          "run_till": "2026-10-21T21:59:59+0000",
-          "catalog_page": 21
-        },
-        {
           "id": "l9jNrK0li63kiZpM2TaMA",
           "heading": "Riskager med chokolade",
           "description": "60-70 g. Kg-pris maks. 250,00. 1 stk.",
@@ -8019,11 +7987,11 @@
           "catalog_page": 21
         },
         {
-          "id": "UnZrajBYSBst1v5vAIv_0",
-          "heading": "Bottles skum eller Mamba karameller",
-          "description": "140-150 g. Kg-pris maks. 142,86. 1 pose.",
+          "id": "Zy2Aw6-cJQPj1VpVpouP9",
+          "heading": "Dumle kiks eller Moomin kiks choco",
+          "description": "120-175 g. Kg-pris maks. 125,00. 1 pakke.",
           "pricing": {
-            "price": 20,
+            "price": 15,
             "pre_price": null,
             "currency": "DKK"
           },
@@ -8036,8 +8004,8 @@
               }
             },
             "size": {
-              "from": 140,
-              "to": 150
+              "from": 120,
+              "to": 175
             },
             "pieces": {
               "from": 1,
@@ -8069,6 +8037,38 @@
             },
             "size": {
               "from": 120,
+              "to": 150
+            },
+            "pieces": {
+              "from": 1,
+              "to": 1,
+              "min": null,
+              "max": null
+            }
+          },
+          "run_from": "2026-10-14T22:00:00+0000",
+          "run_till": "2026-10-21T21:59:59+0000",
+          "catalog_page": 21
+        },
+        {
+          "id": "UnZrajBYSBst1v5vAIv_0",
+          "heading": "Bottles skum eller Mamba karameller",
+          "description": "140-150 g. Kg-pris maks. 142,86. 1 pose.",
+          "pricing": {
+            "price": 20,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "g",
+              "si": {
+                "symbol": "kg",
+                "factor": 0.001
+              }
+            },
+            "size": {
+              "from": 140,
               "to": 150
             },
             "pieces": {
@@ -8499,38 +8499,6 @@
           "catalog_page": 25
         },
         {
-          "id": "C-EEopPB3nMCxGKXUQncE",
-          "heading": "Bakkegårdens julekager",
-          "description": "275-400 g. Kg-pris maks. 43,64. 1 pakke.",
-          "pricing": {
-            "price": 12,
-            "pre_price": null,
-            "currency": "DKK"
-          },
-          "quantity": {
-            "unit": {
-              "symbol": "g",
-              "si": {
-                "symbol": "kg",
-                "factor": 0.001
-              }
-            },
-            "size": {
-              "from": 275,
-              "to": 400
-            },
-            "pieces": {
-              "from": 1,
-              "to": 1,
-              "min": null,
-              "max": null
-            }
-          },
-          "run_from": "2026-10-14T22:00:00+0000",
-          "run_till": "2026-10-21T21:59:59+0000",
-          "catalog_page": 25
-        },
-        {
           "id": "a_sYy_sQ9xUCYshr0s9tr",
           "heading": "Gullón Pick Crackers",
           "description": "250 g. Kg-pris 48,00. 1 stk.",
@@ -8550,6 +8518,38 @@
             "size": {
               "from": 250,
               "to": 250
+            },
+            "pieces": {
+              "from": 1,
+              "to": 1,
+              "min": null,
+              "max": null
+            }
+          },
+          "run_from": "2026-10-14T22:00:00+0000",
+          "run_till": "2026-10-21T21:59:59+0000",
+          "catalog_page": 25
+        },
+        {
+          "id": "C-EEopPB3nMCxGKXUQncE",
+          "heading": "Bakkegårdens julekager",
+          "description": "275-400 g. Kg-pris maks. 43,64. 1 pakke.",
+          "pricing": {
+            "price": 12,
+            "pre_price": null,
+            "currency": "DKK"
+          },
+          "quantity": {
+            "unit": {
+              "symbol": "g",
+              "si": {
+                "symbol": "kg",
+                "factor": 0.001
+              }
+            },
+            "size": {
+              "from": 275,
+              "to": 400
             },
             "pieces": {
               "from": 1,
@@ -9203,9 +9203,9 @@
           "catalog_page": 28
         },
         {
-          "id": "_Q4oaz7yNuea407K8TVpt",
-          "heading": "Stabletårn",
-          "description": "Regnbuefarvet med 9 ringe. 1 stk.",
+          "id": "9cTrPu1KVdMB2x4nsMDo4",
+          "heading": "Bamse med babytæppe",
+          "description": "Vælge mellem 2 varianter. 100 x 75 cm. Flere varianter. 1 stk.",
           "pricing": {
             "price": 75,
             "pre_price": null,
@@ -9235,9 +9235,9 @@
           "catalog_page": 28
         },
         {
-          "id": "9cTrPu1KVdMB2x4nsMDo4",
-          "heading": "Bamse med babytæppe",
-          "description": "Vælge mellem 2 varianter. 100 x 75 cm. Flere varianter. 1 stk.",
+          "id": "_Q4oaz7yNuea407K8TVpt",
+          "heading": "Stabletårn",
+          "description": "Regnbuefarvet med 9 ringe. 1 stk.",
           "pricing": {
             "price": 75,
             "pre_price": null,
