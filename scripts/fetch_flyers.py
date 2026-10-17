@@ -77,6 +77,36 @@ def netto_leaflets(source):
     raise ValueError('Netto: official page no longer exposes its leaflet list')
 
 
+def fetch_products(catalog, key, store):
+    """Read actual pages of products; the catalogue's summary count is advisory."""
+    offers = {}
+    for offset in range(0, 10000, 100):
+        params = {'dealer_id': catalog['dealer_id'], 'catalog_id': catalog['id'],
+                  'types': 'paged', 'order_by': 'page', 'offset': offset, 'limit': 100}
+        batch = api('/v2/offers?' + urllib.parse.urlencode(params), key)
+        if not isinstance(batch, list):
+            raise ValueError(store + ': invalid publisher product response')
+        before = len(offers)
+        for product in batch:
+            if not isinstance(product.get('id'), str) or not product['id']:
+                raise ValueError(store + ': publisher product has no ID')
+            if product['id'] in offers and offers[product['id']] != product:
+                raise ValueError(store + ': conflicting publisher product data')
+            offers[product['id']] = product
+        if len(batch) < 100:
+            break
+        if len(offers) == before:
+            raise ValueError(store + ': publisher product pagination does not advance')
+    else:
+        raise ValueError(store + ': publisher product pagination exceeds safety limit')
+    expected = catalog.get('offer_count', 0)
+    if expected and not offers:
+        raise ValueError(store + ': publisher returned no product data')
+    if len(offers) != expected:
+        print(f'::warning::{store}: publisher summary lists {expected} offers; product API returned {len(offers)}. Only returned products can be verified; complete flyer images are checked separately.', flush=True)
+    return list(offers.values())
+
+
 def discover(store, url):
     key = os.environ.get('TJEK_API_KEY')
     source = get(url).decode('utf-8')
@@ -97,12 +127,7 @@ def discover(store, url):
             if not active(c) or not weekly_catalog(c):
                 c = select_primary_catalog(api('/v2/catalogs?' + urllib.parse.urlencode({'dealer_id': c['dealer_id']}), key), store)
         pages = api('/v2/catalogs/' + c['id'] + '/pages', key)
-        offers = []
-        for offset in range(0, c['offer_count'], 100):
-            params = {'dealer_id': c['dealer_id'], 'catalog_id': c['id'], 'types': 'paged', 'order_by': 'page', 'offset': offset, 'limit': 100}
-            offers.extend(api('/v2/offers?' + urllib.parse.urlencode(params), key))
-        if len({o['id'] for o in offers}) != c['offer_count']:
-            raise ValueError(store + ': incomplete publisher product data')
+        offers = fetch_products(c, key, store)
     if len(pages) != c['page_count'] or not pages:
         raise ValueError(store + ': incomplete publisher page list')
     evidence = []
@@ -112,7 +137,9 @@ def discover(store, url):
         evidence.append({k: o[k] for k in ('id', 'heading', 'description', 'pricing', 'quantity', 'run_from', 'run_till', 'catalog_page')})
     return {'store': store, 'catalogId': c['id'], 'label': c['label'], 'sourceUrl': url,
             'validFrom': c['run_from'], 'validTo': c['run_till'], 'pageCount': c['page_count'],
-            '_pages': pages, 'products': evidence}
+            '_pages': pages, 'products': evidence,
+            'productData': {'status': ('unavailable' if store == 'Netto' else 'complete' if len(evidence) == c['offer_count'] else 'partial'),
+                            'declaredCount': c['offer_count'], 'receivedCount': len(offers), 'indexedCount': len(evidence)}}
 
 
 def verify_page(job):
